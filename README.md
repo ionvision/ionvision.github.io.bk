@@ -1,4 +1,4 @@
-jastarex.github.com
+jastarex.github.io
 ===================
 
 Blog of Xuejian Rong

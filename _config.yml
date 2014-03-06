@@ -1,0 +1,10 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://deblurlife.com
+author: Xuejian Rong
+pygments: true
+
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-47201105-1'
