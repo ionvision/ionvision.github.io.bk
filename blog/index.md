@@ -1,5 +1,5 @@
 ---
-title: Computer Vision, Image Processing and Machine Learning
+title: Machine Learning and Computational Photography
 layout: page
 ---
 
