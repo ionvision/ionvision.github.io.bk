@@ -190,7 +190,7 @@ An [example][]
 ![Example](path/to/image.jpg "Title")
 ```
 
-![Example](http://deblurlife.com/avatar.jpg)
+![Example](/avatar.jpg)
 
 > **Note**:
 - "Title" is optional here.
