@@ -4,13 +4,8 @@ title: About
 comments: no
 ---
 # Who am I?
-<<<<<<< HEAD
-一个现于纽约读书的安徽人。本科曾囿于航天专业，后发觉兴趣所在，投身机器视觉与机器学习领域。喜爱新鲜事物与美味食物，热爱户外运动与开源运动。
-=======
-一个在纽约读书的安徽人。本科曾囿于航天专业，后发觉兴趣所在，投身机器视觉与机器学习领域。
 
-I am Xuejian Rong, a PhD candidate in [Media Lab](http://media-lab.engr.ccny.cuny.edu) of [The City College](http://www.ccny.cuny.edu), [City University of New York](http://cuny.edu). I am working with [Prof. Yingli Tian](http://www-ee.ccny.cuny.edu/www/web/yltian/home.html) in the area of `Machine Learning` and `Computational Photography`, especially on deblurring, denoising and enhancement algorithms.
->>>>>>> FETCH_HEAD
+一个在纽约读书的安徽人。本科曾囿于航天专业，后发觉兴趣所在，投身机器视觉与机器学习领域。
 
 
 # Who I respect?
