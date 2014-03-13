@@ -9,11 +9,10 @@ Following is my recommendation of reading list for beginners in Computer Vision 
 ###General Tutorials:
 
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/), by Richard Szeliski.
->Electronic draft included
 
 - [Digital Image Processing, 3rd Edition](http://www.imageprocessingplace.com/DIP-3E/dip3e_main_page.htm), by Rafael C. Gonzalez.
 
-
+<br>
 
 ###Application Tutorials:
 
@@ -21,19 +20,17 @@ Following is my recommendation of reading list for beginners in Computer Vision 
 
 
 - [Mastering OpenCV with Practical Computer Vision Projects](http://www.amazon.com/Mastering-OpenCV-Practical-Computer-Projects/dp/1849517827), by Daniel Baggio.
->(beginner friendly)
 
-
+<br>
 
 ###Math Review:
 
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/), by Jim Hefferon.
 
->Electronic draft included
 
 - [Probability and Stochastic Processes](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000391.html), by Roy D. Yates.
 
-
+<br>
 
 ###MOOC on Coursera:
 
@@ -46,7 +43,7 @@ Following is my recommendation of reading list for beginners in Computer Vision 
 
 >Great course, strongly recommend
 
-
+<br>
 
 ###Extra Machine Learning Tutorial in Chinese:
 - [统计学习方法](http://book.douban.com/subject/10590856/), 李航.
