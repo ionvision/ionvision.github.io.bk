@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research
+comments: no
+---
+
 Following is my recommendation reading list for beginners in CV area.
 
 General Tutorials:
