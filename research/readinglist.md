@@ -4,7 +4,7 @@ title: Reading list for beginners in Computer Vision area
 comments: no
 ---
 
-Following is my recommendation of reading list for beginners in Computer Vision area.
+`Following is my recommendation of reading list for beginners in Computer Vision area.`
 
 ###General Tutorials:
 
