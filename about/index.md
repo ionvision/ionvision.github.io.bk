@@ -3,6 +3,10 @@ layout: page
 title: About
 comments: no
 ---
+
+<object width="400" height="30" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.douban.com/swf/player.swf?url=MP3文件URL&amp;autoplay=0" /><param name="wmode" value="transparent" /><param name="allowscriptaccess" value="always" /><embed width="400" height="30" type="application/x-shockwave-flash" src="http://www.douban.com/swf/player.swf?url=http://www.cadyfinlaysonfiddle.com/audio/05_March_Foxhunters_Martin_Wynne_s__mastering_sample__hifi.m3u&amp;autoplay=0" wmode="transparent" allowscriptaccess="always" /></object>
+
+
 # Who am I?
 
 一个在纽约读书的安徽人。本科曾囿于航天专业，后发觉兴趣所在，投身机器视觉与机器学习领域。
