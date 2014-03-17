@@ -4,7 +4,7 @@ title: About
 comments: no
 ---
 
-<object width="400" height="30" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.douban.com/swf/player.swf?url=MP3文件URL&amp;autoplay=0" /><param name="wmode" value="transparent" /><param name="allowscriptaccess" value="always" /><embed width="400" height="30" type="application/x-shockwave-flash" src="http://www.douban.com/swf/player.swf?url=/media/music/March Set.m4a&amp;autoplay=0" wmode="transparent" allowscriptaccess="always" /></object>
+<object width="400" height="30" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.douban.com/swf/player.swf?url=MP3文件URL&amp;autoplay=0" /><param name="wmode" value="transparent" /><param name="allowscriptaccess" value="always" /><embed width="400" height="30" type="application/x-shockwave-flash" src="http://www.douban.com/swf/player.swf?url=/media/music/March_Set.m4a&amp;autoplay=0" wmode="transparent" allowscriptaccess="always" /></object>
 
 
 # Who am I?
