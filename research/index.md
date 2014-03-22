@@ -4,7 +4,7 @@ title: Research
 comments: no
 ---
 
-Here's my recommendation of [Reading List](/research/readinglist) for beginners of Computer Vision Area.
+Here's my recommendation of [Reading List for beginners of Computer Vision Area](/research/readinglist).
 
 Following is a selected list of my publications.
 
