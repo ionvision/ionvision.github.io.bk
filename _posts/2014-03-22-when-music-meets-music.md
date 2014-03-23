@@ -10,4 +10,4 @@ title: When music meets music
 
 <iframe src="//instagram.com/p/l3s0oPQXNn/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
-独立歌者与大牌艺人，都有属于自己的舞台与观众，纽约的妙处就在于此了。而同一个城市中拥有形形色色背景，做着形形色色的事，乃至相互之间几乎没有交集的人，却在歌声中又常常能达成惊人的共情与共识，音乐的意义也在于此了。
+独立歌者与大牌艺人，都有属于自己的舞台与观众，纽约的妙处就在于此了。而同一个城市中拥有形形色色背景，做着形形色色的事，乃至相互之间几乎没有交集的人，却在歌声中竟常常能达成惊人的共情与共识，音乐的意义也在于此了。
