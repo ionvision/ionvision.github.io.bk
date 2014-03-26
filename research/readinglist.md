@@ -45,5 +45,6 @@ comments: no
 
 <br>
 
-###Extra Machine Learning Tutorial in Chinese:
+###Extra Machine Learning Tutorial:
 - [统计学习方法](http://book.douban.com/subject/10590856/), 李航.
+- [Machine Learning in Action](http://www.manning.com/pharrington/), Peter Harrington.
