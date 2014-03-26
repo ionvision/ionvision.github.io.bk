@@ -1,4 +1,4 @@
 ---
 layout: post
-title: 灼灼其华，宜室宜家
+title: 宜室宜家
 ---
