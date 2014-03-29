@@ -31,6 +31,10 @@ Email: xrong000 [at] citymail [dot] cuny [dot] edu
 
 Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
 
+＃Links
+
+[Xiaodong Yang](http://yangxd.org)
+
 
 
 [张驰原 Chiyuan Zhang]: http://freemind.pluskid.org/
