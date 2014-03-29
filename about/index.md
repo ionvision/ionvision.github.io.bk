@@ -41,5 +41,5 @@ Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
 [木遥 Farmostwood]: http://blog.farmostwood.net
 [古典乐]: http://blog.farmostwood.net/305.html
 [我为什么是一个悲观主义者]: http://blog.farmostwood.net/697.html
-[Chucai Yi]: http:media-lab.engr.ccny.cuny.edu/~cyi
+[Chucai Yi]: http://media-lab.engr.ccny.cuny.edu/~cyi
 [Xiaodong Yang]: http://yangxd.org
