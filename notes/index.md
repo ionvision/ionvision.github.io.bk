@@ -22,4 +22,4 @@ It's worth noting that some contents may be biased by my personal preference.
 ----------
 #Installation
 
-[Sip Installation](/note/sip-installation)
+[Sip Installation](/notes/sip-installation)
