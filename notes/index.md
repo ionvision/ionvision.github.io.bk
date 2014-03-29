@@ -4,9 +4,13 @@ layout: page
 comments: no
 ---
 
-Syntax
+Here I record some of my notes about research & design & coding. Some of those might be helpful for others. It's worth noting that some contents may be biased by my personal preference.
+
 ----------
-[Markdown Syntax Notebook](/notes/markdown-syntax)
+
+##Syntax
+
+[Markdown Notebook](/notes/markdown-syntax)
 
 
 
