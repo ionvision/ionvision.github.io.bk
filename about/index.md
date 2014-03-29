@@ -8,10 +8,6 @@ comments: no
 
 ###[#Calendar#](/about/calendar)
 
-# Who am I?
-
-一个在纽约读书的安徽人。本科曾囿于航天专业，后发觉兴趣所在，投身机器视觉与机器学习领域。
-
 ----------
 
 #Contact
