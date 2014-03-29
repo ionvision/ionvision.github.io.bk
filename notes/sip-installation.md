@@ -1,6 +1,6 @@
 ---
-title: Notes
-layout: Installation of Sip for PyQt
+title: Installation of Sip for PyQt
+layout: page
 comments: no
 ---
 
