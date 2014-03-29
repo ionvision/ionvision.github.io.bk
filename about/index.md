@@ -32,7 +32,7 @@ Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
 
 #Links
 
-[Xiaodong Yang](http://yangxd.org)
+[#Xiaodong Yang](http://yangxd.org)
 
 
 
