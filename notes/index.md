@@ -12,10 +12,14 @@ It's worth noting that some contents may be biased by my personal preference.
 
 #Syntax
 
-[Markdown Notebook](/notes/markdown-syntax)
+[Markdown Notebook](/notes/markdown-notebook)
 
 
 
 
 
 ----------
+
+#Installation
+
+[Sip Installation](/note/sip-installation)
