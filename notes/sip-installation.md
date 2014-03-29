@@ -18,9 +18,9 @@ SIP comprises a code generator and a Python module. The code generator processes
 Installation
 ---------
 
-```
+{% highlight bash %}
 $ cd ~/Downloads/sip-4.15.5/
 $ python configure.py
 $ make
 $ sudo make install
-```
+{% endhighlight %}
