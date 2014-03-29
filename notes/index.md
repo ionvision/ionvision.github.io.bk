@@ -9,17 +9,21 @@ Here I record some of my notes about `research` & `design` & `coding`. Some of t
 It's worth noting that some contents may be biased by my personal preference.
 
 ----------
+#The Setup
 
+[The Setup Interviews](http://usesthis.com/)
+
+[My Setup](/notes/setup)
+
+
+----------
 #Syntax
 
-[Markdown Notebook](/notes/markdown-notebook)
-
-
+[Markdown Notebook](/notes/markdown-syntax)
 
 
 
 ----------
-
 #Installation
 
 [Sip Installation](/note/sip-installation)
