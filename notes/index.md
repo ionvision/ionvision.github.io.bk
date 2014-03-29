@@ -11,8 +11,6 @@ It's worth noting that some contents may be biased by my personal preference.
 ----------
 #The Setup
 
-[The Setup Interviews](http://usesthis.com/)
-
 [My Setup](/notes/setup)
 
 
