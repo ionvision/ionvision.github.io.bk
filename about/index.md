@@ -23,6 +23,15 @@ comments: no
 
 - [木遥 Farmostwood][]: Google NYC Engineer，很有趣的生活博客，有一段时间很喜欢去听他放在博文里的[古典乐][]。最近很喜欢的一篇是：“[我为什么是一个悲观主义者][]”
 
+#Contact
+
+Tel: (212) 650-8917
+
+Email: xrong000 [at] citymail [dot] cuny [dot] edu
+
+Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
+
+
 
 [张驰原 Chiyuan Zhang]: http://freemind.pluskid.org/
 [谢益辉 Yihui Xie]: http://yihui.name
