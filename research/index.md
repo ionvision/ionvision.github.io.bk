@@ -6,6 +6,8 @@ comments: no
 
 Here's my recommendation of [Reading List for beginners of Computer Vision Area](/research/readinglist).
 
+----------
+
 Following is a selected list of my publications.
 
 <br>
