@@ -12,7 +12,6 @@ comments: no
 
 一个在纽约读书的安徽人。本科曾囿于航天专业，后发觉兴趣所在，投身机器视觉与机器学习领域。
 
-
 # People Who I respect
 
 排名不分先后。
@@ -31,7 +30,7 @@ Email: xrong000 [at] citymail [dot] cuny [dot] edu
 
 Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
 
-＃Links
+#Links
 
 [Xiaodong Yang](http://yangxd.org)
 
