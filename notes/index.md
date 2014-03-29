@@ -9,7 +9,7 @@ Here I record some of my notes about `research` & `design` & `coding`. Some of t
 It's worth noting that some contents may be biased by my personal preference.
 
 ----------
-#[The Setup](/notes/setup)
+##[The Setup](/notes/setup)
 
 
 ----------
