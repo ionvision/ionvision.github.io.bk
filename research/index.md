@@ -4,6 +4,10 @@ title: Research
 comments: no
 ---
 
+##[Paper Reading List](/research/paper-reading)
+
+----------
+
 Here's my recommendation of [Reading List for beginners of Computer Vision Area](/research/readinglist).
 
 ----------
