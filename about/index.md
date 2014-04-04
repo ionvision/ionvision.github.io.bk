@@ -37,3 +37,5 @@ Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
 - [木遥 Farmostwood](http://blog.farmostwood.net)
 - [易楚才 Chucai Yi](http://media-lab.engr.ccny.cuny.edu/~cyi)
 - [杨晓东 Xiaodong Yang](http://yangxd.org)
+- [张辰阳 Chenyang Zhang](http://media-lab.engr.ccny.cuny.edu/~zcy)
+- [咸阳 Yang Xian](http://media-lab.engr.ccny.cuny.edu/~yxian)
