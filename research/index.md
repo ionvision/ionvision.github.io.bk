@@ -4,7 +4,7 @@ title: Research
 comments: no
 ---
 
-###[Paper Reading List](/research/paper-reading)
+###|[Paper Reading List](/research/paper-reading)|Academic Writing
 
 ----------
 
