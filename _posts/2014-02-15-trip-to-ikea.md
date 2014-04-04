@@ -23,12 +23,12 @@ title: 曼屯浮舟
 
 <br>
 
-兴尽晚回舟，误入浮桥深处，且住，且住，尚有due无数.:b
+兴尽晚回舟，误入浮桥深处，且住，且住，尚有due无数:b
 
 <iframe src="//instagram.com/p/mWzd_VQXF1/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 <br>
 
->惜甚么琉璃冰盏，沉香锦屑。念甚么雅色清音，歌台舞榭。徙倚云日，裴回风月，只有数据才是你的亲爹。-- 本冰
+>惜甚么琉璃冰盏，沉香锦屑。念甚么雅色清音，歌台舞榭。徙倚云日，裴回风月，只有数据才是你的亲爹。---- 本冰
 
 今日最佳，哈哈。
