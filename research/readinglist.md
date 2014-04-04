@@ -21,6 +21,8 @@ comments: no
 
 - [Mastering OpenCV with Practical Computer Vision Projects](http://www.amazon.com/Mastering-OpenCV-Practical-Computer-Projects/dp/1849517827), by Daniel Baggio.
 
+- [OpenCV 2 Computer Vision Application Programming Cookbook](http://www.laganiere.name/opencvCookbook/), by Robert Laganiere.
+
 <br>
 
 ###Math Review:
