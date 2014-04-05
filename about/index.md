@@ -12,9 +12,9 @@ comments: no
 
 #The Setup
 
-I love the [The Setup Interviews](http://usesthis.com/)
+I love the [THE SETUP Interviews](http://usesthis.com/)
 
-Here's my [setup](/about/setup).
+Here's my [SETUP](/about/setup).
 
 ----------
 
