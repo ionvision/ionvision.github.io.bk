@@ -4,7 +4,7 @@ title: Academic Writing Notes
 comments: no
 ---
 
-| The Academic Writing MOOC: [SciWrite Writing in the SciencesDashboard ](https://class.stanford.edu/courses/Medicine/SciWrite/Fall2013/info) from Stanford is very helpful.
+The Academic Writing MOOC: [SciWrite Writing in the Sciences](https://class.stanford.edu/courses/Medicine/SciWrite/Fall2013/info) from Stanford is very helpful.
 
 ----------
 
@@ -14,7 +14,7 @@ comments: no
 
 ### 1. Keywords
 origin | better
---------|--------
+--------|:--------
 show | demonstrate
 using | based on
 
