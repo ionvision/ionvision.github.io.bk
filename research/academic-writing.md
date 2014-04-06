@@ -5,6 +5,7 @@ comments: no
 ---
 
 | The Academic Writing MOOC: [SciWrite Writing in the SciencesDashboard ](https://class.stanford.edu/courses/Medicine/SciWrite/Fall2013/info) from Stanford is very helpful.
+
 ----------
 
 ##ICME 2014 Revision:
