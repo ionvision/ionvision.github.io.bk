@@ -18,6 +18,7 @@ origin | better
 show | demonstrate
 using | based on
 
+<br>
 
 ### 2. Sentences
 
@@ -25,8 +26,9 @@ using | based on
 
 - ~~In the~~**Our** future work~~, we~~ will focus on the design of more robust fusion methods to...
 
+<br>
 
-### 3. Experiences
+### 3. Tenses
 
 - Simple Present Tense is much better than other tenses when **presenting** the contributions and solid methods. **"will be"**, **"might be"** and **"need to"** should be avoided.
 
