@@ -16,9 +16,9 @@ The Academic Writing MOOC: [SciWrite Writing in the Sciences](https://class.stan
 
 **original -> better**
 
-show -> demonstrate
+- show -> demonstrate
 
-using -> based on
+- using -> based on
 
 <br>
 
@@ -34,6 +34,7 @@ using -> based on
 
 - Simple Present Tense is much better than other tenses when **presenting** the contributions and solid methods. **"will be"**, **"might be"** and **"need to"** should be avoided.
 
+Example:
 > In text recognition, we ~~need~~ **first** ~~to have a solution of~~ **solve** the STC prediction.
 
 ----------
