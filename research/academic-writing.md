@@ -3,5 +3,27 @@ layout: page
 title: Academic Writing Notes
 comments: no
 ---
-ICME 2014 Revision:
-1.
+
+
+
+##ICME 2014 Revision:
+
+### 1. Keywords
+origin | replacement
+--- | ---
+show | demonstrate
+using | based on
+
+
+### 2. Sentences
+
+- According to our ~~current~~ literature review, there is no ~~related~~ **similar** work of scene text recognition in video.
+
+- ~~In the~~Our future work~~, we~~ will focus on the design of more robust fusion methods to...
+
+
+### 3. Experiences
+
+- Simple Present Tense is much better than other tenses when **presenting** the contributions and solid methods. **"will be"**, **"might be"** and **"need to"** should be avoided.
+
+> In text recognition, we ~~need~~ **first** ~~to have a solution of~~ **solve** the STC prediction.
