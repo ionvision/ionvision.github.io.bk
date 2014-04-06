@@ -8,7 +8,7 @@ The Academic Writing MOOC: [SciWrite Writing in the Sciences](https://class.stan
 
 ----------
 
-##ICME 2014 Revision:
+##ICME 2014 Paper Revision:
 
 <br>
 
