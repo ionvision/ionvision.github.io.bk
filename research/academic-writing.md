@@ -22,7 +22,7 @@ using | based on
 
 - According to our ~~current~~ literature review, there is no ~~related~~ **similar** work of scene text recognition in video.
 
-- ~~In the~~Our future work~~, we~~ will focus on the design of more robust fusion methods to...
+- ~~In the~~**Our** future work~~, we~~ will focus on the design of more robust fusion methods to...
 
 
 ### 3. Experiences
