@@ -13,8 +13,9 @@ The Academic Writing MOOC: [SciWrite Writing in the Sciences](https://class.stan
 <br>
 
 ### 1. Keywords
-origin  |    better
---------|:--------
+
+origin -> better
+
 show    |    demonstrate
 using   |    based on
 
