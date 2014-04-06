@@ -11,7 +11,7 @@ title: 曼屯浮舟
 
 <br>
 
-从码头登船，二十分钟后便到了布鲁克林的宜家码头，旅途中海风袭袭，近可欣赏skyline，远可眺望女神。
+从码头登船，二十分钟后便到了布鲁克林的宜家码头，旅途中海风袭袭，skyline和远处的自由女神相映成辉。
 
 <iframe src="//instagram.com/p/mWzlTbwXF5/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
