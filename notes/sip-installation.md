@@ -15,6 +15,8 @@ SIP comprises a code generator and a Python module. The code generator processes
 
 [Intro](http://www.riverbankcomputing.com/software/sip/intro) | [Download](http://www.riverbankcomputing.com/software/sip/download)
 
+----------
+
 Installation
 ---------
 
