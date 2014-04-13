@@ -17,9 +17,10 @@ Adobe Source Code Pro font is nice!
 
 1.Download the archive from here. You can do it also using wget: Open a terminal (ctrl-alt-t or press the win key and type "terminal") and type
 
-```bash
+{% highlight bash %}
 wget http://downloads.sourceforge.net/project/sourcecodepro.adobe/SourceCodePro_FontsOnly-1.017.zip
-```
+{% endhighlight %}
+
 ---------------
 
 2.Unzip the archive (you can use Nautilus for that, or use the following command).
@@ -60,7 +61,7 @@ Your font is now ready to use and the applications should be able to see it.
 
 All in one script for those who simply want to copy/paste the answer
 
-```bash
+{% highlight bash %}
 #!/bin/bash
 mkdir /tmp/adodefont
 cd /tmp/adodefont
@@ -69,7 +70,12 @@ unzip SourceCodePro_FontsOnly-1.017.zip
 mkdir -p ~/.fonts
 cp SourceCodePro_FontsOnly-1.017/OTF/*.otf ~/.fonts
 fc-cache -f -v
-```
+{% endhighlight %}
+
+
+<script src="https://gist.github.com/jastarex/0738f7d4b3b075b85e73.js"></script>
+
+
 If you want to install system wide instead of per user, copy the files to `/usr/local/share/fonts/`
 instead of `~/.fonts/`.
 
