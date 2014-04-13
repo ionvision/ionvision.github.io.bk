@@ -25,17 +25,17 @@ wget http://downloads.sourceforge.net/project/sourcecodepro.adobe/SourceCodePro_
 
 2.Unzip the archive (you can use Nautilus for that, or use the following command).
 
-```bash
+{% highlight bash %}
 unzip SourceCodePro_FontsOnly-1.017.zip
-```
+{% endhighlight %}
 
 ---------------
 
 3.Create a directory in your home directory called ".fonts" (either go to home in Nautilus and create a new folder, or type the following from the terminal)
 
-```bash
+{% highlight bash %}
 mkdir -p ~/.fonts
-```
+{% endhighlight %}
 
 If you already have that directory, don't worry.
 
@@ -43,15 +43,18 @@ If you already have that directory, don't worry.
 
 4.Move the Open Type fonts (*.otf) to the newly created .fonts directory. In command line, that would be
 
-```bash
+{% highlight bash %}
 cp SourceCodePro_FontsOnly-1.017/OTF/*.otf ~/.fonts/
-```
+{% endhighlight %}
+
 ---------------
 
 5.If you haven't done it yet, open a terminal, and type
-```
+
+{% highlight bash %}
 fc-cache -f -v
-```
+{% endhighlight %}
+
 
 Your font is now ready to use and the applications should be able to see it.
 
@@ -71,9 +74,6 @@ mkdir -p ~/.fonts
 cp SourceCodePro_FontsOnly-1.017/OTF/*.otf ~/.fonts
 fc-cache -f -v
 {% endhighlight %}
-
-
-<script src="https://gist.github.com/jastarex/0738f7d4b3b075b85e73.js"></script>
 
 
 If you want to install system wide instead of per user, copy the files to `/usr/local/share/fonts/`
