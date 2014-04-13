@@ -11,7 +11,7 @@ It's worth noting that some contents may be biased by my personal preference.
 ----------
 #Syntax
 
-- [Markdown Notebook](/notes/markdown-syntax)
+- [Markdown Syntax](/notes/markdown-syntax)
 
 
 
