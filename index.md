@@ -7,7 +7,7 @@ I am [Xuejian Rong](http://media-lab.engr.ccny.cuny.edu/~xrong), a PhD candidate
 
 From everyday snapshots to scientific imaging area, photographs are inevitably affected by different kinds of errors, including blur, noise and other degradations. These errors could be well removed with prior knowledge of the typical image data and the type of corruption.
 
-I'm interested in *extracting and modeling those prior knowledge using machine learning methods*.
+I'm interested in `extracting and modeling those prior knowledge using machine learning methods`.
 
 上面的文字你都懂，我就不翻译了。我是戎雪健，长于徽皖，学于苏南，而后负笈彼岸一去万里，正在通往博士学位的危险道路上越走越远。我热爱美食与折腾美食，喜爱观摩但不常参与团体对抗性运动，不定期跑步，定期健身，暂得腹肌一块，偶尔弹琴，间或学习日语，素描与空手道。[Github](http://github.com)爱好者，[Kickstarter](http://kickstarter.com)投资人，相信开源软件与硬件终将改变世界。对生命的看法赞同博尔赫斯：“死了，就像水消失在水中”。最爱的一句诗是：“桃李春风一杯酒，江湖夜雨十年灯”，最喜欢的一首词是:
 
