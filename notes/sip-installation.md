@@ -1,7 +1,6 @@
 ---
 title: Installation of Sip for PyQt
-layout: page
-comments: no
+layout: post
 ---
 
 Introduction
