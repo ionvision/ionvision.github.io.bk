@@ -13,6 +13,8 @@ Adobe Source Code Pro font is nice!
 
 ##Installation
 
+[#Reference#](http://askubuntu.com/questions/193072/how-to-use-the-new-adobe-source-code-pro-font)
+
 1.Download the archive from here. You can do it also using wget: Open a terminal (ctrl-alt-t or press the win key and type "terminal") and type
 
 ```bash
