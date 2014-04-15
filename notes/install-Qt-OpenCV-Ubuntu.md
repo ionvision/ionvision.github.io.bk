@@ -4,7 +4,7 @@ layout: post
 ---
 
 
-##1. Introduction
+#1. Introduction
 
 OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision.
 
@@ -14,7 +14,7 @@ It's very helpful and powerful to combine OpenCV library and Qt Creator together
 
 -----------------
 
-##2. Installation
+#2. Installation
 
 [#Reference](https://code.google.com/p/qt-opencv-multithreaded/wiki/Documentation)
 
@@ -26,7 +26,7 @@ The installation procedures detailed below have been tested and verified using:
 
 ----------------
 
-###2.1 Installing OpenCV
+##2.1 Installing OpenCV
 1.Open Terminal: Press `Control-Alt-T` to open a Terminal instance.
 
 2.Download and install CMake and other required dependencies (Note: `qt-opencv-multithreaded` requires V4L. Also, Ubuntu 13.04 comes supplied with pkg-config):
@@ -96,7 +96,7 @@ $ sudo ldconfig
 
 -------------------
 
-###2.2 Installing Qt
+##2.2 Installing Qt
 Note: Steps 4 and 5 explain how to configure Qt Creator for use with the OpenCV libraries.
 
 1.Download the latest version of Qt 5 for Linux 32-bit from the Qt website: 
@@ -132,7 +132,7 @@ PKGCONFIG += opencv
 
 ------------------
 
-###2.3 Compiling & running the application
+##2.3 Compiling & running the application
 1.Download the latest stable release of qt-opencv-multithreaded and unpack the downloaded archive: [Downloads](http://code.google.com/p/qt-opencv-multithreaded/downloads/list)
 
 OR
@@ -151,7 +151,7 @@ $ sudo apt-get install libgl1-mesa-dev
 
 -----------------
 
-###2.4 **Test in a new Qt project.**
+##2.4 **Test in a new Qt project.**
 [#Reference](http://stackoverflow.com/questions/17938360/setting-up-opencv-in-qt-creator-ubuntu-12-04)
 
 1.Establish a new Qt Widget Project.
