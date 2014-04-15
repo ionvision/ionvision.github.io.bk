@@ -6,11 +6,11 @@ layout: post
 
 #1. Introduction
 
-OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision.
+`OpenCV` (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision.
 
-Qt is a cross-platform application framework that is widely used for developing application software with a graphical user interface (GUI).
+`Qt` is a cross-platform application framework that is widely used for developing application software with a graphical user interface (GUI).
 
-It's very helpful and powerful to combine OpenCV library and Qt Creator together, especially in Linux environment, since the Visual Studio of Microsoft can only run on Windows.
+It's very helpful and powerful to **combine OpenCV library and Qt Creator together, especially in Linux environment**, since the Visual Studio of Microsoft can only run on Windows.
 
 -----------------
 
