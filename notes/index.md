@@ -23,6 +23,14 @@ It's worth noting that some contents may be biased by my personal preference.
 
 - [Sans Code Pro Font Installation](/notes/sans-code-pro-installation)
 
+
+
+
+
+----------
+
+#Setting Up
+
 - [Setting up OpenCV with Qt Creator in Ubuntu](/notes/install-Qt-OpenCV-Ubuntu)
 
 
