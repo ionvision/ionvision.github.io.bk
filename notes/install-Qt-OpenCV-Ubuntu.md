@@ -20,9 +20,9 @@ It's very helpful and powerful to **combine OpenCV library and Qt Creator togeth
 
 The installation procedures detailed below have been tested and verified using:
 
-- Ubuntu 13.04 32-bit
-- OpenCV 2.4.6.1
-- Qt 5.1 for Linux 32-bit
+- Ubuntu 13.10 64-bit
+- OpenCV 2.4.8
+- Qt 5.2.1 for Linux 64-bit
 
 ----------------
 
