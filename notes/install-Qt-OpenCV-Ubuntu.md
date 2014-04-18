@@ -156,7 +156,7 @@ $ sudo apt-get install libgl1-mesa-dev
 ##2.4 **Test in a new Qt project.**
 [#Reference](http://stackoverflow.com/questions/17938360/setting-up-opencv-in-qt-creator-ubuntu-12-04)
 
-- 1.Establish a new `Qt Widget Project`.
+- 1.Establish a new `Qt Widget Project`, e.g. `OpenCV_test`.
 
 - 2.Paste the following code then click `build`.
 >Note the `#include` and `using namespace` part.
@@ -200,7 +200,7 @@ int main( int argc, char** argv )
 }
 {% endhighlight %}
 
-- 3.Find the executable file, e.g. `OpenCV_test`, in the build fold, e.g. `build_OpenCV_test`. Put a image, e.g. `lena.png`, in this fold, then open the terminal and type in:
+- 3.Find the executable file, e.g. `OpenCV_test`, in the build folder, e.g. `build_OpenCV_test`. Put a image, e.g. `lena.png`, in this folder, then open the terminal and type in:
 
 ```
 $ cd ./path-to/build_OpenCV_test
