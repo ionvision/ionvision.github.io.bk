@@ -38,21 +38,21 @@ $ sudo apt-get install build-essential cmake libv4l-dev pkg-config
 Optional packages:
 
 ```
-libgtk2.0-dev The default GUI backend for highgui on OSes other than Windows and MacOSX.
+**libgtk2.0-dev** The default GUI backend for highgui on OSes other than Windows and MacOSX.
 
-libtiff4-dev For reading and writing TIFF images.
+**libtiff4-dev** For reading and writing TIFF images.
 
-libjasper-dev Library for the coding and manipulation of images (e.g. JPEG-2000 format).
+**libjasper-dev** Library for the coding and manipulation of images (e.g. JPEG-2000 format).
 
-libavformat-dev Library containing demuxers and muxers for audio/video container formats.
+**libavformat-dev** Library containing demuxers and muxers for audio/video container formats.
 
-libswscale-dev Library containing video image scaling and colorspace/pixelformat conversion routines.
+**libswscale-dev** Library containing video image scaling and colorspace/pixelformat conversion routines.
 
-libavcodec-dev Library containing all the FFmpeg audio/video encoders and decoders.
+**libavcodec-dev** Library containing all the FFmpeg audio/video encoders and decoders.
 
-libjpeg-dev For reading and writing JPEG images.
+**libjpeg-dev** For reading and writing JPEG images.
 
-libpng-dev For reading and writing PNG images.
+**libpng-dev** For reading and writing PNG images.
 ```
 
 - 3.Download OpenCV for Unix (choose a folder where you wish to download the file to: e.g. home/Downloads):
