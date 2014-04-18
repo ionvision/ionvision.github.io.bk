@@ -189,8 +189,11 @@ int main( int argc, char** argv )
         return -1;
     }
 
-    namedWindow( "Display window", CV_WINDOW_AUTOSIZE );// Create a window for display.
-    imshow( "Display window", image );              // Show our image inside it.
+    // Create a window for display.
+    namedWindow( "Display window", CV_WINDOW_AUTOSIZE );
+
+    // Show our image inside it.
+    imshow( "Display window", image );
 
     waitKey(0);              // Wait for a keystroke in the window
     return 0;
