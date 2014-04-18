@@ -8,7 +8,9 @@ comments: no
 
 ###General Tutorials:
 
-- [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/), by Richard Szeliski.
+- [Computer Vision: A Modern Approach, 2nd Edition](http://luthuli.cs.uiuc.edu/~daf/CV2E-site/cv2eindex.html), by David A. Forsyth.
+
+>*Computer Vision: Algorithms and Applications* by Richard Szeliski is a good manual for reference but not that appropriate for beginners.
 
 - [Digital Image Processing, 3rd Edition](http://www.imageprocessingplace.com/DIP-3E/dip3e_main_page.htm), by Rafael C. Gonzalez.
 
