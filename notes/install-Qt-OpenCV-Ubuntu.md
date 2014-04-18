@@ -200,8 +200,8 @@ int main( int argc, char** argv )
 - 3.Find the executable file, e.g. `OpenCV_test`, in the build fold, e.g. `build_OpenCV_test`. Put a image, e.g. `lena.png`, in this fold, then open the terminal and type in:
 
 ```
-cd ./path-to/build_OpenCV_test
-./OpenCV_test lena.png
+$ cd ./path-to/build_OpenCV_test
+$ ./OpenCV_test lena.png
 ```
 Congratulations! You see the image!
 
