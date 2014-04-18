@@ -8,12 +8,12 @@ Adobe Source Code Pro font is nice!
 
 ---------------
 
-##Introduction
+#1. Introduction
 `Adobe Source Code Pro` is a set of monospaced OpenType fonts designed for coding environments. It's open source and totally free. It can be downloaded [here](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960).
 
 ---------------
 
-##Installation
+#2. Installation
 
 [#Reference#](http://askubuntu.com/questions/193072/how-to-use-the-new-adobe-source-code-pro-font)
 

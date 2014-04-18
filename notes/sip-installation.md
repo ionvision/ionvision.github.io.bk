@@ -3,8 +3,7 @@ title: Installation of Sip for PyQt
 layout: post
 ---
 
-Introduction
-----------
+#1. Introduction
 
 One of the features of Python that makes it so powerful is the ability to take existing libraries, written in C or C++, and make them available as Python extension modules. Such extension modules are often called bindings for the library.
 
@@ -18,8 +17,8 @@ SIP comprises a code generator and a Python module. The code generator processes
 
 ----------
 
-Installation
----------
+#2. Installation
+
 
 {% highlight bash %}
 $ cd ~/Downloads/sip-4.15.5/
