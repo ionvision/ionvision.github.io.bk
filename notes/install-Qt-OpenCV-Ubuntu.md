@@ -161,7 +161,7 @@ $ sudo apt-get install libgl1-mesa-dev
 - 2.Paste the following code then click `build`.
 >Note the `#include` and `using namespace` part.
 
-```
+{% highlight c++ %}
 #include "mainwindow.h"
 #include <QApplication>
 
@@ -195,7 +195,7 @@ int main( int argc, char** argv )
     waitKey(0);              // Wait for a keystroke in the window
     return 0;
 }
-```
+{% endhighlight %}
 
 - 3.Find the executable file, e.g. `OpenCV_test`, in the build fold, e.g. `build_OpenCV_test`. Put a image, e.g. `lena.png`, in this fold, then open the terminal and type in:
 
