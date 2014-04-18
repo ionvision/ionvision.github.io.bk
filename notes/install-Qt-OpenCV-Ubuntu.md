@@ -156,7 +156,7 @@ $ sudo apt-get install libgl1-mesa-dev
 ##2.4 **Test in a new Qt project.**
 [#Reference](http://stackoverflow.com/questions/17938360/setting-up-opencv-in-qt-creator-ubuntu-12-04)
 
-- 1.Establish a new Qt Widget Project.
+- 1.Establish a new `Qt Widget Project`.
 
 - 2.Paste the following code then click `build`.
 >Note the `#include` and `using namespace` part.
