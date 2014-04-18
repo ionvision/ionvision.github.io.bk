@@ -116,6 +116,7 @@ $ ./path_to_downloaded_setup_file
 ```
 LIBS += `pkg-config opencv --libs`
 ```
+
 OR (for Mac OS/X)
 
 ```
