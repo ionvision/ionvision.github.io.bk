@@ -99,7 +99,7 @@ $ sudo ldconfig
 ##2.2 Installing Qt
 Note: Steps 4 and 5 explain how to configure Qt Creator for use with the OpenCV libraries.
 
->You can also directly install Qt Creator with the online installer from [here](http://qt-project.org/downloads). It's much easier and straightforward.
+>You can also directly install Qt Creator with the online installer from [here](http://qt-project.org/downloads). It's much easier and straightforward than the following `step 1 and 2`.
 
 - 1.Download the latest version of Qt 5 for Linux 32/64-bit from the Qt website:
 
