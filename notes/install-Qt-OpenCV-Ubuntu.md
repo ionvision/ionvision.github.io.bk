@@ -207,6 +207,6 @@ int main( int argc, char** argv )
 $ cd ./path-to/build_OpenCV_test
 $ ./OpenCV_test lena.png
 ```
-Congratulations! You see the image!
+Congratulations! Now you see the image!
 
 
