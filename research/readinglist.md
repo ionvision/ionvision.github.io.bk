@@ -20,10 +20,9 @@ comments: no
 
 - [Digital Image Processing Using MATLAB, 2nd edition](http://www.imageprocessingplace.com/DIPUM-2E/dipum2e_main_page.htm), by Rafael C. Gonzalez.
 
-
-- [Mastering OpenCV with Practical Computer Vision Projects](http://www.amazon.com/Mastering-OpenCV-Practical-Computer-Projects/dp/1849517827), by Daniel Baggio.
-
 - [OpenCV 2 Computer Vision Application Programming Cookbook](http://www.laganiere.name/opencvCookbook/), by Robert Laganiere.
+
+> You might also be interested in [Mastering OpenCV with Practical Computer Vision Projects](http://www.amazon.com/Mastering-OpenCV-Practical-Computer-Projects/dp/1849517827), by Daniel Baggio, if you want to build some fancy projects based on Android, iOS and Microsoft Kinect.
 
 <br>
 
