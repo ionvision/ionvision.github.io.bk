@@ -22,7 +22,7 @@ Here's my [SETUP](/about/setup).
 
 Tel: (212) 650-8917
 
-Email: xrong000 [at] citymail [dot] cuny [dot] edu
+Email: xrong [at] ccny [dot] cuny [dot] edu
 
 Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
 
