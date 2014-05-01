@@ -5,7 +5,7 @@ title: 学术教程四五则
 
 - [如何与教授用电子邮件联系](http://www.douban.com/note/218446985/)
 
-- [谈谈消极礼貌](http://www.douban.com/note/250014709/)
+- [谈谈消极礼貌](http://www.douban.com/note/223310192/)
 
 - [谈谈积极礼貌](http://www.douban.com/note/250014709/)
 
