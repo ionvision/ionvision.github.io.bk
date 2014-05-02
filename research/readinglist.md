@@ -6,7 +6,7 @@ comments: no
 
 >Here's my recommendation of reading list for beginners in Computer Vision area.
 
-###General Tutorials:
+##General Tutorials:
 
 - [Computer Vision: A Modern Approach, 2nd Edition](http://luthuli.cs.uiuc.edu/~daf/CV2E-site/cv2eindex.html), by David A. Forsyth.
 
@@ -16,7 +16,7 @@ comments: no
 
 <br>
 
-###Application Tutorials:
+##Application Tutorials:
 
 - [Digital Image Processing Using MATLAB, 2nd edition](http://www.imageprocessingplace.com/DIPUM-2E/dipum2e_main_page.htm), by Rafael C. Gonzalez.
 
@@ -26,16 +26,15 @@ comments: no
 
 <br>
 
-###Math Review:
+##Math Review:
 
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/), by Jim Hefferon.
-
 
 - [Probability and Stochastic Processes](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000391.html), by Roy D. Yates.
 
 <br>
 
-###MOOC on Coursera:
+##MOOC on Coursera:
 
 - [Image and video processing](https://class.coursera.org/images-002), by Guillermo Sapiro.
 
@@ -48,6 +47,8 @@ comments: no
 
 <br>
 
-###Extra Machine Learning Tutorial:
+##Extra Machine Learning Tutorial:
+
 - [统计学习方法](http://book.douban.com/subject/10590856/), 李航.
+
 - [Machine Learning in Action](http://www.manning.com/pharrington/), Peter Harrington.
