@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 优客李林
+title: 乌克丽丽
 ---
 
 最开始学画画的想法来源于ztpala的[日志](http://ztpala.com/2014/01/22/learn-to-draw/),于是买了[绘图板](http://www.wacom.com/en/us/creative/intuos-pen)，每天抽一点时间完成[You can draw in 30 days](http://book.douban.com/subject/4411193/)这个教程，希望能有一些成果吧:)
