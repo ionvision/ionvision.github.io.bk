@@ -19,8 +19,6 @@ It's worth noting that some contents may be biased by my personal preference.
 ----------
 #Installation
 
-- [Sip Installation](/notes/sip-installation)
-
 - [Sans Code Pro Font Installation](/notes/sans-code-pro-installation)
 
 
