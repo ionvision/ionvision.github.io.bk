@@ -8,10 +8,19 @@ Here I record some of my notes about `research` & `design` & `coding`. Some of t
 
 It's worth noting that some contents may be biased by my personal preference.
 
+
+----------
+#Reading
+
+- [Reading List for Computer Vision Beginners](./computer-vision-reading-list)
+
+
+
+
 ----------
 #Syntax
 
-- [Markdown Syntax](/notes/markdown-syntax)
+- [Markdown Syntax](./markdown-syntax)
 
 
 
@@ -19,8 +28,7 @@ It's worth noting that some contents may be biased by my personal preference.
 ----------
 #Installation
 
-- [Sans Code Pro Font Installation](/notes/sans-code-pro-installation)
-
+- [Sans Code Pro Font Installation](./sans-code-pro-installation)
 
 
 
@@ -29,7 +37,7 @@ It's worth noting that some contents may be biased by my personal preference.
 
 #Setting Up
 
-- [Setting up OpenCV with Qt Creator in Ubuntu](/notes/install-Qt-OpenCV-Ubuntu)
+- [Setting up OpenCV with Qt Creator in Ubuntu](./install-Qt-OpenCV-Ubuntu)
 
 
 
