@@ -4,10 +4,6 @@ title: Research
 comments: no
 ---
 
-###| [Paper Reading](/research/paper-reading) | [Academic Writing](/research/academic-writing) | [Reading List](/research/readinglist).
-
-----------
-
 Following is a selected list of my publications.
 
 <br>
@@ -15,3 +11,7 @@ Following is a selected list of my publications.
 ##Conference##
 
 >**Xuejian Rong**, Chucai Yi, Xiaodong Yang and Yingli Tian. *Scene Text Recognition in Multiple Frames based on Text Tracking*. IEEE International Conference on Multimedia & Expo (**ICME**), 2014. [PDF]
+
+----------
+
+###| [Paper Reading](/research/paper-reading) | [Academic Writing](/research/academic-writing) | [Reading List](/research/readinglist).
