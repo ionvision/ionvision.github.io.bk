@@ -4,6 +4,10 @@ title: Research
 comments: no
 ---
 
+###| [Paper Reading](/research/paper-reading) | [Academic Writing](/research/academic-writing) | [Reading List](/research/readinglist).
+
+----------
+
 Following is a selected list of my publications.
 
 <br>
@@ -14,4 +18,3 @@ Following is a selected list of my publications.
 
 ----------
 
-###| [Paper Reading](/research/paper-reading) | [Academic Writing](/research/academic-writing) | [Reading List](/research/readinglist).
