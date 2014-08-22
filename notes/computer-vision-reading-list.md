@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading list for beginners in Computer Vision area
+title: Reading list for beginners in Computer Vision area (updated Aug 22, 2014)
 comments: no
 ---
 
@@ -8,7 +8,9 @@ comments: no
 
 ##General Tutorials:
 
-- [Computer Vision: A Modern Approach, 2nd Edition](http://luthuli.cs.uiuc.edu/~daf/CV2E-site/cv2eindex.html), by David A. Forsyth.
+- [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/), ([Amazon](http://www.amazon.com/Computer-Vision-Models-Learning-Inference/dp/1107011795/ref=sr_1_1?s=books&ie=UTF8&qid=1334662414&sr=1-1)), by Simon J.D. Prince.
+
+>*Computer Vision: A Modern Approach, 2nd Edition* by David A. Forsyth is also excellent but seems relatively advanced.
 
 >*Computer Vision: Algorithms and Applications* by Richard Szeliski is a good manual for reference but seems too fragmental thus not appropriate for beginners.
 
