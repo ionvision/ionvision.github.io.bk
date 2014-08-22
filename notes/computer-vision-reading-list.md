@@ -16,6 +16,8 @@ comments: no
 
 - [Digital Image Processing, 3rd Edition](http://www.imageprocessingplace.com/DIP-3E/dip3e_main_page.htm), by Rafael C. Gonzalez.
 
+>Classical textbook from which you could learn more about the image pre-processing for computer vision.
+
 <br>
 
 ##Application Tutorials:
