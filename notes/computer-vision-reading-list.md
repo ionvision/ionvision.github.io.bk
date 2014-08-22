@@ -10,6 +10,8 @@ comments: no
 
 - [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/), ([Amazon](http://www.amazon.com/Computer-Vision-Models-Learning-Inference/dp/1107011795/ref=sr_1_1?s=books&ie=UTF8&qid=1334662414&sr=1-1)), by Simon J.D. Prince.
 
+> Great tutorial for beginners in CV area. The author provides free pdf file and all the algorithms with elegent matlab implementations on his website. You can even find a lot of slides and faq on it. Enjoy!
+
 >*Computer Vision: A Modern Approach, 2nd Edition* by David A. Forsyth is also excellent but seems relatively advanced.
 
 >*Computer Vision: Algorithms and Applications* by Richard Szeliski is a good manual for reference but seems too fragmental thus not appropriate for beginners.
