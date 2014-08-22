@@ -12,9 +12,9 @@ comments: no
 
 > Great tutorial for beginners in CV area. The author provides free pdf file and all the algorithms with elegent matlab implementations on his website. You can even find a lot of slides and faq on it. Enjoy!
 
->*Computer Vision: A Modern Approach, 2nd Edition* by David A. Forsyth is also excellent but seems relatively advanced.
+>**Computer Vision: A Modern Approach, 2nd Edition** by David A. Forsyth is also excellent but seems relatively advanced.
 
->*Computer Vision: Algorithms and Applications* by Richard Szeliski is a good manual for reference but seems too fragmental thus not appropriate for beginners.
+>**Computer Vision: Algorithms and Applications** by Richard Szeliski is a good manual for reference but seems too fragmental thus not appropriate for beginners.
 
 - [Digital Image Processing, 3rd Edition](http://www.imageprocessingplace.com/DIP-3E/dip3e_main_page.htm), by Rafael C. Gonzalez.
 
