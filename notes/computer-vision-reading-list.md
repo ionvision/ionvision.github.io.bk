@@ -16,7 +16,7 @@ comments: no
 
 >**Computer Vision: Algorithms and Applications** by Richard Szeliski is a good manual for reference but seems too fragmental thus not appropriate for beginners. You can get some whole pictures from this book, then quickly jump to CVMLI to get more machine learning based ideas.
 
-- [Digital Image Processing, 3rd Edition](http://www.imageprocessingplace.com/DIP-3E/dip3e_main_page.htm), by Rafael C. Gonzalez.
+- [Digital Image Processing, 3rd Edition](http://www.imageprocessingplace.com/DIP-3E/dip3e_main_page.htm), ([Amazon](http://www.amazon.com/Digital-Image-Processing-3rd-Edition/dp/013168728X)), by Rafael C. Gonzalez.
 
 >Classical textbook from which you could learn more about the image pre-processing for computer vision.
 
@@ -24,11 +24,11 @@ comments: no
 
 ##Application Tutorials:
 
-- [Digital Image Processing Using MATLAB, 2nd edition](http://www.imageprocessingplace.com/DIPUM-2E/dipum2e_main_page.htm), by Rafael C. Gonzalez.
+- [Digital Image Processing Using MATLAB, 2nd edition](http://www.imageprocessingplace.com/DIPUM-2E/dipum2e_main_page.htm), ([Amazon](http://www.amazon.com/Digital-Image-Processing-Using-MATLAB/dp/0982085400)), by Rafael C. Gonzalez.
 
 > You could find corresponding Matlab implementations based on the above theory-oriented version.
 
-- [OpenCV 2 Computer Vision Application Programming Cookbook](http://www.laganiere.name/opencvCookbook/), by Robert Laganiere.
+- [OpenCV 2 Computer Vision Application Programming Cookbook](http://www.laganiere.name/opencvCookbook/), ([Amazon](http://www.amazon.com/OpenCV-Computer-Application-Programming-Cookbook/dp/1849513244)), by Robert Laganiere.
 
 > You might also be interested in *Mastering OpenCV with Practical Computer Vision Projects*, by Daniel Baggio, if you want to build some fancy projects based on Android, iOS and Microsoft Kinect.
 
@@ -36,11 +36,11 @@ comments: no
 
 ##Math Review:
 
-- [Linear Algebra Done Right](http://linear.axler.net/), by Sheldon Axler.
+- [Linear Algebra Done Right](http://linear.axler.net/), ([Amazon](http://www.amazon.com/Digital-Image-Processing-3rd-Edition/dp/013168728X)), by Sheldon Axler.
 
 > The [Open Course](http://www-math.mit.edu/~gs/) from Prof. Gilbert Strang is also a good supplementary material for self-study.
 
-- [Probability and Stochastic Processes](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000391.html), by Roy D. Yates.
+- [Probability and Stochastic Processes](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000391.html), ([Amazon](http://www.amazon.com/Digital-Image-Processing-3rd-Edition/dp/013168728X)), by Roy D. Yates.
 
 > As it claims, a friendly introduction for Electrical and Computer Engineers.
 
@@ -48,12 +48,12 @@ comments: no
 
 ##MOOC on Coursera:
 
-- [Image and video processing](https://class.coursera.org/images-002), by Guillermo Sapiro.
+- [Image and video processing](https://class.coursera.org/images-002), ([Amazon](http://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582)), by Guillermo Sapiro.
 
 >Beginner friendly.
 
 
-- [Machine Learning](https://class.coursera.org/ml-005), by Andrew Ng.
+- [Machine Learning](https://class.coursera.org/ml-005), ([Amazon](http://www.amazon.com/Probability-Stochastic-Processes-Introduction-Electrical/dp/0471272140)), by Andrew Ng.
 
 >Great course, actually every beginner should take it.
 
@@ -61,10 +61,10 @@ comments: no
 
 ##Extra Machine Learning Tutorial:
 
-- [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/), by Kevin Patrick Murphy.
+- [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/), ([Amazon](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)), by Kevin Patrick Murphy.
 
 > More suitable for beginners than PRML from Prof. Bishop. It also provides all the [Matlab implementations](https://github.com/probml/pmtk3) from which you will benifit a lot.
 
-- [Machine Learning in Action](http://www.manning.com/pharrington/), Peter Harrington.
+- [Machine Learning in Action](http://www.manning.com/pharrington/), ([Amazon](http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181)), Peter Harrington.
 
 > Interesting machine learning application tutorial based on Python. You can implement some tiny real systems quickly and be happy.
