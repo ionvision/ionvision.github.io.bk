@@ -50,12 +50,12 @@ comments: no
 
 - [Image and video processing](https://class.coursera.org/images-002), by Guillermo Sapiro.
 
->Beginner friendly
+>Beginner friendly.
 
 
 - [Machine Learning](https://class.coursera.org/ml-005), by Andrew Ng.
 
->Great course, strongly recommend
+>Great course, actually every beginner should take it.
 
 <br>
 
