@@ -63,7 +63,7 @@ comments: no
 
 - [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/), by Kevin Patrick Murphy.
 
-> Much suitable for beginners than PRML from Prof. Bishop. It also provides all the [Matlab implementations](https://github.com/probml/pmtk3) from which you will benifit a lot.
+> More suitable for beginners than PRML from Prof. Bishop. It also provides all the [Matlab implementations](https://github.com/probml/pmtk3) from which you will benifit a lot.
 
 - [Machine Learning in Action](http://www.manning.com/pharrington/), Peter Harrington.
 
