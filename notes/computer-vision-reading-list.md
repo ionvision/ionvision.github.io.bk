@@ -48,12 +48,12 @@ comments: no
 
 ##MOOC on Coursera:
 
-- [Image and video processing](https://class.coursera.org/images-002), ([Amazon](http://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582)), by Guillermo Sapiro.
+- [Image and video processing](https://class.coursera.org/images-002), by Guillermo Sapiro.
 
 >Beginner friendly.
 
 
-- [Machine Learning](https://class.coursera.org/ml-005), ([Amazon](http://www.amazon.com/Probability-Stochastic-Processes-Introduction-Electrical/dp/0471272140)), by Andrew Ng.
+- [Machine Learning](https://class.coursera.org/ml-005), by Andrew Ng.
 
 >Great course, actually every beginner should take it.
 
