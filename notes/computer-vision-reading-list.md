@@ -36,11 +36,11 @@ comments: no
 
 ##Math Review:
 
-- [Linear Algebra Done Right](http://linear.axler.net/), ([Amazon](http://www.amazon.com/Digital-Image-Processing-3rd-Edition/dp/013168728X)), by Sheldon Axler.
+- [Linear Algebra Done Right](http://linear.axler.net/), ([Amazon](http://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582)), by Sheldon Axler.
 
 > The [Open Course](http://www-math.mit.edu/~gs/) from Prof. Gilbert Strang is also a good supplementary material for self-study.
 
-- [Probability and Stochastic Processes](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000391.html), ([Amazon](http://www.amazon.com/Digital-Image-Processing-3rd-Edition/dp/013168728X)), by Roy D. Yates.
+- [Probability and Stochastic Processes](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000391.html), ([Amazon](http://www.amazon.com/Probability-Stochastic-Processes-Introduction-Electrical/dp/0471272140)), by Roy D. Yates.
 
 > As it claims, a friendly introduction for Electrical and Computer Engineers.
 
