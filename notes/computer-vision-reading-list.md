@@ -14,7 +14,7 @@ comments: no
 
 >**Computer Vision: A Modern Approach, 2nd Edition** by David A. Forsyth is also excellent but seems relatively advanced and not that strongly related to the trending machine learning methods.
 
->**Computer Vision: Algorithms and Applications** by Richard Szeliski is a good manual for reference but seems too fragmental thus not appropriate for beginners.
+>**Computer Vision: Algorithms and Applications** by Richard Szeliski is a good manual for reference but seems too fragmental thus not appropriate for beginners. You can get some whole pictures from this book, then quickly jump to CVMLI to get more machine learning based ideas.
 
 - [Digital Image Processing, 3rd Edition](http://www.imageprocessingplace.com/DIP-3E/dip3e_main_page.htm), by Rafael C. Gonzalez.
 
