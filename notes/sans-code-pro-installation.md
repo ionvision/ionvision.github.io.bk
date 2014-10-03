@@ -1,6 +1,7 @@
 ---
 title: Install Adobe Source Code Pro font on Ubuntu
 layout: post
+comments: yes
 ---
 
 Adobe Source Code Pro font is nice!
