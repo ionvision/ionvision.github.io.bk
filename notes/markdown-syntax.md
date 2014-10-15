@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Note for Markdown Syntax
-comments: yes
+comments: no
 ---
 
 Markdown rocks!

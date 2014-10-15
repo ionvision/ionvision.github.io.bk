@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading list for beginners in Computer Vision area (updated Aug 22, 2014)
-comments: yes
+comments: no
 ---
 
 >Here's my recommendation of reading list for beginners in Computer Vision area.
