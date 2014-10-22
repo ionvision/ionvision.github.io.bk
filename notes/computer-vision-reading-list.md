@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Reading list for beginners in Computer Vision area (updated Aug 22, 2014)
 comments: no
 ---
