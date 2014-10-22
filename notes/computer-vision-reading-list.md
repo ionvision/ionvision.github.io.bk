@@ -67,4 +67,4 @@ comments: no
 
 - [Machine Learning in Action](http://www.manning.com/pharrington/), ([Amazon](http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181)), Peter Harrington.
 
-> Interesting machine learning application tutorial based on Python. You can implement some tiny real systems quickly and be happy.
+> Interesting machine learning tutorial based on Python. You can implement some tiny real systems quickly and be happy.
