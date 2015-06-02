@@ -28,8 +28,6 @@ It's worth noting that some contents may be biased by my personal preference.
 ----------
 #Installation
 
-- [Sans Code Pro Font Installation](./sans-code-pro-installation)
-
 - [Install OpenCV with Qt Creator in Ubuntu](./install-Qt-OpenCV-Ubuntu)
 
 
