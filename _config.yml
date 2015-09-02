@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Xuejian Rong
 locale:           en_US
 url:              http://xrong.org
 
@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: Xuejian Rong
   avatar: avatar.jpg
-  bio: "Describe your self."
-  email:
+  bio: "PhD candidate in Media Lab of The City College of New York, CUNY, and working with Prof. Yingli Tian in the intersection of Machine Learning and Computer Vision."
+  email: xrong@ccny.cuny.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -43,7 +43,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: #jastarex
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
