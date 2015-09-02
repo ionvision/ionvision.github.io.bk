@@ -1,13 +1,7 @@
-# Site navigation links
-
-- title: About
-  url: /about/
-
-- title: Sample Posts
-  url: /posts/
+# Menu navigation links
 
 - title: Theme Setup
   url: /theme-setup/
 
-- title: Made Mistakes
+- title: External Link
   url: http://mademistakes.com

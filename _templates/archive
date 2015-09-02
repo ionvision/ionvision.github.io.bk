@@ -2,8 +2,5 @@
 layout: post-index
 title: {{ title }}
 permalink:
-modified:
-excerpt:
-image:
-  feature:
+description:
 ---
