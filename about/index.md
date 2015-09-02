@@ -1,39 +1,25 @@
 ---
 layout: page
-title: About
-comments: no
+title: About the Theme
+tags: [about, Jekyll, theme, responsive]
+modified: 2014-08-08T20:53:07.573882-04:00
+comments: true
+image:
+  feature: sample-image-2.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-<audio width="300" height="32" style="margin: auto; top: 0; right: 0; bottom: 0; left: 0;" controls="controls" name="media" src="/media/music/march_set.m4a"></audio>
+Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
 
-###| [Calendar](/about/calendar)
+## Minimal Mistakes is all about:
 
-----------
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
+* Minimal embellishments -- content first.
+* Optional large feature images for posts and pages.
+* Simple and clear permalink structure.
+* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
+* Support for Disqus Comments
 
-#The Setup
-
-I love the [THE SETUP Interviews](http://usesthis.com/)
-
-Here's my [SETUP](/about/setup).
-
-----------
-
-#Contact
-
-Tel: (212) 650-8917
-
-Email: xrong [at] ccny [dot] cuny [dot] edu
-
-Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
-
-----------
-
-#Links
-
-排名不分先后。
-
-- [张驰原 Chiyuan Zhang](http://freemind.pluskid.org)
-- [谢益辉 Yihui Xie](http://yihui.name)
-- [木遥 Farmostwood](http://blog.farmostwood.net)
-- [易楚才 Chucai Yi](http://media-lab.engr.ccny.cuny.edu/~cyi)
-- [杨晓东 Xiaodong Yang](http://yangxd.org)
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
