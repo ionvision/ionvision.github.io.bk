@@ -1,6 +1,6 @@
 title:            Xuejian Rong
 description:      BLog
-disqus_shortname: xrong
+disqus_shortname: jastarex
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,7 +9,7 @@ url: http://xrong.org
 
 # Owner/author information
 owner:
-  name:           Xuejian ROng
+  name:           Xuejian Rong
   avatar:         avatar.jpg
   bio:            "PhD candidate in Media Lab of The City College of New York, CUNY, and working with Prof. Yingli Tian in the intersection of Machine Learning and Computer Vision."
   email:          xrong@ccny.cuny.edu
