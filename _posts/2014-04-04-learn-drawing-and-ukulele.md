@@ -16,7 +16,7 @@ title: Learning Ukulele
 除了画画，最近也入手了Ukulele，虽然有所预期，但到手后还是惊异于它的小巧，音色相比吉他也非常清丽，很有夏威夷热带风情。因为只有四根弦的关系，比吉他好上手的多。按知乎上某人的话说，就是`少一根弦，就相当于多一根指头`。打算学画之余，每周学一两个和弦吧。
 
 >第二天
-<iframe src="//instagram.com/p/mWlvtnQXHW/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<iframe src="//instagram.com/p/mWlvtnQXHW/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"> </iframe>
 
 ----------
 <br>
