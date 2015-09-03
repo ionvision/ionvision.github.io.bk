@@ -1,11 +1,11 @@
 // Typography
 // --------------------------------------------------
 
-$base-font: Helvetica, 'Lato', Calibri, Arial, sans-serif, 'Source Sans Pro', "Microsoft YaHei";
+$base-font: 'Lato', Helvetica, 'Source Sans Pro', Calibri, Arial,  "Microsoft YaHei", sans-serif;
 $heading-font: $base-font;
 $caption-font: $base-font;
 $code-font: monospace;
-$alt-font: Calibri;
+$alt-font: "Microsoft YaHei";
 
 $doc-font-size: 16;
 $doc-line-height: 26;
