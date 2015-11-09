@@ -78,7 +78,7 @@ $ cd release
 
 - 6.Use CMake to generate the makefile (add any other required flags with the -D option):
 
->Note: Remember to specify the source folder as the last argument while invoking cmake.
+> Note: Remember to specify the source folder as the last argument while invoking cmake.
 
 ```
 $ cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
@@ -99,7 +99,7 @@ $ sudo ldconfig
 ## 2.2 Installing Qt
 Note: Steps 4 and 5 explain how to configure Qt Creator for use with the OpenCV libraries.
 
->You can also directly install Qt Creator with the `online installer` from [here](http://qt-project.org/downloads). It's much easier and straightforward than the following `step 1 and 2`.
+> You can also directly install Qt Creator with the `online installer` from [here](http://qt-project.org/downloads). It's much easier and straightforward than the following `step 1 and 2`.
 
 - 1.Download the latest version of Qt 5 for Linux 32/64-bit from the Qt website:
 
@@ -146,7 +146,7 @@ Get the "cutting-edge" version from the SVN repository (requires a SVN client): 
 
 - 3.The application can be now be simply modified, compiled and run within Qt Creator!
 
->IMPORTANT: If you receive compilation/linking errors such as /usr/bin/ld: cannot find -lGL or GL/gl.h: No such file or directory when using Qt 5, do the following:
+> IMPORTANT: If you receive compilation/linking errors such as /usr/bin/ld: cannot find -lGL or GL/gl.h: No such file or directory when using Qt 5, do the following:
 
 ```
 $ sudo apt-get install libgl1-mesa-dev
@@ -160,7 +160,8 @@ $ sudo apt-get install libgl1-mesa-dev
 - 1.Establish a new `Qt Widget Project`, e.g. `OpenCV_test`.
 
 - 2.Paste the following code then click `build`.
->Note the `#include` and `using namespace` part.
+
+> Note the `#include` and `using namespace` part.
 
 {% highlight c++ %}
 #include "mainwindow.h"
