@@ -175,7 +175,7 @@ source /etc/profile.d/java.sh
 
 <br>
 
-### 安装redshift
+### 安装Redshift
 [redshift](http://jonls.dk/redshift/)是一款与[f.lux](https://justgetflux.com/)类似的屏幕色温调节软件，对于视力保护有一定帮助。
 
 ```sh
@@ -184,7 +184,7 @@ sudo redshift
 ```
 <br>
 
-### 安装clang
+### 安装Clang
 Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和Objective-C++。其提供了更友好的报错信息，在有些方面比GCC更友好，同时其提供了一个代码静态分析器，可以用于分析代码中可能出现的bug和内存溢出问题。[^1]
 
 ```sh
@@ -192,17 +192,42 @@ sudo yum install clang clang-analyzer
 ```
 <br>
 
-### 安装remarkable
+### 安装Remarkable
 remarkable作为一款markdown编辑器，功能齐备，基本满足编辑需求，相比sublime text+markdown preview插件的方法更加直观。
 
 > [http://remarkableapp.github.io/index.html](http://remarkableapp.github.io/index.html)
 
 <br>
 
-### 安装foxit reader
+### 安装Foxit Reader
 foxit reader的linux版本，为时隔六年后的最新更新，字体渲染明显好于Gnome Evince和Google Chrome，常用的标注与高亮功能一应俱全。
 
 > [https://www.foxitsoftware.com/downloads](https://www.foxitsoftware.com/downloads)
+
+<br>
+
+### 安装Mendeley
+Mendeley是一个跨平台的文献管理软件，其内部自带了一个可以添加注释的PDF阅读器。
+
+下载Generic Linux (64 bits) ：
+
+> [http://www.mendeley.com/download-mendeley-desktop](http://www.mendeley.com/download-mendeley-desktop)
+
+安装
+
+```sh
+tar -xvf mendeleydesktop-1.12.3-linux-x86_64.tar.bz2
+sudo mv mendeleydesktop /opt
+cd /opt/mendeleydesktop/bin 
+./install-mendeley-link-handler.sh /opt/mendeleydesktop/bin/mendeleydesktop
+sudo yum install qtwebkit
+```
+
+注销重新登陆，添加图标
+
+```sh
+cp /opt/mendeleydesktop/share/icons/hicolor/128x128/apps/mendeleydesktop.png ~/.local/share/icons/
+```
 
 
 ----------
