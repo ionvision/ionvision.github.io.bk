@@ -415,7 +415,7 @@ sudo ln -s libcudnn.so.7.0 libcudnn.so
 
 此处非必须，可参考[^3].
 
-- 对于OpenCV，如果之后只用到pycaffe接口的话，在编译caffe与pycaffe完成后直接使用conda安装即可，如果提前安装会出现openblas冲突等错误。
+- 对于OpenCV，如果之后只用到pycaffe接口的话，在编译caffe与pycaffe完成后直接使用conda安装即可，若提前安装会出现openblas冲突等错误。
 
 ```sh
 conda install -c http://conda.anaconda.org/menpo opencv3
