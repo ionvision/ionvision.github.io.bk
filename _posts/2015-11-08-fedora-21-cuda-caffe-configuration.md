@@ -415,12 +415,13 @@ sudo ln -s libcudnn.so.7.0 libcudnn.so
 
 此处非必须，可参考[^3].
 
-1. 对于OpenCV，如果之后只用到pycaffe接口的话，在编译caffe与pycaffe完成后直接使用conda安装即可，如果提前安装会出现openblas冲突等错误。
+- 对于OpenCV，如果之后只用到pycaffe接口的话，在编译caffe与pycaffe完成后直接使用conda安装即可，如果提前安装会出现openblas冲突等错误。
 
 ```sh
 conda install -c http://conda.anaconda.org/menpo opencv3
 ```
-2. 对于Matlab，当前版本R2015b需要gcc 4.7，而fedora 21自带版本为gcc 4.9，需要安装所需版本才能编译通过。
+
+- 对于Matlab，当前版本R2015b需要gcc 4.7，而fedora 21自带版本为gcc 4.9，需要安装所需版本才能编译通过。
 
 <br>
 
