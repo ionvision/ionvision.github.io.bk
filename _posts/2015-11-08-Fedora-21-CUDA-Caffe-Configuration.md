@@ -2,24 +2,20 @@
 layout: post
 title: Caffe + Fedora 21 + CUDA 7.5 环境配置总结
 ---
-
-
-# Fedora 21 深度学习研究环境配置
-
 > 阅读须知：本文主要针对使用Caffe进行深度学习研究的用户，提供Fedora 21的系统开发环境配置说明，未使用Fedora 22/23的主要原因是CUDA 7.5的更新支持与对稳定性的需求，未使用CentOS 7的主要原因是桌面环境的友好度不足（如缺少fedy支持等，当然服务器端仍建议使用CentOS 7）。除少数系统依赖的特性外，本文大多数配置亦可用于Ubuntu的配置参考。
 
-## 1. 系统配置
+# 1. 系统配置
 
-### 系统更新
+## 系统更新
 
-#### 安装yum-axelget
+### 安装yum-axelget
 yum-axelget是一款应用于yum的并行下载工具。
 
 ```sh
 sudo yum install yum-axelget
 ```
 
-#### 全面更新
+### 全面更新
 
 ```sh
 sudo yum update
@@ -27,7 +23,7 @@ sudo yum update
 
 更新后建议重启。
 
-### 基础软件安装
+## 基础软件安装
 [fedy](http://folkswithhats.org/)类似于ubuntu tweaks，可用于方便的安装与调整部分基础软件和系统设置，包括但不限于：
 
 - Google Chrome
@@ -45,16 +41,16 @@ sudo yum update
 sudo bash -c 'su -c "curl http://folkswithhats.org/fedy-installer -o fedy-installer && chmod +x fedy-installer && ./fedy-installer"'
 ```
 
-### 其它软件安装
+## 其它软件安装
 
-#### 基础开发工具与开发库
+### 基础开发工具与开发库
 `Development Tools`与`Development Libraries`包含了众多fedora未预装的开发工具与开发库，包括`gcc`, `gcc-c++`, `make`等。
 
 ```sh
 sudo yum groupinstall "Development Tools" "Development Libraries"
 ```
 
-#### 安装terminator
+### 安装terminator
 [terminator](http://gnometerminator.blogspot.com/p/introduction.html)基于python写就，可用于替代系统自带的终端gnome terminal，相较而言提供了更多配置项，界面更美观，功能更丰富实用。
 
 ```sh
@@ -69,7 +65,7 @@ sudo yum install terminator
 如此可与OS X下的iterm2保持一致，方便的切分子屏。
 
 
-#### 安装zsh与prezto
+### 安装zsh与prezto
 [zsh](https://en.wikipedia.org/wiki/Z_shell)作为一款shell，可用于替代系统所自带的bash，即使是为了目录跳转的自动补全功能也值得一试。
 
 [prezto](https://github.com/sorin-ionescu/prezto)为zsh提供了众多预置配置，与声名在外的oh-my-zsh相比更加简洁而不繁复
@@ -95,7 +91,7 @@ chsh -s /usr/bin/zsh
 sudo chsh -s /usr/bin/zsh
 ```
 
-#### pyenv
+### pyenv
 [pyenv](https://github.com/yyuu/pyenv)是一款python环境管理工具，可用于方便的安装与管理众多python版本，包括流行的科学计算平台Anaconda
 
 ```sh
@@ -130,9 +126,9 @@ conda install [module] # 安装新module
 > 如conda所预置的module无法满足需求，可尝试使用`pip install`安装，且[anaconda.org](http://anaconda.org/)(原binstar.org)中提供了众多用户自建的module，如opencv等，可自行搜索安装。
 
 
-### 可选软件安装
+## 可选软件安装
 
-#### 安装JDK[^6]
+### 安装JDK[^6]
 因为jetbrains系的多款IDE以及Android Studio均需要JDK运行，此处推荐JDK 1.7。
 
 下载
@@ -164,7 +160,7 @@ source /etc/profile.d/java.sh
 ```
 
 
-#### 安装redshift
+### 安装redshift
 [redshift](http://jonls.dk/redshift/)是一款与[f.lux](https://justgetflux.com/)类似的屏幕色温调节软件，对于视力保护有一定帮助。
 
 ```sh
@@ -172,19 +168,19 @@ sudo yum install redshift
 sudo redshift
 ```
 
-#### 安装clang
+### 安装clang
 Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和Objective-C++。其提供了更友好的报错信息，在有些方面比GCC更友好，同时其提供了一个代码静态分析器，可以用于分析代码中可能出现的bug和内存溢出问题。[^1]
 
 ```sh
 sudo yum install clang clang-analyzer
 ```
 
-#### remarkable (markdown editor)
+### remarkable (markdown editor)
 remarkable作为一款markdown编辑器，功能齐备，基本满足编辑需求，相比sublime text+markdown preview插件的方法更加直观。
 
 > [http://remarkableapp.github.io/index.html](http://remarkableapp.github.io/index.html)
 
-#### foxit reader
+### foxit reader
 foxit reader的linux版本，为时隔六年后的最新更新，字体渲染明显好于Gnome Evince和Google Chrome，常用的标注与高亮功能一应俱全。
 > [https://www.foxitsoftware.com/downloads](https://www.foxitsoftware.com/downloads)
 
@@ -192,8 +188,9 @@ foxit reader的linux版本，为时隔六年后的最新更新，字体渲染明
 ----------
 
 
-## 2. CUDA安装
-#### 下载CUDA 7.5安装文件
+# 2. CUDA安装
+
+### 下载CUDA 7.5安装文件
 
 > [https://developer.nvidia.com/cuda-downloads](https://developer.nvidia.com/cuda-downloads)
 
@@ -203,20 +200,20 @@ foxit reader的linux版本，为时隔六年后的最新更新，字体渲染明
 chmod +x ./cuda_7.5.18_linux.run
 ```
 
-#### 开启root user权限
+### 开启root user权限
 
 ```sh
 sudo su
 ```
 
-#### 安装相应版本kernel
+### 安装相应版本kernel
 此处应确保在`sudo yum update`后进行，否则版本可能发生错误。
 
 ```sh
 yum install gcc kernel-devel-$(uname -r)
 ```
 
-#### 禁用默认nouveau驱动[^2]
+### 禁用默认nouveau驱动[^2]
 
 ```sh
 gedit /etc/modprobe.d/blacklist.conf
@@ -232,14 +229,14 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 yum remove xorg-x11-drv-nouveau.x86_64
 ```
 
-#### 禁用图形桌面启动
+### 禁用图形桌面启动
 
 ```sh
 systemctl set-default multi-user.target
 reboot
 ```
 
-#### 重启后进入终端环境，安装CUDA
+### 重启后进入终端环境，安装CUDA
 
 ```sh
 sudo su
@@ -255,14 +252,14 @@ yum install kernel-devel-$(uname -r)
 grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
 
-####恢复图形桌面启动并重启
+###恢复图形桌面启动并重启
 
 ```sh
 systemctl set-default graphical.target
 reboot
 ```
 
-#### 验证CUDA及驱动安装[^3]
+### 验证CUDA及驱动安装[^3]
 进入`/usr/local/cuda/samples`，, 执行下列命令来build samples：
 
 ```sh
@@ -278,7 +275,7 @@ sudo make all -j8
 如果出现显卡信息， 则驱动及显卡安装成功，可在系统中启动NVIDIA X Server Settings查看显卡状态。
 
 
-#### 设置CUDA环境变量
+### 设置CUDA环境变量
 
 `sudo subl /etc/profile.d/cuda.sh`，加入以下语句:
 
@@ -307,9 +304,9 @@ sudo ldconfig
 
 
 
-## Caffe安装
+# Caffe安装
 
-#### 下载Caffe最新版本
+### 下载Caffe最新版本
 
 ```sh
 mkdir ~/Documents/Library
@@ -317,7 +314,7 @@ cd ~/Documents/Library
 git clone https://github.com/BVLC/caffe.git
 ```
 
-#### 安装基础依赖库[^4]
+### 安装基础依赖库[^4]
 
 ```sh
 sudo yum install protobuf-devel leveldb-devel snappy-devel opencv-devel boost-devel hdf5-devel
@@ -325,7 +322,7 @@ sudo yum install protobuf-devel leveldb-devel snappy-devel opencv-devel boost-de
 sudo yum install gflags-devel glog-devel lmdb-devel atlas-devel
 ```
 
-#### 安装pycaffe依赖[^3]
+### 安装pycaffe依赖[^3]
 打开新的终端, 用`which python`和`which pip`确定使用的是anaconda-2.3.0提供的python环境，然后进入`caffe_root/python`, 执行下列命令
 
 
@@ -333,7 +330,7 @@ sudo yum install gflags-devel glog-devel lmdb-devel atlas-devel
 for req in $(cat requirements.txt); do pip install $req; done
 ```
 
-#### 安装OpenBLAS[^5]
+### 安装OpenBLAS[^5]
 Caffe的BLAS接口可选Atlas, Intel MKL与OpenBLAS，此处推荐OpenBLAS
 
 ```sh
@@ -358,7 +355,7 @@ sudo ldconfig
 ```
 
 
-#### 安装cuDNN[^3]
+### 安装cuDNN[^3]
 
 下载cudnn
 
