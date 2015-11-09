@@ -41,7 +41,7 @@ sudo yum update
 
 经过字体安装与设置后系统字体渲染将大为改善，其余UI设置可通过yum安装`gnome-tweak-tool`完成。
 
-> 此处请安装sublime text，若未安装，请将后文的subl命令替换为gedit
+> 此处建议安装sublime text，若未安装，请将后文的subl命令替换为gedit
 
 ![fedy](http://folkswithhats.org/assets//fedy.png)
 
