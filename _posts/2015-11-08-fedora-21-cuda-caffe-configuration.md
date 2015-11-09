@@ -190,14 +190,14 @@ sudo yum install clang clang-analyzer
 ```
 <br>
 
-### remarkable (markdown editor)
+### 安装remarkable
 remarkable作为一款markdown编辑器，功能齐备，基本满足编辑需求，相比sublime text+markdown preview插件的方法更加直观。
 
 > [http://remarkableapp.github.io/index.html](http://remarkableapp.github.io/index.html)
 
 <br>
 
-### foxit reader
+### 安装foxit reader
 foxit reader的linux版本，为时隔六年后的最新更新，字体渲染明显好于Gnome Evince和Google Chrome，常用的标注与高亮功能一应俱全。
 
 > [https://www.foxitsoftware.com/downloads](https://www.foxitsoftware.com/downloads)
