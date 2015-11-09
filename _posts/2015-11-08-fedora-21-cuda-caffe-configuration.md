@@ -460,14 +460,14 @@ make test
 make runtest
 ```
 
-{$ highlight python$}
+{% highlight python %}
 import cv2
 import os
 
 def test(im):
     """test"""
     print 5
-{$ endhighlight $}
+{% endhighlight %}
 ```
 
 ----------
