@@ -480,14 +480,13 @@ sudo ln -s libhdf5.so.8.0.2 libhdf5.so.10
 
 ### 编译Caffe
 
-{% highlight bash %}
+```sh
 cd ~/Documents/Library/caffe
 make all -j8
 make pycaffe
 make test
 make runtest
-{% endhighlight %}
-
+```
 
 ----------
 [^1]: [用CentOS 7打造合适的科研环境](http://seisman.info/linux-environment-for-seismology-research.html)
