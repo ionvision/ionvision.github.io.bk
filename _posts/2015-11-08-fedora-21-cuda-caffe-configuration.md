@@ -142,7 +142,7 @@ conda install [module] # 安装新module
 ## 可选软件安装
 <br>
 
-### 安装JDK[^6]
+### 安装JDK [^6]
 因为jetbrains系的多款IDE以及Android Studio均需要JDK运行，此处推荐JDK 1.7。
 
 下载
@@ -185,7 +185,7 @@ sudo redshift
 <br>
 
 ### 安装Clang
-Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和Objective-C++。其提供了更友好的报错信息，在有些方面比GCC更友好，同时其提供了一个代码静态分析器，可以用于分析代码中可能出现的bug和内存溢出问题。[^1]
+Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和Objective-C++。其提供了更友好的报错信息，在有些方面比GCC更友好，同时其提供了一个代码静态分析器，可以用于分析代码中可能出现的bug和内存溢出问题。 [^1]
 
 ```sh
 sudo yum install clang clang-analyzer
@@ -282,7 +282,7 @@ yum install gcc kernel-devel-$(uname -r)
 ```
 <br>
 
-### 禁用默认nouveau驱动[^2]
+### 禁用默认nouveau驱动 [^2]
 
 ```sh
 subl /etc/modprobe.d/blacklist.conf
@@ -332,7 +332,7 @@ reboot
 ```
 <br>
 
-### 验证CUDA及驱动安装[^3]
+### 验证CUDA及驱动安装 [^3]
 重启后进入`/usr/local/cuda/samples`，, 执行下列命令来build samples：
 
 ```sh
@@ -388,7 +388,7 @@ git clone https://github.com/BVLC/caffe.git
 ```
 <br>
 
-### 安装基础依赖库[^4]
+### 安装基础依赖库 [^4]
 
 ```sh
 sudo yum install protobuf-devel leveldb-devel snappy-devel opencv-devel boost-devel hdf5-devel
@@ -397,7 +397,7 @@ sudo yum install gflags-devel glog-devel lmdb-devel atlas-devel
 ```
 <br>
 
-### 安装pycaffe依赖[^3]
+### 安装pycaffe依赖 [^3]
 打开新的终端, 用`which python`和`which pip`确定使用的是anaconda-2.3.0提供的python环境，然后进入`caffe_root/python`, 执行下列命令
 
 
@@ -406,7 +406,7 @@ for req in $(cat requirements.txt); do pip install $req; done
 ```
 <br>
 
-### 安装OpenBLAS[^5]
+### 安装OpenBLAS [^5]
 Caffe的BLAS接口可选Atlas, Intel MKL与OpenBLAS，此处推荐OpenBLAS
 
 ```sh
@@ -432,7 +432,7 @@ sudo ldconfig
 
 <br>
 
-### 安装cuDNN[^3]
+### 安装cuDNN [^3]
 
 下载
 
@@ -459,7 +459,7 @@ sudo ln -s libcudnn.so.7.0 libcudnn.so
 
 ### 安装OpenCV与Matlab
 
-此处非必须，可参考[^3].
+此处非必须，可参考 [^3].
 
 - 对于OpenCV，如果之后只用到pycaffe接口的话，在编译caffe与pycaffe完成后直接使用conda安装即可，若提前安装会出现openblas冲突等错误。
 
