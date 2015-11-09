@@ -303,7 +303,7 @@ sudo make all -j8
 
 ### 设置CUDA环境变量
 
-`sudo subl /etc/profile.d/cuda.sh`，加入以下语句:
+创建文件`sudo subl /etc/profile.d/cuda.sh`，加入以下语句:
 
 ```sh
 export PATH=$/usr/local/cuda-7.5/bin:$PATH
@@ -315,7 +315,7 @@ export PATH=$/usr/local/cuda-7.5/bin:$PATH
 source /etc/profile.d/cuda.sh
 ```
 
-`sudo subl /etc/ld.so.conf.d/cuda.conf`，加入以下语句:
+创建文件`sudo subl /etc/ld.so.conf.d/cuda.conf`，加入以下语句:
 
 ```sh
 /usr/local/cuda/lib64
