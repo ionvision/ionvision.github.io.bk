@@ -393,7 +393,7 @@ git clone https://github.com/BVLC/caffe.git
 ```sh
 sudo yum install protobuf-devel leveldb-devel snappy-devel opencv-devel boost-devel hdf5-devel
 
-sudo yum install gflags-devel glog-devel lmdb-devel atlas-devel
+sudo yum install gflags-devel glog-devel lmdb-devel atlas-devel cmake numpy
 ```
 <br>
 
@@ -467,7 +467,7 @@ sudo ln -s libcudnn.so.7.0 libcudnn.so
 conda install -c http://conda.anaconda.org/menpo opencv3
 ```
 
-- 对于Matlab，当前版本R2015b需要gcc 4.7，而fedora 21自带版本为gcc 4.9，需要安装所需版本matcaffe才能编译通过。
+- 对于Matlab，当前版本R2015b需要gcc 4.7，而fedora 21自带版本为gcc 4.9，需要安装所需版本matcaffe才能编译通过。 安装gcc 4.7可参考 [^7]
 
 <br>
 
@@ -539,11 +539,12 @@ make runtest
 ```
 
 ----------
+
 [^1]: [用CentOS 7打造合适的科研环境](http://seisman.info/linux-environment-for-seismology-research.html)
 [^2]: [Fedora21安装Nvidia的闭源驱动](http://binglispace.com/2015/02/21/fedora21-nvidia/)
 [^3]: [Caffe + Ubuntu 12.04 64bit + CUDA 6.5 配置说明](https://gist.github.com/bearpaw/c38ef18ec45ba6548ec0)
 [^4]: [RHEL / Fedora / CentOS Installation](http://caffe.berkeleyvision.org/install_yum.html)
 [^5]: [ubuntu上Caffe使用OpenBLAS多线程加速](http://wxyblog.com/2015/08/27/openblas-with-caffe-on-ubuntu/)
 [^6]: [How To Install Java on CentOS and Fedora](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora)
-
+[^7]: [Multiple Versions of gcc on Fedora 15](http://radek.io/2011/10/30/multiple-versions-of-gcc-on-fedora-15/)
 
