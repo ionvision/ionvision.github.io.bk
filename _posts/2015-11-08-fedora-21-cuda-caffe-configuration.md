@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Caffe + Fedora 21 + CUDA 7.5 环境配置总结
+title: Caffe + Fedora 21 + CUDA 7.5 开发环境配置总结
 ---
 > 阅读须知：本文主要针对使用Caffe进行深度学习研究的用户，提供Fedora 21的系统开发环境配置说明，未使用Fedora 22/23的主要原因是CUDA 7.5的更新支持与对稳定性的需求，未使用CentOS 7的主要原因是桌面环境的友好度不足（如缺少fedy支持等，当然服务器端仍建议使用CentOS 7）。除少数系统依赖的特性外，本文大多数配置亦可用于Ubuntu的配置参考。
 
