@@ -459,7 +459,6 @@ make runtest
 ```
 
 ----------
-
 [^1]: [用CentOS 7打造合适的科研环境](http://seisman.info/linux-environment-for-seismology-research.html)
 [^2]: [Fedora21安装Nvidia的闭源驱动](http://binglispace.com/2015/02/21/fedora21-nvidia/)
 [^3]: [Caffe + Ubuntu 12.04 64bit + CUDA 6.5 配置说明](https://gist.github.com/bearpaw/c38ef18ec45ba6548ec0)
@@ -467,4 +466,5 @@ make runtest
 [^5]: [ubuntu上Caffe使用OpenBLAS多线程加速](http://wxyblog.com/2015/08/27/openblas-with-caffe-on-ubuntu/)
 [^6]: [How To Install Java on CentOS and Fedora
 ](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora)
+
 
