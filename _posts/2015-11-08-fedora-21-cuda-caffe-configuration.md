@@ -11,7 +11,7 @@ title: Caffe + Fedora 21 + CUDA 7.5 环境配置总结
 <br>
 
 ### 安装yum-axelget
-yum-axelget是一款应用于yum的并行下载工具。
+yum-axelget是一款应用于yum的并行加速下载工具，可显著加快更新速度。
 
 ```sh
 sudo yum install yum-axelget
