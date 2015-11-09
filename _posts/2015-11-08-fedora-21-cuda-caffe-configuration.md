@@ -36,7 +36,7 @@ sudo yum update
 - Better font rendering
 - SSD optimization
 
-经过字体安装与设置后系统字体渲染将大为改善
+经过字体安装与设置后系统字体渲染将大为改善，其余UI设置可通过`gnome-tweak-tool`完成。
 
 ![fedy](http://folkswithhats.org/assets//fedy.png)
 
