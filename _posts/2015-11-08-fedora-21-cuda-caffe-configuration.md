@@ -251,7 +251,7 @@ yum remove xorg-x11-drv-nouveau.x86_64
 ```
 <br>
 
-### 禁用图形桌面启动
+### 禁用图形界面启动
 
 ```sh
 systemctl set-default multi-user.target
@@ -276,7 +276,7 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
 <br>
 
-### 恢复图形桌面启动并重启
+### 恢复图形界面启动并重启
 
 ```sh
 systemctl set-default graphical.target
