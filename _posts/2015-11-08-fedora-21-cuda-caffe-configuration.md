@@ -27,6 +27,8 @@ sudo yum update
 <br>
 
 ## 基础软件安装
+
+### 安装fedy
 [fedy](http://folkswithhats.org/)类似于ubuntu tweaks，可用于方便的安装与调整部分基础软件和系统设置，包括但不限于：
 
 - Google Chrome
@@ -45,9 +47,6 @@ sudo yum update
 ```sh
 sudo bash -c 'su -c "curl http://folkswithhats.org/fedy-installer -o fedy-installer && chmod +x fedy-installer && ./fedy-installer"'
 ```
-<br>
-
-## 其它软件安装
 <br>
 
 ### 基础开发工具与开发库
