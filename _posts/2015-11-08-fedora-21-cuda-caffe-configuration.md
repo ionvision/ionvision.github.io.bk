@@ -75,7 +75,7 @@ sudo yum install terminator
 <br>
 
 ### 安装zsh与prezto
-[zsh](https://en.wikipedia.org/wiki/Z_shell)作为一款shell，可用于替代系统所自带的bash，即使是为了目录跳转的自动补全功能也值得一试。
+[zsh](https://en.wikipedia.org/wiki/Z_shell)作为一款广泛流行的shell，可用于替代系统所自带的bash，即使是为了目录跳转的自动补全功能也值得一试。
 
 [prezto](https://github.com/sorin-ionescu/prezto)为zsh提供了众多预置配置，与oh-my-zsh相比更加简洁而不繁复
 
