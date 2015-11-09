@@ -135,7 +135,7 @@ conda list    # 查看已安装module
 conda install [module] # 安装新module
 ```
 
-> 如conda所预置的module无法满足需求，可尝试使用`pip install`安装，且[anaconda.org](http://anaconda.org/)(原binstar.org)中提供了众多用户自建的module，如opencv等，可自行搜索安装。
+> 如conda所预置的module无法满足需求，可尝试使用`pip install`安装，另外[anaconda.org](http://anaconda.org/)(原binstar.org)中提供了众多用户自建的module，如opencv等，可自行搜索安装。
 
 <br>
 
