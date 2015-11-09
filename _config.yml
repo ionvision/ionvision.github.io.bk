@@ -1,8 +1,11 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:year/:month/:title/
 url: http://xrong.org
 author: Xuejian Rong
 pygments: true
+
+kramdown:
+  input: GFM
 
 analytics :
   provider : google
