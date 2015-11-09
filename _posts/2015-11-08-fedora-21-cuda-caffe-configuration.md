@@ -239,7 +239,7 @@ yum install gcc kernel-devel-$(uname -r)
 ### 禁用默认nouveau驱动[^2]
 
 ```sh
-gedit /etc/modprobe.d/blacklist.conf
+subl /etc/modprobe.d/blacklist.conf
 echo "blacklist nouveau" >> /etc/modprobe.d/blacklist.conf
 ```
 
