@@ -285,7 +285,7 @@ reboot
 <br>
 
 ### 验证CUDA及驱动安装[^3]
-进入`/usr/local/cuda/samples`，, 执行下列命令来build samples：
+重启后进入`/usr/local/cuda/samples`，, 执行下列命令来build samples：
 
 ```sh
 sudo make all -j8
