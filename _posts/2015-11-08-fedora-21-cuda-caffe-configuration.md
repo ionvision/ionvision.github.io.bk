@@ -203,6 +203,13 @@ git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=3600'
 ```
 
+<br>
+
+### 安装Source Code Pro字体
+
+```sh
+sudo yum install adobe-source-code-pro-fonts
+```
 
 <br>
 
