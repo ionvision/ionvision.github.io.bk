@@ -27,6 +27,7 @@ sudo yum update
 <br>
 
 ## 基础软件安装
+<br>
 
 ### 安装fedy
 [fedy](http://folkswithhats.org/)类似于ubuntu tweaks，可用于方便的安装与调整部分基础软件和系统设置，包括但不限于：
