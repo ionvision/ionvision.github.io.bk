@@ -14,9 +14,7 @@ It's very helpful and powerful to **combine OpenCV library and Qt Creator togeth
 
 -----------------
 
-# 2. Installation
-
-[#Reference](https://code.google.com/p/qt-opencv-multithreaded/wiki/Documentation)
+# 2. Installation [^1]
 
 The installation procedures detailed below have been tested and verified using:
 
@@ -154,8 +152,7 @@ $ sudo apt-get install libgl1-mesa-dev
 
 -----------------
 
-## 2.4 **Test in a new Qt project.**
-[#Reference](http://stackoverflow.com/questions/17938360/setting-up-opencv-in-qt-creator-ubuntu-12-04)
+## 2.4 **Test in a new Qt project.** [^2]
 
 - 1.Establish a new `Qt Widget Project`, e.g. `OpenCV_test`.
 
@@ -211,3 +208,6 @@ $ ./OpenCV_test lena.png
 Congratulations! Now you see the image!
 
 
+----------
+[^1]: [https://code.google.com/p/qt-opencv-multithreaded/wiki/Documentation](https://code.google.com/p/qt-opencv-multithreaded/wiki/Documentation)
+[^2]: [http://stackoverflow.com/questions/17938360/setting-up-opencv-in-qt-creator-ubuntu-12-04](http://stackoverflow.com/questions/17938360/setting-up-opencv-in-qt-creator-ubuntu-12-04)
