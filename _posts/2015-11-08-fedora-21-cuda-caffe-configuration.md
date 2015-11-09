@@ -267,7 +267,7 @@ cd ~/Downloads
 ./cuda_7.5.18_linux.run
 ```
 
-> 若重启后安装发生kernel问题，重新执行以下命令后继续安装：
+> 若安装发生kernel问题，执行以下命令后继续安装：
 
 ```sh
 yum install kernel-devel-$(uname -r)
