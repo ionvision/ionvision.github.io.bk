@@ -372,7 +372,7 @@ sudo make install
 
 安装后路径位于`/opt/OpenBLAS`，之后设置OpenBLAS环境变量
 
-`sudo subl /etc/ld.so.conf.d/openblas.conf`，加入以下语句:
+创建文件`sudo subl /etc/ld.so.conf.d/openblas.conf`，加入以下语句:
 
 ```sh
 /opt/OpenBLAS/lib
