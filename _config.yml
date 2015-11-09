@@ -1,4 +1,5 @@
 markdown: kramdown
+highlighter: rouge
 permalink: /:year/:month/:title/
 url: http://xrong.org
 author: Xuejian Rong
@@ -6,8 +7,6 @@ pygments: true
 
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
-
 
 analytics :
   provider : google
