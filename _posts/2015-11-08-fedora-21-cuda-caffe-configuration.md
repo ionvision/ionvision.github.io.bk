@@ -338,8 +338,6 @@ sudo ldconfig
 ### 下载Caffe最新版本
 
 ```sh
-mkdir ~/Documents/Library
-cd ~/Documents/Library
 git clone https://github.com/BVLC/caffe.git
 ```
 <br>
