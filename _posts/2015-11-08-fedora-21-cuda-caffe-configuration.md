@@ -101,7 +101,7 @@ sudo chsh -s /usr/bin/zsh
 ```
 <br>
 
-### pyenv
+### 安装pyenv
 [pyenv](https://github.com/yyuu/pyenv)是一款python环境管理工具，可用于方便的安装与管理众多python版本，包括流行的科学计算平台Anaconda
 
 ```sh
