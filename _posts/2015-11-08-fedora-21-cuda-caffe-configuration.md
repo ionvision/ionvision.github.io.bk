@@ -117,6 +117,7 @@ eval "$(pyenv virtualenv-init -)"
 ```
 
 完成添加后重启终端，使用如下命令安装并设置默认python版本为Anaconda
+
 > 之后可通过`pyenv versions`命令查看已安装与默认python版本，并通过`pyenv global [python-version]`命令切换
 
 ```sh
