@@ -68,7 +68,7 @@ sudo yum install terminator
 ### 安装zsh与prezto
 [zsh](https://en.wikipedia.org/wiki/Z_shell)作为一款shell，可用于替代系统所自带的bash，即使是为了目录跳转的自动补全功能也值得一试。
 
-[prezto](https://github.com/sorin-ionescu/prezto)为zsh提供了众多预置配置，与声名在外的oh-my-zsh相比更加简洁而不繁复
+[prezto](https://github.com/sorin-ionescu/prezto)为zsh提供了众多预置配置，与oh-my-zsh相比更加简洁而不繁复
 
 ```sh
 sudo yum install zsh
@@ -458,6 +458,7 @@ make test
 make runtest
 ```
 
+----------
 
 [^1]: [用CentOS 7打造合适的科研环境](http://seisman.info/linux-environment-for-seismology-research.html)
 [^2]: [Fedora21安装Nvidia的闭源驱动](http://binglispace.com/2015/02/21/fedora21-nvidia/)
