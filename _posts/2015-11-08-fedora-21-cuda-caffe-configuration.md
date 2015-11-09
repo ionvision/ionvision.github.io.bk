@@ -421,7 +421,7 @@ sudo ln -s libcudnn.so.7.0 libcudnn.so
 conda install -c http://conda.anaconda.org/menpo opencv3
 ```
 
-- 对于matcaffe，当前Matlab版本R2015b需要gcc 4.7，而fedora 21自带版本为gcc 4.9，需要安装所需版本才能编译通过。
+- 对于Matlab，当前版本R2015b需要gcc 4.7，而fedora 21自带版本为gcc 4.9，需要安装所需版本matcaffe才能编译通过。
 
 <br>
 
