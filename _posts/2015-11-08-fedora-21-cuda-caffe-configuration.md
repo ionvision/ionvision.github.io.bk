@@ -390,7 +390,7 @@ sudo ldconfig
 
 ### 安装cuDNN[^3]
 
-下载cudnn
+下载
 
 > [https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)
 
