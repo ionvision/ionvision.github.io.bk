@@ -47,8 +47,8 @@ display:block;
 margin-left:12px;
 margin-right:auto;
 border:4px solid #FFF;
--webkit-box-shadow:0 1px 3px #ccc;
--moz-box-shadow:0 1px 3px #ccc;
+-webkit-box-shadow:0 0px 0px #ccc;
+-moz-box-shadow:0 0px 0px #ccc;
 }
 
 body {
