@@ -3,8 +3,8 @@ layout: home
 avatar: yes
 ---
 
-I am [Xuejian Rong](http://media-lab.engr.ccny.cuny.edu/~xrong), a PhD candidate in [Media Lab](http://media-lab.engr.ccny.cuny.edu) of [The City College](http://www.ccny.cuny.edu), [City University of New York](http://cuny.edu). Currently I am working with [Prof. Yingli Tian](http://www-ee.ccny.cuny.edu/www/web/yltian/home.html) in the area of `Machine Learning` and `Computer Vision`, especially on deblurring, denoising and enhancement algorithms.
+For now I am a third year PhD candidate in [Media Lab](http://media-lab.engr.ccny.cuny.edu) of [The City College](http://www.ccny.cuny.edu), [CUNY](http://cuny.edu), and working with [Prof. Yingli Tian](http://www-ee.ccny.cuny.edu/www/web/yltian/home.html) in the intersection of Machine Learning and Computer Vision.
 
-From everyday snapshots to scientific imaging area, photographs are inevitably affected by different kinds of errors, including blur, noise and other degradations. These errors could be well removed with prior knowledge of the typical image data and the type of corruption.
+Before joining Media Lab, I obtained my BEng degree from Nanjing University of Aeronautics and Astronautics in 2013. From 2012 - 2013 I have been a member of the Robotics Group, working with Prof. Bing Qiao on Object Recognition and Haptic Interaction algorithms for robot arm teleoperation.
 
-I'm interested in *extracting and modeling those prior knowledge using machine learning methods*.
+Currently my research interests mainly focus on inference and learning for scene text detection and recognition in the wild, in the presence of image degradations like blur, distortion, and noise.
