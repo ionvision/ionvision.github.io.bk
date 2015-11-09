@@ -480,7 +480,7 @@ sudo ln -s libhdf5.so.8.0.2 libhdf5.so.10
 
 ### 编译Caffe
 
-{% highlight shell %}
+{% highlight bash %}
 cd ~/Documents/Library/caffe
 make all -j8
 make pycaffe
