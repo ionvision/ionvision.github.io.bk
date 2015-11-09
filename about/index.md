@@ -12,7 +12,7 @@ modified: 2014-12-24
 <audio width="300" height="32" style="margin: auto; top: 0; right: 0; bottom: 0; left: 0;" controls="controls" name="media" src="/media/music/march_set.m4a"></audio>
 ----------
 
-#The Setup
+# The Setup
 
 I love the [THE SETUP Interviews](http://usesthis.com/)
 
@@ -20,7 +20,7 @@ Here's my [SETUP](/about/setup).
 
 ----------
 
-#Contact
+# Contact
 
 Tel: (212) 650-8917
 

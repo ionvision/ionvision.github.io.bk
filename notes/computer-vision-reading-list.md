@@ -6,7 +6,7 @@ comments: no
 
 >Here's my recommendation of reading list for beginners in Computer Vision area.
 
-##General Tutorials:
+## General Tutorials:
 
 - [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/), ([Amazon](http://www.amazon.com/Computer-Vision-Models-Learning-Inference/dp/1107011795/ref=sr_1_1?s=books&ie=UTF8&qid=1334662414&sr=1-1)), by Simon J.D. Prince.
 
@@ -22,7 +22,7 @@ comments: no
 
 <br>
 
-##Application Tutorials:
+## Application Tutorials:
 
 - [Digital Image Processing Using MATLAB, 2nd edition](http://www.imageprocessingplace.com/DIPUM-2E/dipum2e_main_page.htm), ([Amazon](http://www.amazon.com/Digital-Image-Processing-Using-MATLAB/dp/0982085400)), by Rafael C. Gonzalez.
 
@@ -34,7 +34,7 @@ comments: no
 
 <br>
 
-##Math Review:
+## Math Review:
 
 - [Linear Algebra Done Right](http://linear.axler.net/), ([Amazon](http://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582)), by Sheldon Axler.
 
@@ -46,7 +46,7 @@ comments: no
 
 <br>
 
-##MOOC on Coursera:
+## MOOC on Coursera:
 
 - [Image and video processing](https://class.coursera.org/images-002), by Guillermo Sapiro.
 
@@ -59,7 +59,7 @@ comments: no
 
 <br>
 
-##Extra Machine Learning Tutorial:
+## Extra Machine Learning Tutorial:
 
 - [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/), ([Amazon](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)), by Kevin Patrick Murphy.
 
