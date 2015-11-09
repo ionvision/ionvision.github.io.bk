@@ -107,6 +107,7 @@ curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-
 ```
 
 安装后需要将如下语句加入shell配置文件
+
 > 此处应为`~/.zshrc`而非`~/.bashrc`，可通过`ctrl+h`显示或在终端中使用`subl ~/.zshrc`打开
 
 ```sh
