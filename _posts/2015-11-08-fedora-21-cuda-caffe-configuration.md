@@ -75,7 +75,7 @@ sudo yum install terminator
 ### 安装zsh与prezto
 [zsh](https://en.wikipedia.org/wiki/Z_shell)作为一款shell，可用于替代系统所自带的bash，即使是为了目录跳转的自动补全功能也值得一试。
 
-[prezto](https://github.com/sorin-ionescu/prezto)为zsh提供了众多预置配置，与oh-my-zsh相比更加简洁而不繁复
+[prezto](https://github.com/sorin-ionescu/prezto)为zsh提供了众多预置配置，与oh-my-zsh相比更加简洁而不繁复。
 
 ```sh
 sudo yum install zsh
@@ -131,7 +131,7 @@ conda list    # 查看已安装module
 conda install [module] # 安装新module
 ```
 
-> 如conda所预置的module无法满足需求，可尝试使用`pip install`安装，且[anaconda.org](http://anaconda.org/)(原binstar.org)中提供了众多用户自建的module，如opencv等，可自行搜索安装。
+> 如conda所预置的module无法满足需求，可尝试使用`pip install`安装，且[anaconda.org](http://anaconda.org/)(原binstar.org)中提供了众多用户自建的module，如opencv等，可自行搜索安装
 
 <br>
 
@@ -139,7 +139,7 @@ conda install [module] # 安装新module
 <br>
 
 ### 安装JDK[^6]
-因为jetbrains系的多款IDE以及Android Studio均需要JDK运行，此处推荐JDK 1.7。
+因为jetbrains系的多款IDE以及Android Studio均需要JDK运行，此处推荐JDK 1.7
 
 下载
 
@@ -154,7 +154,7 @@ wget --no-cookies --no-check-certificate --header "Cookie: gpw_e24=http%3A%2F%2F
 sudo yum localinstall jdk-7u79-linux-x64.rpm
 ```
 
-当前JDK安装路径为`/usr/java/jdk1.7.0_79`，将以下语句加入`/etc/profile.d/java.sh`以设置环境变量:
+当前JDK安装路径为`/usr/java/jdk1.7.0_79`，将以下语句加入`/etc/profile.d/java.sh`以设置环境变量
 
 ```sh
 export JDK_HOME=/usr/java/jdk1.7.0_79
