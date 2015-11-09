@@ -190,6 +190,20 @@ Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和
 ```sh
 sudo yum install clang clang-analyzer
 ```
+
+<br>
+
+### 配置git
+
+```sh
+git config --global user.name "your name"
+git config --global user.email "your@email"
+
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
+```
+
+
 <br>
 
 ### 安装Remarkable
