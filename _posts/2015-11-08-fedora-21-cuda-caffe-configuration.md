@@ -276,7 +276,7 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
 <br>
 
-###恢复图形桌面启动并重启
+### 恢复图形桌面启动并重启
 
 ```sh
 systemctl set-default graphical.target
