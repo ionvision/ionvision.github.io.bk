@@ -199,6 +199,7 @@ remarkable作为一款markdown编辑器，功能齐备，基本满足编辑需�
 
 ### foxit reader
 foxit reader的linux版本，为时隔六年后的最新更新，字体渲染明显好于Gnome Evince和Google Chrome，常用的标注与高亮功能一应俱全。
+
 > [https://www.foxitsoftware.com/downloads](https://www.foxitsoftware.com/downloads)
 
 
