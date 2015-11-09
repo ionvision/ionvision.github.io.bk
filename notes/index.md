@@ -10,15 +10,15 @@ It's worth noting that some contents may be biased by my personal preference.
 
 
 ----------
-#Reading
+# Reading
 
-- [Reading List for Computer Vision Beginners (updated Aug 22, 2014)](./computer-vision-reading-list)
+- [Reading List for Computer Vision Beginners](./computer-vision-reading-list)
 
 
 
 
 ----------
-#Syntax
+# Syntax
 
 - [Markdown Syntax](./markdown-syntax)
 
@@ -26,7 +26,7 @@ It's worth noting that some contents may be biased by my personal preference.
 
 
 ----------
-#Installation
+# Installation
 
 - [Install OpenCV with Qt Creator in Ubuntu](./install-Qt-OpenCV-Ubuntu)
 
