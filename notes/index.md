@@ -11,14 +11,15 @@ It's worth noting that some contents may be biased by my personal preference.
 
 ----------
 
-## Research
+## Paper Reading
 
-- [Reading List for Computer Vision Beginners](./computer-vision-reading-list)
 
 
 ----------
 
-## Coding
+## Memo
+
+- [Reading List for Computer Vision Beginners](./computer-vision-reading-list)
 
 - [Markdown Syntax](./markdown-syntax)
 
