@@ -216,7 +216,7 @@ Mendeley是一个跨平台的文献管理软件，其内部自带了一个可以
 安装
 
 ```sh
-tar -xvf mendeleydesktop-1.12.3-linux-x86_64.tar.bz2
+tar -xvf mendeleydesktop-1.15.1-linux-x86_64.tar.bz2
 sudo mv mendeleydesktop /opt
 cd /opt/mendeleydesktop/bin 
 ./install-mendeley-link-handler.sh /opt/mendeleydesktop/bin/mendeleydesktop
