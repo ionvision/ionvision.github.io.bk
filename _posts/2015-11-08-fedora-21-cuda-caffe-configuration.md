@@ -92,7 +92,7 @@ ln -s ~/.zprezto/runcoms/zshenv ~/.zshenv
 ln -s ~/.zprezto/runcoms/zshrc ~/.zshrc
 ```
 
-安装后开启zsh，并切换当前user与root的默认shell为zsh
+安装后开启zsh，并切换当前user与root user的默认shell为zsh
 
 ```sh
 zsh
