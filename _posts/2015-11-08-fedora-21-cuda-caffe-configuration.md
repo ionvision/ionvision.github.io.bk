@@ -74,7 +74,7 @@ sudo yum install terminator
 
 <br>
 
-### 安装zsh与prezto [^8]
+### 安装zsh与prezto
 [zsh](https://en.wikipedia.org/wiki/Z_shell)作为一款广泛流行的shell，可用于替代系统所自带的bash，即使是为了目录跳转的自动补全功能也值得一试。
 
 [prezto](https://github.com/sorin-ionescu/prezto)为zsh提供了众多预置配置，与oh-my-zsh相比更加简洁而不繁复
@@ -99,29 +99,6 @@ zsh
 chsh -s /usr/bin/zsh
 sudo chsh -s /usr/bin/zsh
 ```
-
-编辑文件`subl ~/.zpreztorc`, 添加git等相关功能
-
-```sh
-# Set the Prezto modules to load (browse modules).
-# The order matters.
-zstyle ':prezto:load' pmodule \
-  'environment' \
-  'terminal' \
-  'editor' \
-  'history' \
-  'directory' \
-  'spectrum' \
-  'utility' \
-  'completion' \
-  'git' \
-  'archive' \
-  'prompt'
-```
-
-完成后可以使用短命令显著简化git操作，相关说明可以参考[prezto文档](https://github.com/sorin-ionescu/prezto/tree/master/modules/git)
-
-
 <br>
 
 ### 安装pyenv
@@ -570,5 +547,4 @@ make runtest
 [^5]: [ubuntu上Caffe使用OpenBLAS多线程加速](http://wxyblog.com/2015/08/27/openblas-with-caffe-on-ubuntu/)
 [^6]: [How To Install Java on CentOS and Fedora](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora)
 [^7]: [Multiple Versions of gcc on Fedora 15](http://radek.io/2011/10/30/multiple-versions-of-gcc-on-fedora-15/)
-[^8]: [Hey Prezto - Zsh for Command Line Heaven](http://jr0cket.co.uk/2013/09/hey-prezto-zsh-for-command-line-heaven.html)
 
