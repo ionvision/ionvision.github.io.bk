@@ -230,7 +230,7 @@ foxit reader的linux版本，为时隔六年后的最新更新，字体渲染明
 ### 安装Mendeley [^1]
 Mendeley是一个跨平台的文献管理软件，其内部自带了一个可以添加注释的PDF阅读器。
 
-下载Generic Linux (64 bits) ：
+下载Generic Linux (64 bits)
 
 > [http://www.mendeley.com/download-mendeley-desktop](http://www.mendeley.com/download-mendeley-desktop)
 
