@@ -229,10 +229,12 @@ git config --global credential.helper 'cache --timeout=3600'
 
 <br>
 
-### 安装Source Code Pro字体
+### 安装Source Code Pro及文泉驿字体
 
 ```sh
 sudo yum install adobe-source-code-pro-fonts -y
+
+sudo yum install wqy-microhei-fonts -y
 ```
 
 <br>
