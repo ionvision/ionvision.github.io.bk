@@ -15,6 +15,7 @@ title: Caffe + Fedora 21 + CUDA 7.5 开发环境配置总结
 
 ```sh
 sudo yum install yum-axelget
+sudo yum install yum-plugin-fastestmirror
 ```
 
 ### 全面更新
