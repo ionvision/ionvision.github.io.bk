@@ -2,7 +2,7 @@
 layout: post
 title: Caffe + Fedora 21 + CUDA 7.5 开发环境配置总结
 ---
-> 阅读须知：本文主要针对使用Caffe进行深度学习研究的用户，提供Fedora 21的系统开发环境配置说明，未使用Fedora 22/23的主要原因是CUDA 7.5的更新支持与对稳定性的需求，未使用CentOS 7的主要原因是虽相对稳定但缺乏较新的软件包（若为服务器端则仍建议使用CentOS 7）。除少数系统依赖的特性外，本文大多数配置亦可用于Ubuntu的配置参考。
+> 阅读须知：本文主要针对使用Caffe进行深度学习研究的用户，提供Fedora 21的系统开发环境配置说明，未使用Fedora 22/23的主要原因是CUDA 7.5的更新支持与对稳定性的需求，未使用CentOS 7的主要原因是虽相对稳定但缺乏较新的软件包（若为服务器端则仍建议使用CentOS 7）。除少数系统依赖的特性外，**本文大多数配置亦可用于Ubuntu的配置参考**。
 
 # 1. 系统配置
 <br>
@@ -11,7 +11,7 @@ title: Caffe + Fedora 21 + CUDA 7.5 开发环境配置总结
 <br>
 
 ### 安装yum-axelget
-yum-axelget是一款应用于yum的并行下载工具，可显著加快更新速度。
+[yum-axelget](https://github.com/crook/yum-axelget)是一款应用于yum的并行下载工具，可显著加快更新速度。
 
 ```sh
 sudo yum install yum-axelget
@@ -74,7 +74,7 @@ sudo yum install terminator
 
 <br>
 
-### 安装zsh与prezto
+### 安装zsh与prezto [^8]
 [zsh](https://en.wikipedia.org/wiki/Z_shell)作为一款广泛流行的shell，可用于替代系统所自带的bash，即使是为了目录跳转的自动补全功能也值得一试。
 
 [prezto](https://github.com/sorin-ionescu/prezto)为zsh提供了众多预置配置，与oh-my-zsh相比更加简洁而不繁复
@@ -99,6 +99,29 @@ zsh
 chsh -s /usr/bin/zsh
 sudo chsh -s /usr/bin/zsh
 ```
+
+编辑文件`subl ~/.zpreztorc`, 添加git等相关功能
+
+```sh
+# Set the Prezto modules to load (browse modules).
+# The order matters.
+zstyle ':prezto:load' pmodule \
+  'environment' \
+  'terminal' \
+  'editor' \
+  'history' \
+  'directory' \
+  'spectrum' \
+  'utility' \
+  'completion' \
+  'git' \
+  'archive' \
+  'prompt'
+```
+
+完成后可以使用短命令显著简化git操作，相关说明可以参考[prezto文档](https://github.com/sorin-ionescu/prezto/tree/master/modules/git)
+
+
 <br>
 
 ### 安装pyenv
@@ -142,7 +165,7 @@ conda install [module] # 安装新module
 ## 可选软件安装
 <br>
 
-### 安装JDK[^6]
+### 安装JDK [^6]
 因为jetbrains系的多款IDE以及Android Studio均需要JDK运行，此处推荐JDK 1.7。
 
 下载
@@ -175,7 +198,7 @@ source /etc/profile.d/java.sh
 
 <br>
 
-### 安装redshift
+### 安装Redshift
 [redshift](http://jonls.dk/redshift/)是一款与[f.lux](https://justgetflux.com/)类似的屏幕色温调节软件，对于视力保护有一定帮助。
 
 ```sh
@@ -184,25 +207,71 @@ sudo redshift
 ```
 <br>
 
-### 安装clang
-Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和Objective-C++。其提供了更友好的报错信息，在有些方面比GCC更友好，同时其提供了一个代码静态分析器，可以用于分析代码中可能出现的bug和内存溢出问题。[^1]
+### 安装Clang
+Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和Objective-C++。其提供了更友好的报错信息，在有些方面比GCC更友好，同时其提供了一个代码静态分析器，可以用于分析代码中可能出现的bug和内存溢出问题。 [^1]
 
 ```sh
 sudo yum install clang clang-analyzer
 ```
+
 <br>
 
-### 安装remarkable
+### 配置git
+
+```sh
+git config --global user.name "your name"
+git config --global user.email "your@email"
+
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
+```
+
+<br>
+
+### 安装Source Code Pro字体
+
+```sh
+sudo yum install adobe-source-code-pro-fonts
+```
+
+<br>
+
+### 安装Remarkable
 remarkable作为一款markdown编辑器，功能齐备，基本满足编辑需求，相比sublime text+markdown preview插件的方法更加直观。
 
 > [http://remarkableapp.github.io/index.html](http://remarkableapp.github.io/index.html)
 
 <br>
 
-### 安装foxit reader
+### 安装Foxit Reader
 foxit reader的linux版本，为时隔六年后的最新更新，字体渲染明显好于Gnome Evince和Google Chrome，常用的标注与高亮功能一应俱全。
 
 > [https://www.foxitsoftware.com/downloads](https://www.foxitsoftware.com/downloads)
+
+<br>
+
+### 安装Mendeley [^1]
+Mendeley是一个跨平台的文献管理软件，其内部自带了一个可以添加注释的PDF阅读器。
+
+下载Generic Linux (64 bits)
+
+> [http://www.mendeley.com/download-mendeley-desktop](http://www.mendeley.com/download-mendeley-desktop)
+
+安装
+
+```sh
+tar -xvf mendeleydesktop-1.15.1-linux-x86_64.tar.bz2
+sudo mv mendeleydesktop /opt
+cd /opt/mendeleydesktop/bin 
+./install-mendeley-link-handler.sh /opt/mendeleydesktop/bin/mendeleydesktop
+sudo yum install qtwebkit
+```
+
+注销重新登陆，添加图标
+
+```sh
+cp /opt/mendeleydesktop/share/icons/hicolor/128x128/apps/mendeleydesktop.png ~/.local/share/icons/
+```
 
 
 ----------
@@ -236,7 +305,7 @@ yum install gcc kernel-devel-$(uname -r)
 ```
 <br>
 
-### 禁用默认nouveau驱动[^2]
+### 禁用默认nouveau驱动 [^2]
 
 ```sh
 subl /etc/modprobe.d/blacklist.conf
@@ -286,7 +355,7 @@ reboot
 ```
 <br>
 
-### 验证CUDA及驱动安装[^3]
+### 验证CUDA及驱动安装 [^3]
 重启后进入`/usr/local/cuda/samples`，, 执行下列命令来build samples：
 
 ```sh
@@ -308,7 +377,7 @@ sudo make all -j8
 创建文件`sudo subl /etc/profile.d/cuda.sh`，加入以下语句:
 
 ```sh
-export PATH=/usr/local/cuda-7.5/bin:$PATH
+export PATH=$/usr/local/cuda-7.5/bin:$PATH
 ```
 
 保存后, 执行下列命令, 使环境变量立即生效
@@ -342,16 +411,16 @@ git clone https://github.com/BVLC/caffe.git
 ```
 <br>
 
-### 安装基础依赖库[^4]
+### 安装基础依赖库 [^4]
 
 ```sh
 sudo yum install protobuf-devel leveldb-devel snappy-devel opencv-devel boost-devel hdf5-devel
 
-sudo yum install gflags-devel glog-devel lmdb-devel atlas-devel
+sudo yum install gflags-devel glog-devel lmdb-devel atlas-devel cmake numpy
 ```
 <br>
 
-### 安装pycaffe依赖[^3]
+### 安装pycaffe依赖 [^3]
 打开新的终端, 用`which python`和`which pip`确定使用的是anaconda-2.3.0提供的python环境，然后进入`caffe_root/python`, 执行下列命令
 
 
@@ -360,7 +429,7 @@ for req in $(cat requirements.txt); do pip install $req; done
 ```
 <br>
 
-### 安装OpenBLAS[^5]
+### 安装OpenBLAS [^5]
 Caffe的BLAS接口可选Atlas, Intel MKL与OpenBLAS，此处推荐OpenBLAS
 
 ```sh
@@ -386,7 +455,7 @@ sudo ldconfig
 
 <br>
 
-### 安装cuDNN[^3]
+### 安装cuDNN [^3]
 
 下载
 
@@ -413,7 +482,7 @@ sudo ln -s libcudnn.so.7.0 libcudnn.so
 
 ### 安装OpenCV与Matlab
 
-此处非必须，可参考[^3].
+此处非必须，可参考 [^3].
 
 - 对于OpenCV，如果之后只用到pycaffe接口的话，在编译caffe与pycaffe完成后直接使用conda安装即可，若提前安装会出现openblas冲突等错误。
 
@@ -421,7 +490,7 @@ sudo ln -s libcudnn.so.7.0 libcudnn.so
 conda install -c http://conda.anaconda.org/menpo opencv3
 ```
 
-- 对于Matlab，当前版本R2015b需要gcc 4.7，而fedora 21自带版本为gcc 4.9，需要安装所需版本matcaffe才能编译通过。
+- 对于Matlab，当前版本R2015b需要gcc 4.7，而fedora 21自带版本为gcc 4.9，需要安装所需版本matcaffe才能编译通过。 安装gcc 4.7可参考 [^7]
 
 <br>
 
@@ -493,11 +562,13 @@ make runtest
 ```
 
 ----------
+
 [^1]: [用CentOS 7打造合适的科研环境](http://seisman.info/linux-environment-for-seismology-research.html)
 [^2]: [Fedora21安装Nvidia的闭源驱动](http://binglispace.com/2015/02/21/fedora21-nvidia/)
 [^3]: [Caffe + Ubuntu 12.04 64bit + CUDA 6.5 配置说明](https://gist.github.com/bearpaw/c38ef18ec45ba6548ec0)
 [^4]: [RHEL / Fedora / CentOS Installation](http://caffe.berkeleyvision.org/install_yum.html)
 [^5]: [ubuntu上Caffe使用OpenBLAS多线程加速](http://wxyblog.com/2015/08/27/openblas-with-caffe-on-ubuntu/)
 [^6]: [How To Install Java on CentOS and Fedora](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora)
-
+[^7]: [Multiple Versions of gcc on Fedora 15](http://radek.io/2011/10/30/multiple-versions-of-gcc-on-fedora-15/)
+[^8]: [Hey Prezto - Zsh for Command Line Heaven](http://jr0cket.co.uk/2013/09/hey-prezto-zsh-for-command-line-heaven.html)
 
