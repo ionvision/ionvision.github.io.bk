@@ -14,8 +14,8 @@ title: Caffe + Fedora 21 + CUDA 7.5 开发环境配置总结
 [yum-axelget](https://github.com/crook/yum-axelget)是一款应用于yum的并行下载工具，可显著加快更新速度。
 
 ```sh
-sudo yum install yum-axelget
-sudo yum install yum-plugin-fastestmirror
+sudo yum install yum-axelget -y
+sudo yum install yum-plugin-fastestmirror -y
 ```
 
 ### 全面更新
@@ -63,7 +63,7 @@ sudo yum groupinstall "Development Tools" "Development Libraries"
 [terminator](http://gnometerminator.blogspot.com/p/introduction.html)基于python写就，可用于替代系统自带的终端gnome terminal，相较而言提供了更多配置项，界面更美观，功能更丰富实用。
 
 ```sh
-sudo yum install terminator
+sudo yum install terminator -y
 ```
 
 安装后可在Preferences的keybindings中通过直接按键调整如下：
@@ -81,7 +81,7 @@ sudo yum install terminator
 [prezto](https://github.com/sorin-ionescu/prezto)为zsh提供了众多预置配置，与oh-my-zsh相比更加简洁而不繁复
 
 ```sh
-sudo yum install zsh
+sudo yum install zsh -y
 
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 
@@ -203,7 +203,7 @@ source /etc/profile.d/java.sh
 [redshift](http://jonls.dk/redshift/)是一款与[f.lux](https://justgetflux.com/)类似的屏幕色温调节软件，对于视力保护有一定帮助。
 
 ```sh
-sudo yum install redshift
+sudo yum install redshift -y
 sudo redshift
 ```
 <br>
@@ -212,7 +212,7 @@ sudo redshift
 Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和Objective-C++。其提供了更友好的报错信息，同时提供了一个代码静态分析器，可以用于分析代码中可能出现的bug和内存溢出问题。 [^1]
 
 ```sh
-sudo yum install clang clang-analyzer
+sudo yum install clang clang-analyzer -y
 ```
 
 <br>
@@ -232,7 +232,7 @@ git config --global credential.helper 'cache --timeout=3600'
 ### 安装Source Code Pro字体
 
 ```sh
-sudo yum install adobe-source-code-pro-fonts
+sudo yum install adobe-source-code-pro-fonts -y
 ```
 
 <br>
@@ -265,7 +265,7 @@ tar -xvf mendeleydesktop-1.15.1-linux-x86_64.tar.bz2
 sudo mv mendeleydesktop /opt
 cd /opt/mendeleydesktop/bin 
 ./install-mendeley-link-handler.sh /opt/mendeleydesktop/bin/mendeleydesktop
-sudo yum install qtwebkit
+sudo yum install qtwebkit -y
 ```
 
 注销重新登陆，添加图标
@@ -415,9 +415,9 @@ git clone https://github.com/BVLC/caffe.git
 ### 安装基础依赖库 [^4]
 
 ```sh
-sudo yum install protobuf-devel leveldb-devel snappy-devel opencv-devel boost-devel hdf5-devel
+sudo yum install protobuf-devel leveldb-devel snappy-devel opencv-devel boost-devel hdf5-devel -y
 
-sudo yum install gflags-devel glog-devel lmdb-devel atlas-devel cmake numpy
+sudo yum install gflags-devel glog-devel lmdb-devel atlas-devel cmake numpy -y
 ```
 <br>
 
