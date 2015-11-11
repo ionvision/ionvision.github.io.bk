@@ -208,7 +208,7 @@ sudo redshift
 <br>
 
 ### 安装Clang
-Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和Objective-C++。其提供了更友好的报错信息，在有些方面比GCC更友好，同时其提供了一个代码静态分析器，可以用于分析代码中可能出现的bug和内存溢出问题。 [^1]
+Clang可以认为是GCC的替代品，可以用于编译C、C++、Objective-C和Objective-C++。其提供了更友好的报错信息，同时提供了一个代码静态分析器，可以用于分析代码中可能出现的bug和内存溢出问题。 [^1]
 
 ```sh
 sudo yum install clang clang-analyzer
