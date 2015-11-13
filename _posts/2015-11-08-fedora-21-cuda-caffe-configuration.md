@@ -14,8 +14,7 @@ title: Caffe + Fedora 21 + CUDA 7.5 开发环境配置总结
 [yum-axelget](https://github.com/crook/yum-axelget)是一款应用于yum的并行下载工具，可显著加快更新速度。
 
 ```sh
-sudo yum install yum-axelget
-sudo yum install yum-plugin-fastestmirror
+sudo yum install yum-axelget yum-plugin-fastestmirror
 ```
 
 ### 全面更新
