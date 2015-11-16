@@ -16,6 +16,7 @@ It's worth noting that some contents may be biased by my personal preference.
 
 - [Markdown Syntax](./markdown-syntax)
 
+- [Installation Scripts Collection](./installation-scripts-collection)
 
 <br>
 
