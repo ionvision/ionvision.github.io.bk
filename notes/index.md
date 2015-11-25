@@ -18,6 +18,8 @@ It's worth noting that some contents may be biased by my personal preference.
 
 - [Installation Scripts Collection](./installation-scripts-collection)
 
+- [Setting up OpenCV with Qt Creator in Ubuntu 13.10](./install-qt-opencv-ubuntu)
+
 <br>
 
 ----------

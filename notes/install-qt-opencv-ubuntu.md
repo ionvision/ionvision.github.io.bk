@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: Setting up OpenCV with Qt Creator in Ubuntu 13.10
+comments: no
 ---
 
 
