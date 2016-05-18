@@ -6,6 +6,14 @@ comments: false
 
 --------------------------------------------------------------------------------
 
+Rai Munoz, Xuejian Rong, and Yingli Tian. Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired. ICME Workshop on Mobile Multimedia Computing (MMC), 2016\. Oral Presentation. [[PDF](/publications/pdf/MMC16.pdf)]
+
+<br>
+
+Yuancheng Ye, Xuejian Rong, Xiaodong Yang, and Yingli Tian. Region Trajectories for Video Semantic Concept Detection. ACM International Conference on Multimedia Retrieval (ICMR), 2016\. [[PDF](/publications/pdf/ICMR16.pdf)]
+
+<br>
+
 Y. Ye, X. Rong, X. Yang, Y. Tian. CCNY at TRECVID 2015: Video Semantic Concept Localization. NIST TREC Video Retrieval Evaluation (TRECVID) Workshop, 2015\. [[PDF](/publications/pdf/TRECVID15_LOC.pdf)]
 
 <br>
