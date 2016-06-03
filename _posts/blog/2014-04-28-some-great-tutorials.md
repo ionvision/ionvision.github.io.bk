@@ -1,6 +1,13 @@
 ---
 layout: post
-title: 学术教程四五则
+title: “学术教程四五则”
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+date:
 ---
 
 - [如何与教授用电子邮件联系](http://www.douban.com/note/218446985/)
