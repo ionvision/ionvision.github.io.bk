@@ -1,60 +1,14 @@
-# Site wide configuration
-
-title: Xuejian Rong
-locale: en_US
-description: PhD Student, Media Lab, City University of New York.
-logo: avatar.jpg
-search: true
-url: http://xrong.org
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
+markdown: kramdown
 highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+permalink: /:year/:month/:title/
+url: http://xrong.org
+author: Xuejian Rong
+pygments: true
 
 kramdown:
   input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
 
-mathjax: true
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
-
-# Site owner
-owner:
-  name: Xuejian Rong
-  avatar: avatar.jpg
-  email: xrong@ccny.cuny.edu
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: jastarex
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
+analytics :
+  provider : google
+  google :
       tracking_id : 'UA-47201105-1'
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
