@@ -53,6 +53,7 @@ owner:
   google:
     plus: #username
     analytics:
+      tracking_id : 'UA-47201105-1'
     verify:
     ad-client:
     ad-slot:
