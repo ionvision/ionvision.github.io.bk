@@ -2,8 +2,8 @@
 
 title: Xuejian Rong
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: PhD Student, Media Lab, CUNY.
+logo: avatar.png
 search: true
 url: http://xrong.org
 
@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Xuejian Rong
-  avatar: bio-photo.jpg
+  avatar: avatar.jpg
   email: xrong@ccny.cuny.edu
   disqus-shortname:
   twitter: #username
