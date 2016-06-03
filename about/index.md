@@ -1,30 +1,26 @@
 ---
 layout: page
-title: About
-comments: false
-modified: 2014-12-24
+title: About the Jekyll Theme
+excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+modified: 2014-08-08T19:44:38.564948-04:00
+image:
+  feature: so-simple-sample-image-4.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-<audio width="300" height="32" style="margin: auto; top: 0; right: 0; bottom: 0; left: 0;" controls="controls" name="media" src="/media/music/from_sunset_to_sunrise.mp3"></audio>
-----------
+## So Simple Theme is all about:
 
-# Contact
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
+* Minimal embellishments and subtle animations.
+* Optional large feature images for posts and pages.
+* [Custom 404 page]({{ site.url }}/404.html) to get you started.
+* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
+* Support for Disqus Comments
 
-Tel: (212) 650-8917
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
-Email: xrong [at] ccny [dot] cuny [dot] edu
-
-Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
-
-----------
-
-# Links
-
-排名不分先后。
-
-- [张驰原 Chiyuan Zhang](http://freemind.pluskid.org)
-- [谢益辉 Yihui Xie](http://yihui.name)
-- [木遥 Farmostwood](http://blog.farmostwood.net)
-- [易楚才 Chucai Yi](http://media-lab.engr.ccny.cuny.edu/~cyi)
-- [杨晓东 Xiaodong Yang](http://yangxd.org)
+[^1]: Example: *domain.com/category-name/post-title*
