@@ -2,7 +2,7 @@
 
 title: Xuejian Rong
 locale: en_US
-description: PhD Student, Media Lab, CUNY.
+description: PhD Student, Media Lab, City University of New York.
 logo: avatar.jpg
 search: true
 url: http://xrong.org
@@ -42,7 +42,7 @@ owner:
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: jastarex
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
