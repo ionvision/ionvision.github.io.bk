@@ -5,10 +5,9 @@ comments: false
 ---
 
 --------------------------------------------------------------------------------
+Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 
 R. Munoz, X. Rong, and Y. Tian. *Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired*. ICME Workshop on Mobile Multimedia Computing (MMC), 2016\. Oral Presentation. [[PDF](/publications/pdf/MMC16.pdf)]
-
-Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 
 Y. Ye, X. Rong, X. Yang, and Y. Tian. *Region Trajectories for Video Semantic Concept Detection*. ACM International Conference on Multimedia Retrieval (ICMR), 2016\. [[PDF](/publications/pdf/ICMR16.pdf)]
 
