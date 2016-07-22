@@ -19,11 +19,13 @@ It's worth noting that some contents may be biased by my personal preference.
 - [Setting up OpenCV with Qt Creator in Ubuntu 13.10](./install-qt-opencv-ubuntu)
 
 <br>
+
 --------
 
 ## Wiki
 
 <br>
+
 --------
 
 ## Paper Reading
