@@ -16,16 +16,3 @@ Tel: (212) 650-8917
 Email: xrong [at] ccny [dot] cuny [dot] edu
 
 Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
-
-----------
-
-# Links
-
-排名不分先后。
-
-- [Chiyuan Zhang](http://freemind.pluskid.org)
-- [Yihui Xie](http://yihui.name)
-- [Farmostwood](http://blog.farmostwood.net)
-- [Chucai Yi](http://media-lab.engr.ccny.cuny.edu/~cyi)
-- [Xiaodong Yang](http://yangxd.org)
-
