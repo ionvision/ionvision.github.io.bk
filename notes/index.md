@@ -8,7 +8,7 @@ Here I record some of my notes about `research` & `design` & `coding`. Some of t
 
 It's worth noting that some contents may be biased by my personal preference.
 
-----------
+--------
 
 ## Memo
 
@@ -16,13 +16,14 @@ It's worth noting that some contents may be biased by my personal preference.
 
 - [Markdown Syntax](./markdown-syntax)
 
-- [Installation Scripts Collection](./installation-scripts-collection)
-
 - [Setting up OpenCV with Qt Creator in Ubuntu 13.10](./install-qt-opencv-ubuntu)
 
 <br>
 
-----------
+--------
+
+## Wiki
+
+--------
 
 ## Paper Reading
-
