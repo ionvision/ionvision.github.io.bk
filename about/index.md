@@ -23,8 +23,9 @@ Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
 
 排名不分先后。
 
-- [张驰原 Chiyuan Zhang](http://freemind.pluskid.org)
-- [谢益辉 Yihui Xie](http://yihui.name)
-- [木遥 Farmostwood](http://blog.farmostwood.net)
-- [易楚才 Chucai Yi](http://media-lab.engr.ccny.cuny.edu/~cyi)
-- [杨晓东 Xiaodong Yang](http://yangxd.org)
+- [Chiyuan Zhang](http://freemind.pluskid.org)
+- [Yihui Xie](http://yihui.name)
+- [Farmostwood](http://blog.farmostwood.net)
+- [Chucai Yi](http://media-lab.engr.ccny.cuny.edu/~cyi)
+- [Xiaodong Yang](http://yangxd.org)
+
