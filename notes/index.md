@@ -27,3 +27,7 @@ It's worth noting that some contents may be biased by my personal preference.
 --------
 
 ## Paper Reading
+
+- [Synthetic Text Localization in the Wild]()
+
+- [End-to-end People Detection in Crowded Scenes]()
