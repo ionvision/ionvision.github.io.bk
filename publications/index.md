@@ -8,7 +8,7 @@ comments: false
 
 X. Rong, Y. Tian. Adaptive Shrinkage Cascades for Blind Image Deconvolution. IEEE International Conference on Digital Signal Processing (DSP), 2016.
 
-Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
+Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016. [[PDF](/publications/pdf/TCSVT16.pdf)]
 
 R. Munoz, X. Rong, and Y. Tian. Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired. ICME Workshop on Mobile Multimedia Computing (MMC), 2016\. Oral Presentation. [[PDF](/publications/pdf/MMC16.pdf)]
 
