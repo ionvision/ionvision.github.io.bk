@@ -5,7 +5,7 @@ comments: false
 ---
 
 --------------------------------------------------------------------------------
-X. Rong, C. Yi, Y. Tian. Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network. ECCV workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
+X. Rong, C. Yi, Y. Tian. *Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network*. ECCV workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
 
 X. Rong, Y. Tian. Adaptive Shrinkage Cascades for Blind Image Deconvolution. IEEE International Conference on Digital Signal Processing (DSP), 2016.
 
