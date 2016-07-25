@@ -19,4 +19,4 @@ Y. Ye, X. Rong, X. Yang, Y. Tian. CCNY at TRECVID 2015: Video Semantic Concept L
 
 Y. Xian, X. Rong, X. Yang, and Y. Tian. CCNY at TRECVID 2014: Surveillance Event Detection. NIST TRECVID Workshop, 2014\. [[PDF](/publications/pdf/TRECVID14_SED.pdf)][[Poster](/publications/pdf/TRECVID14_SED_Poster.pdf)]
 
-Xuejian Rong, Chucai Yi, Xiaodong Yang, and Yingli Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014\. [[PDF](/publications/pdf/ICME14.pdf)][[Poster](/publications/pdf/ICME14_Poster.pdf)]
+X. Rong, C. Yi, X. Yang, and Y. Tian. Scene Text Recognition in Multiple Frames based on Text Tracking. IEEE International Conference on Multimedia & Expo (ICME), 2014\. [[PDF](/publications/pdf/ICME14.pdf)][[Poster](/publications/pdf/ICME14_Poster.pdf)]
