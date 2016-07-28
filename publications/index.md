@@ -7,11 +7,11 @@ comments: false
 X. Rong, C. Yi, Y. Tian. Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network. ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
 [[PDF](/publications/pdf/CVRSUAD16.pdf)]
 
-X. Rong, Y. Tian. Adaptive Shrinkage Cascades for Blind Image Deconvolution. IEEE International Conference on Digital Signal Processing (DSP), 2016.
-[[PDF](/publications/pdf/DSP16.pdf)]
-
 Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 [[PDF](/publications/pdf/TCSVT16.pdf)]
+
+X. Rong, Y. Tian. Adaptive Shrinkage Cascades for Blind Image Deconvolution. IEEE International Conference on Digital Signal Processing (DSP), 2016.
+[[PDF](/publications/pdf/DSP16.pdf)]
 
 J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi, Demo: Assisting Visually Impaired People Navigate Indoors, the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 [[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]
