@@ -66,7 +66,7 @@ comments: no
 >Great course for basic ideas of Deep Learning.
 
 
-- [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/)([More Practicals(http://www.robots.ox.ac.uk/~vgg/practicals/overview/index.html)]), by Andrea Vedaldi and Andrew Zisserman.
+- [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/), and [More Practicals](http://www.robots.ox.ac.uk/~vgg/practicals/overview/index.html), by Andrea Vedaldi and Andrew Zisserman.
 
 >Useful practical for Deep Learning based on Matlab.
 
