@@ -59,6 +59,19 @@ comments: no
 
 <br>
 
+## Courses and Notes:
+
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), by Fei-Fei Li in Stanford University.
+
+>Great course for basic ideas of Deep Learning.
+
+
+- [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/)([More Practicals(http://www.robots.ox.ac.uk/~vgg/practicals/overview/index.html)]), by Andrea Vedaldi and Andrew Zisserman.
+
+>Useful practical for Deep Learning based on Matlab.
+
+<br>
+
 ## Extra Machine Learning Tutorial:
 
 - [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/), ([Amazon](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)), by Kevin Patrick Murphy.
