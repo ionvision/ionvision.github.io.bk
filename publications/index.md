@@ -23,11 +23,11 @@ R. Munoz, X. Rong, and Y. Tian. Depth-aware Indoor Staircase Detection and Recog
 [[PDF](/publications/pdf/MMC16.pdf)]
 [[Slides](/publications/pdf/MMC16_Poster.pdf)]
 
-B. Li, X. Zhang, J. P. Munoz, J. Xiao, X. Rong, and Y. Tian. Assisting Blind People to Avoid Obstacles: An Wearable Obstacle Stereo Feedback System based on 3D Detection, IEEE International Conference on Robotics and Biomimetics (ROBIO), 2015.
-[[PDF](/publications/pdf/ROBIO15.pdf)]
-
 Y. Ye, X. Rong, X. Yang, Y. Tian. CCNY at TRECVID 2015: Video Semantic Concept Localization. NIST TRECVID Workshop, 2015.
 [[PDF](/publications/pdf/TRECVID15_LOC.pdf)]
+
+B. Li, X. Zhang, J. P. Munoz, J. Xiao, X. Rong, and Y. Tian. Assisting Blind People to Avoid Obstacles: An Wearable Obstacle Stereo Feedback System based on 3D Detection, IEEE International Conference on Robotics and Biomimetics (ROBIO), 2015.
+[[PDF](/publications/pdf/ROBIO15.pdf)]
 
 Y. Xian, X. Rong, X. Yang, and Y. Tian. CCNY at TRECVID 2014: Surveillance Event Detection. NIST TRECVID Workshop, 2014.
 [[PDF](/publications/pdf/TRECVID14_SED.pdf)]
