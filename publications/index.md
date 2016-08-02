@@ -19,7 +19,7 @@ Y. Ye, X. Rong, X. Yang, and Y. Tian. Region Trajectories for Video Semantic Con
 J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi, Demo: Assisting Visually Impaired People Navigate Indoors, the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 [[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]
 
-R. Munoz, X. Rong, and Y. Tian. Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired. ICME Workshop on Mobile Multimedia Computing (MMC), 2016\. Oral Presentation.
+R. Munoz, X. Rong, and Y. Tian. Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired. IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016\. Oral Presentation.
 [[PDF](/publications/pdf/MMC16.pdf)]
 [[Slides](/publications/pdf/MMC16_Poster.pdf)]
 
