@@ -4,7 +4,7 @@ layout: page
 comments: false
 ---
 
-X. Rong, Y. Tian. **Adaptive Shrinkage Cascades for Blind Image Deconvolution**. IEEE International Conference on Digital Signal Processing (DSP), 2016.
+X. Rong, Y. Tian. *Adaptive Shrinkage Cascades for Blind Image Deconvolution*. IEEE International Conference on Digital Signal Processing (DSP), 2016.
 [[PDF](/publications/pdf/DSP16.pdf)]
 
 Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
