@@ -4,19 +4,19 @@ layout: page
 comments: false
 ---
 
-X. Rong, Y. Tian. Adaptive Shrinkage Cascades for Blind Image Deconvolution. IEEE International Conference on Digital Signal Processing (DSP), 2016.
+X. Rong, Y. Tian. [Adaptive Shrinkage Cascades for Blind Image Deconvolution](/publications/pdf/DSP16.pdf). IEEE International Conference on Digital Signal Processing (DSP), 2016.
 [[PDF](/publications/pdf/DSP16.pdf)]
 
-Y. Xian, X. Rong, X. Yang, and Y. Tian. Evaluation of Low-Level Features for Real-World Surveillance Event Detection. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
+Y. Xian, X. Rong, X. Yang, and Y. Tian. [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/pdf/TCSVT16.pdf). IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 [[PDF](/publications/pdf/TCSVT16.pdf)]
 
-X. Rong, C. Yi, Y. Tian. Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network. ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
+X. Rong, C. Yi, Y. Tian. [Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network](/publications/pdf/CVRSUAD16.pdf). ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
 [[PDF](/publications/pdf/CVRSUAD16.pdf)]
 
-Y. Ye, X. Rong, X. Yang, and Y. Tian. Region Trajectories for Video Semantic Concept Detection. ACM International Conference on Multimedia Retrieval (ICMR), 2016.
+Y. Ye, X. Rong, X. Yang, and Y. Tian. [Region Trajectories for Video Semantic Concept Detection](/publications/pdf/ICMR16.pdf). ACM International Conference on Multimedia Retrieval (ICMR), 2016.
 [[PDF](/publications/pdf/ICMR16.pdf)]
 
-J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi, Demo: Assisting Visually Impaired People Navigate Indoors, the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
+J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi, [Demo: Assisting Visually Impaired People Navigate Indoors](/publications/pdf/IJCAI_DEMO16.pdf), the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 [[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]
 
 R. Munoz, X. Rong, and Y. Tian. Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired. IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016\. Oral Presentation.
