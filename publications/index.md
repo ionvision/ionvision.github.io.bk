@@ -33,13 +33,13 @@ ACM International Conference on Multimedia Retrieval (ICMR), 2016.
 > [Demo: Assisting Visually Impaired People Navigate Indoors](/publications/pdf/IJCAI_DEMO16.pdf).
 [[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]  
 J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
-The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016. [Tech Demo]
+The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
 > [Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired](/publications/pdf/MMC16.pdf).
 [[PDF](/publications/pdf/MMC16.pdf)]
 [[Slides](/publications/pdf/MMC16_Poster.pdf)]  
 R. Munoz, X. Rong, and Y. Tian.  
-IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016. [Oral Presentation]
+IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016. Oral Presentation.
 
 
 **2015**
