@@ -4,6 +4,12 @@ layout: page
 comments: false
 ---
 
+> [Adaptive Shrinkage Cascades for Blind Image Deconvolution](/publications/pdf/DSP16.pdf).  
+X. Rong, Y. Tian.  
+IEEE International Conference on Digital Signal Processing (DSP), 2016.  
+[[PDF](/publications/pdf/DSP16.pdf)]
+
+
 X. Rong, Y. Tian. [Adaptive Shrinkage Cascades for Blind Image Deconvolution](/publications/pdf/DSP16.pdf). IEEE International Conference on Digital Signal Processing (DSP), 2016.
 [[PDF](/publications/pdf/DSP16.pdf)]
 
