@@ -4,6 +4,8 @@ layout: page
 comments: false
 ---
 
+### 2016
+
 > [Adaptive Shrinkage Cascades for Blind Image Deconvolution](/publications/pdf/DSP16.pdf).  
 X. Rong, Y. Tian.  
 IEEE International Conference on Digital Signal Processing (DSP), 2016.  
@@ -36,6 +38,8 @@ IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016\. Oral Presentatio
 [[PDF](/publications/pdf/MMC16.pdf)]
 [[Slides](/publications/pdf/MMC16_Poster.pdf)]
 
+### 2015
+
 > [CCNY at TRECVID 2015: Video Semantic Concept Localization](/publications/pdf/TRECVID15_LOC.pdf).  
 Y. Ye, X. Rong, X. Yang, Y. Tian.  
 NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2015.  
@@ -45,6 +49,8 @@ NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2015.
 B. Li, X. Zhang, J. P. Munoz, J. Xiao, X. Rong, and Y. Tian.  
 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2015.  
 [[PDF](/publications/pdf/ROBIO15.pdf)]
+
+### 2014
 
 > [CCNY at TRECVID 2014: Surveillance Event Detection](/publications/pdf/TRECVID14_SED.pdf).  
 Y. Xian, X. Rong, X. Yang, and Y. Tian.  
