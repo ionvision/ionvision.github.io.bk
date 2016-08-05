@@ -7,8 +7,8 @@ For now I am a Ph.D. candidate in [Media Lab](http://media-lab.engr.ccny.cuny.ed
 
 Currently my research interests mainly focus on inference and learning for scene text detection and recognition in the wild, in the presence of image degradations like blur, distortion, noise, etc.
 
-### News
+## News
 
-> Won ICME 2016 Student Travel Scholarship from NSF. 
+> Won ICME 2016 Student Travel Scholarship from NSF.
 
 > One paper is accepted by DSP 2016.
