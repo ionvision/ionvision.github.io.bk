@@ -9,6 +9,6 @@ Currently my research interests mainly focus on inference and learning for scene
 
 ## News
 
-> Won ICME 2016 Student Travel Scholarship from NSF.
+### > Won ICME 2016 Student Travel Scholarship from NSF.
 
-> One paper is accepted by DSP 2016.
+### > One paper is accepted by DSP 2016.
