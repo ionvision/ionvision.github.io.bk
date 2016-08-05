@@ -17,4 +17,4 @@ Tel: (212) 650-8917
 
 Email: xrong [at] ccny [dot] cuny [dot] edu
 
-Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
+Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031.
