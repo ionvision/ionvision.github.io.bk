@@ -44,28 +44,29 @@ IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016. Oral Presentation
 
 **2015**
 
-> [CCNY at TRECVID 2015: Video Semantic Concept Localization](/publications/pdf/TRECVID15_LOC.pdf).
-[[PDF](/publications/pdf/TRECVID15_LOC.pdf)]  
-Y. Ye, X. Rong, X. Yang, Y. Tian.  
-NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2015.
-
-
 > [Assisting Blind People to Avoid Obstacles: An Wearable Obstacle Stereo Feedback System based on 3D Detection](/publications/pdf/ROBIO15.pdf).
 [[PDF](/publications/pdf/ROBIO15.pdf)]  
 B. Li, X. Zhang, J. P. Munoz, J. Xiao, X. Rong, and Y. Tian.  
 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2015.
 
 
-**2014**
+> [CCNY at TRECVID 2015: Video Semantic Concept Localization](/publications/pdf/TRECVID15_LOC.pdf).
+[[PDF](/publications/pdf/TRECVID15_LOC.pdf)]  
+Y. Ye, X. Rong, X. Yang, Y. Tian.  
+NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2015.
 
-> [CCNY at TRECVID 2014: Surveillance Event Detection](/publications/pdf/TRECVID14_SED.pdf).
-[[PDF](/publications/pdf/TRECVID14_SED.pdf)]
-[[Poster](/publications/pdf/TRECVID14_SED_Poster.pdf)]  
-Y. Xian, X. Rong, X. Yang, and Y. Tian.  
-NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2014.
+
+**2014**
 
 > [Scene Text Recognition in Multiple Frames based on Text Tracking](/publications/pdf/ICME14.pdf).
 [[PDF](/publications/pdf/ICME14.pdf)]
 [[Poster](/publications/pdf/ICME14_Poster.pdf)]  
 X. Rong, C. Yi, X. Yang, and Y. Tian.  
 IEEE International Conference on Multimedia and Expo (ICME), 2014.
+
+
+> [CCNY at TRECVID 2014: Surveillance Event Detection](/publications/pdf/TRECVID14_SED.pdf).
+[[PDF](/publications/pdf/TRECVID14_SED.pdf)]
+[[Poster](/publications/pdf/TRECVID14_SED_Poster.pdf)]  
+Y. Xian, X. Rong, X. Yang, and Y. Tian.  
+NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2014.
