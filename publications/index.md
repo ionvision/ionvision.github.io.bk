@@ -6,13 +6,13 @@ comments: false
 
 **2016**
 
-> [Adaptive Shrinkage Cascades for Blind Image Deconvolution](/publications/pdf/DSP16.pdf).
+> Adaptive Shrinkage Cascades for Blind Image Deconvolution.
 [[PDF](/publications/pdf/DSP16.pdf)]  
 X. Rong and Y. Tian.  
 IEEE International Conference on Digital Signal Processing (DSP), 2016.
 
 
-> [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/pdf/TCSVT16.pdf).
+> Evaluation of Low-Level Features for Real-World Surveillance Event Detection.
 [[PDF](/publications/pdf/TCSVT16.pdf)]  
 Y. Xian, X. Rong, X. Yang, and Y. Tian.  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
