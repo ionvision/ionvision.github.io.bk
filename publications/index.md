@@ -18,24 +18,24 @@ Y. Xian, X. Rong, X. Yang, and Y. Tian.
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 
 
-> [Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network](/publications/pdf/CVRSUAD16.pdf).
+> Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network.
 [[PDF](/publications/pdf/CVRSUAD16.pdf)]  
 X. Rong, C. Yi, and Y. Tian.  
 ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
 
 
-> [Region Trajectories for Video Semantic Concept Detection](/publications/pdf/ICMR16.pdf).
+> Region Trajectories for Video Semantic Concept Detection.
 [[PDF](/publications/pdf/ICMR16.pdf)]  
 Y. Ye, X. Rong, X. Yang, and Y. Tian.  
 ACM International Conference on Multimedia Retrieval (ICMR), 2016.
 
 
-> [Demo: Assisting Visually Impaired People Navigate Indoors](/publications/pdf/IJCAI_DEMO16.pdf).
+> Demo: Assisting Visually Impaired People Navigate Indoors.
 [[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]  
 J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
 The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
-> [Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired](/publications/pdf/MMC16.pdf).
+> Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired.
 [[PDF](/publications/pdf/MMC16.pdf)]
 [[Slides](/publications/pdf/MMC16_Poster.pdf)]  
 R. Munoz, X. Rong, and Y. Tian.  
