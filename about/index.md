@@ -13,7 +13,7 @@ modified: 2014-12-24
 
 ### Resume
 
-> [[Resume](http://xrong.org/resume.pdf)] (Updated in July 2016)
+> [[Resume](http://xrong.org/resume.pdf)]
 
 ----------
 
