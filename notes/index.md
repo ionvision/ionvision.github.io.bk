@@ -4,7 +4,7 @@ layout: page
 comments: no
 ---
 
-## Memo
+**Memo**
 
 - [Reading List for Computer Vision Beginners](./computer-vision-reading-list)
 
@@ -16,13 +16,13 @@ comments: no
 
 --------
 
-## Wiki
+**Wiki**
 
 <br>
 
 --------
 
-## Paper Reading
+**Paper Reading**
 
 - [Synthetic Text Localization in the Wild]()
 
