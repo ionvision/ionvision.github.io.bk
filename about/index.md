@@ -7,8 +7,8 @@ modified: 2014-12-24
 
 <audio width="300" height="32" style="margin: auto; top: 0; right: 0; bottom: 0; left: 0;" controls="controls" name="media" src="/media/music/from_sunset_to_sunrise.mp3"></audio>
 
-> From Sunset to Sunrise  
-Composer: Hiroyuki Sawano
+From Sunset to Sunrise [Hiroyuki Sawano]
+
 ----------
 
 ### Contact
