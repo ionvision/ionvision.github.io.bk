@@ -6,36 +6,36 @@ comments: false
 
 **2016**
 
-> Adaptive Shrinkage Cascades for Blind Image Deconvolution.
+> [Adaptive Shrinkage Cascades for Blind Image Deconvolution](/publications/pdf/DSP16.pdf).
 [[PDF](/publications/pdf/DSP16.pdf)]  
 X. Rong and Y. Tian.  
 IEEE International Conference on Digital Signal Processing (DSP), 2016.
 
 
-> Evaluation of Low-Level Features for Real-World Surveillance Event Detection.
+> [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/pdf/TCSVT16.pdf).
 [[PDF](/publications/pdf/TCSVT16.pdf)]  
 Y. Xian, X. Rong, X. Yang, and Y. Tian.  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 
 
-> Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network.
+> [Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network](/publications/pdf/CVRSUAD16.pdf).
 [[PDF](/publications/pdf/CVRSUAD16.pdf)]  
 X. Rong, C. Yi, and Y. Tian.  
 ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
 
 
-> Region Trajectories for Video Semantic Concept Detection.
+> [Region Trajectories for Video Semantic Concept Detection](/publications/pdf/ICMR16.pdf).
 [[PDF](/publications/pdf/ICMR16.pdf)]  
 Y. Ye, X. Rong, X. Yang, and Y. Tian.  
 ACM International Conference on Multimedia Retrieval (ICMR), 2016.
 
 
-> Demo: Assisting Visually Impaired People Navigate Indoors.
+> [Demo: Assisting Visually Impaired People Navigate Indoors](/publications/pdf/IJCAI_DEMO16.pdf).
 [[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]  
 J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
 The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
-> Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired.
+> [Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired](/publications/pdf/MMC16.pdf).
 [[PDF](/publications/pdf/MMC16.pdf)]
 [[Slides](/publications/pdf/MMC16_Poster.pdf)]  
 R. Munoz, X. Rong, and Y. Tian.  
