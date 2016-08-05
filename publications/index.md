@@ -20,7 +20,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 
 > [Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network](/publications/pdf/CVRSUAD16.pdf).
 [[PDF](/publications/pdf/CVRSUAD16.pdf)]  
-X. Rong, C. Yi, Y. Tian.  
+X. Rong, C. Yi, and Y. Tian.  
 ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
 
 
@@ -52,7 +52,7 @@ IEEE International Conference on Robotics and Biomimetics (ROBIO), 2015.
 
 > [CCNY at TRECVID 2015: Video Semantic Concept Localization](/publications/pdf/TRECVID15_LOC.pdf).
 [[PDF](/publications/pdf/TRECVID15_LOC.pdf)]  
-Y. Ye, X. Rong, X. Yang, Y. Tian.  
+Y. Ye, X. Rong, X. Yang, and Y. Tian.  
 NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2015.
 
 
