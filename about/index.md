@@ -10,7 +10,7 @@ modified: 2014-12-24
 `From Sunset to Sunrise`, Hiroyuki Sawano.
 
 ----------
-### [Resume](http://xrong.org/resume.pdf)
+> [Resume](http://xrong.org/resume.pdf)
 
 ### Contact
 
