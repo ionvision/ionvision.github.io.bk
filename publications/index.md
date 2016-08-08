@@ -9,7 +9,7 @@ comments: false
 > [Adaptive Shrinkage Cascades for Blind Image Deconvolution](/publications/pdf/DSP16.pdf).
 [[PDF](/publications/pdf/DSP16.pdf)]  
 X. Rong and Y. Tian.  
-IEEE International Conference on Digital Signal Processing (DSP), 2016. (Oral)
+IEEE International Conference on Digital Signal Processing (DSP), 2016. [Oral]
 
 
 > [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/pdf/TCSVT16.pdf).
@@ -39,7 +39,7 @@ The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016
 [[PDF](/publications/pdf/MMC16.pdf)]
 [[Slides](/publications/pdf/MMC16_Poster.pdf)]  
 R. Munoz, X. Rong, and Y. Tian.  
-IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016. (Oral)
+IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016. [Oral]
 
 
 **2015**
