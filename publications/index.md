@@ -13,7 +13,7 @@ IEEE International Conference on Digital Signal Processing (DSP), 2016. (Oral)
 
 
 > [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/pdf/TCSVT16.pdf).
-[[PDF](/publications/pdf/TCSVT16.pdf)]
+[[PDF](/publications/pdf/TCSVT16.pdf)]  
 Y. Xian, X. Rong, X. Yang, and Y. Tian.  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 
