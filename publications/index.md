@@ -39,7 +39,7 @@ The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016
 [[PDF](/publications/pdf/MMC16.pdf)]
 [[Slides](/publications/pdf/MMC16_Poster.pdf)]  
 R. Munoz, X. Rong, and Y. Tian.  
-IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016. (Oral)
+IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016.
 
 
 **2015**
