@@ -34,6 +34,7 @@
       - ![Architecture](images/Character-based_Neural_Machine_Translation__architecture.jpg?raw=true "Architecture")
 
   - Afterwards they apply the model from [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) to these vectors, yielding a translation to a target language.
+
   - Whenever that translation yields an unknown target-language-word ("UNK"), they replace it with the respective (untranslated) word from the source text.
 
 - Results

@@ -26,4 +26,4 @@ comments: false
 
 - [Synthetic Text Localization in the Wild]()
 
-- [End-to-end People Detection in Crowded Scenes](./paper/end_to_end_people_detection_in_crowded_scenes)
+- [End-to-end People Detection in Crowded Scenes](./paper/end-to-end-people-detection-in-crowded-scenes)
