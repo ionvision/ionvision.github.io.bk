@@ -22,6 +22,8 @@ comments: false
   - Thereby, the model can spot character-similarities between words and treat them in a similar way.
   - They do that only for the source language, not for the target language.
 
+--------------------------------------------------------------------------------
+
 ## How
 
 - They treat each word of the source text on its own.
@@ -42,6 +44,8 @@ comments: false
 - Afterwards they apply the model from [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) to these vectors, yielding a translation to a target language.
 
 - Whenever that translation yields an unknown target-language-word ("UNK"), they replace it with the respective (untranslated) word from the source text.
+
+--------------------------------------------------------------------------------
 
 ## Results
 
