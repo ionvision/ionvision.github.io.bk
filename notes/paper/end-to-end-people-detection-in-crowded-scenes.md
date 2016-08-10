@@ -1,3 +1,9 @@
+---
+title: Character-based Neural Machine Translation
+layout: page
+comments: false
+---
+
 # Paper
 
 - **Title**: Character-based Neural Machine Translation
