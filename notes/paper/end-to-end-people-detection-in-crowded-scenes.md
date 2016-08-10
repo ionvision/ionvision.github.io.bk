@@ -1,15 +1,15 @@
 ---
-title: Character-based Neural Machine Translation
+title: End-to-end People Detection in Crowded Scenes
 layout: page
 comments: false
 ---
 
 # Paper
 
-- **Title**: Character-based Neural Machine Translation
-- **Authors**: Marta R. Costa-Jussà, José A. R. Fonollosa
-- **Link**: <http://arxiv.org/abs/1603.00810v3>
-- **Tags**: Neural Network, machine translation
+- **Title**: End-to-end People Detection in Crowded Scenes
+- **Authors**: Russell Stewart, Mykhaylo Andriluka, and Andrew Y. Ng
+- **Link**: <http://arxiv.org/abs/1506.04878>, <https://github.com/Russell91/TensorBox>
+- **Tags**: RNN, LSTM, End-to-end, People Detection
 - **Year**: 2016
 
 # Summary
