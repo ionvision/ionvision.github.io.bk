@@ -37,7 +37,7 @@ comments: false
     - They get 1024-dimensional vectors (one per word).
     - Visualization of their steps:
 
-      - ![Architecture](images/Character-based_Neural_Machine_Translation__architecture.jpg?raw=true "Architecture")
+      - ![Architecture](figs/Character-based_Neural_Machine_Translation__architecture.jpg?raw=true "Architecture")
 
   - Afterwards they apply the model from [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) to these vectors, yielding a translation to a target language.
 
@@ -58,4 +58,4 @@ comments: false
 
   - Translation examples (Phrase = phrase-based/non-neural translation, NN = non-character-based neural translation, CHAR = theirs):
 
-    - ![Examples](images/Character-based_Neural_Machine_Translation__examples.jpg?raw=true "Examples")
+    - ![Examples](figs/Character-based_Neural_Machine_Translation__examples.jpg?raw=true "Examples")
