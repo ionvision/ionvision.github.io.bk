@@ -26,7 +26,7 @@ ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Dri
 > [ISANA: Wearable Context-Aware Indoor Assistive Navigation with Obstacle Avoidance for the Blind](/publications/pdf/ACVR16.pdf).
 [[PDF](/publications/pdf/ACVR16.pdf)]  
 B. Li, JP. Munoz, X. Rong, J. Xiao, Y. Tian, A. Arditi.  
-ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016.
+ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016. (Oral)
 
 > [Region Trajectories for Video Semantic Concept Detection](/publications/pdf/ICMR16.pdf).
 [[PDF](/publications/pdf/ICMR16.pdf)]  
