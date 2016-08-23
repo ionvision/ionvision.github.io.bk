@@ -23,10 +23,6 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 X. Rong, C. Yi, and Y. Tian.  
 ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
 
-> [ISANA: Wearable Context-Aware Indoor Assistive Navigation with Obstacle Avoidance for the Blind](/publications/pdf/ACVR16.pdf).
-[[PDF](/publications/pdf/ACVR16.pdf)]  
-B. Li, JP. Munoz, X. Rong, J. Xiao, Y. Tian, A. Arditi.  
-ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016.
 
 > [Region Trajectories for Video Semantic Concept Detection](/publications/pdf/ICMR16.pdf).
 [[PDF](/publications/pdf/ICMR16.pdf)]  
@@ -34,10 +30,17 @@ Y. Ye, X. Rong, X. Yang, and Y. Tian.
 ACM International Conference on Multimedia Retrieval (ICMR), 2016.
 
 
+> [ISANA: Wearable Context-Aware Indoor Assistive Navigation with Obstacle Avoidance for the Blind](/publications/pdf/ACVR16.pdf).
+[[PDF](/publications/pdf/ACVR16.pdf)]  
+B. Li, JP. Munoz, X. Rong, J. Xiao, Y. Tian, A. Arditi.  
+ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016.
+
+
 > [Demo: Assisting Visually Impaired People Navigate Indoors](/publications/pdf/IJCAI_DEMO16.pdf).
 [[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]  
 J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
 The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
+
 
 > [Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired](/publications/pdf/MMC16.pdf).
 [[PDF](/publications/pdf/MMC16.pdf)]
