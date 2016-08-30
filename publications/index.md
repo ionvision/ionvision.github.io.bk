@@ -32,13 +32,13 @@ ACM International Conference on Multimedia Retrieval (ICMR), 2016.
 
 > [ISANA: Wearable Context-Aware Indoor Assistive Navigation with Obstacle Avoidance for the Blind](/publications/pdf/ACVR16.pdf).
 [[PDF](/publications/pdf/ACVR16.pdf)]  
-B. Li, J. P. Munoz, X. Rong, J. Xiao, Y. Tian, A. Arditi.  
+B. Li, J. Munoz, X. Rong, J. Xiao, Y. Tian, A. Arditi.  
 ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016.
 
 
 > [Demo: Assisting Visually Impaired People Navigate Indoors](/publications/pdf/IJCAI_DEMO16.pdf).
 [[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]  
-J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
+J. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
 The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
 
