@@ -24,6 +24,11 @@ X. Rong, C. Yi, and Y. Tian.
 ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
 
 
+> [Guided Text Spotting for Assistive Blind Navigation in Unfamiliar Indoor Environments]().  
+X. Rong, B. Li, J. Munoz, J. Xiao, A. Arditi, and Y. Tian.
+12th International Symposium on Visual Computing (ISVC), 2016. (Oral)
+
+
 > [Region Trajectories for Video Semantic Concept Detection](/publications/pdf/ICMR16.pdf).
 [[PDF](/publications/pdf/ICMR16.pdf)]  
 Y. Ye, X. Rong, X. Yang, and Y. Tian.  
@@ -32,7 +37,7 @@ ACM International Conference on Multimedia Retrieval (ICMR), 2016.
 
 > [ISANA: Wearable Context-Aware Indoor Assistive Navigation with Obstacle Avoidance for the Blind](/publications/pdf/ACVR16.pdf).
 [[PDF](/publications/pdf/ACVR16.pdf)]  
-B. Li, J. Munoz, X. Rong, J. Xiao, Y. Tian, A. Arditi.  
+B. Li, J. Munoz, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
 ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016.
 
 
