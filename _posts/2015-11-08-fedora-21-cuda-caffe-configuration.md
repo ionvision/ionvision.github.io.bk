@@ -2,7 +2,7 @@
 layout: post
 title: Caffe + Fedora 21 + CUDA 7.5 开发环境配置总结
 ---
-> 阅读须知：本文主要针对使用Caffe进行深度学习研究的用户，提供Fedora 21的系统开发环境配置说明，未使用Fedora 22/23的主要原因是CUDA 7.5的更新支持与对稳定性的需求，未使用CentOS 7的主要原因是虽相对稳定但缺乏较新的软件包（若为服务器端则仍建议使用CentOS 7）。除少数系统依赖的特性外，**本文大多数配置亦可用于Ubuntu的配置参考**。
+> 阅读须知：本文主要针对使用Caffe进行深度学习研究的用户，提供Fedora 21的系统开发环境配置说明，未使用Fedora 22/23的主要原因是CUDA 7.5的更新支持与对稳定性的需求，未使用CentOS 7的主要原因是虽相对稳定但缺乏较新的软件包（若为服务器端则仍建议使用CentOS 7）。除少数系统依赖的特性外，**本文大多数内容亦可用于Ubuntu的配置参考**。
 
 # 1. 系统配置
 <br>
@@ -264,7 +264,7 @@ Mendeley是一个跨平台的文献管理软件，其内部自带了一个可以
 ```sh
 tar -xvf mendeleydesktop-1.15.1-linux-x86_64.tar.bz2
 sudo mv mendeleydesktop /opt
-cd /opt/mendeleydesktop/bin 
+cd /opt/mendeleydesktop/bin
 ./install-mendeley-link-handler.sh /opt/mendeleydesktop/bin/mendeleydesktop
 sudo yum install qtwebkit
 ```
@@ -573,4 +573,3 @@ make runtest
 [^6]: [How To Install Java on CentOS and Fedora](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-centos-and-fedora)
 [^7]: [Multiple Versions of gcc on Fedora 15](http://radek.io/2011/10/30/multiple-versions-of-gcc-on-fedora-15/)
 [^8]: [Hey Prezto - Zsh for Command Line Heaven](http://jr0cket.co.uk/2013/09/hey-prezto-zsh-for-command-line-heaven.html)
-
