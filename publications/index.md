@@ -11,6 +11,10 @@ comments: false
 X. Rong and Y. Tian.  
 IEEE International Conference on Digital Signal Processing (DSP), 2016. (Oral)
 
+> [Guided Text Spotting for Assistive Blind Navigation in Unfamiliar Indoor Environments]().  
+X. Rong, B. Li, J. Munoz, J. Xiao, A. Arditi, and Y. Tian.
+12th International Symposium on Visual Computing (ISVC), 2016. (Oral)
+
 
 > [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/pdf/TCSVT16.pdf).
 [[PDF](/publications/pdf/TCSVT16.pdf)]  
@@ -22,11 +26,6 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 [[PDF](/publications/pdf/CVRSUAD16.pdf)]  
 X. Rong, C. Yi, and Y. Tian.  
 ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
-
-
-> [Guided Text Spotting for Assistive Blind Navigation in Unfamiliar Indoor Environments]().  
-X. Rong, B. Li, J. Munoz, J. Xiao, A. Arditi, and Y. Tian.
-12th International Symposium on Visual Computing (ISVC), 2016. (Oral)
 
 
 > [Region Trajectories for Video Semantic Concept Detection](/publications/pdf/ICMR16.pdf).
