@@ -41,12 +41,6 @@ B. Li, J. Munoz, X. Rong, J. Xiao, Y. Tian, and A. Arditi.
 ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016.
 
 
-> [Demo: Assisting Visually Impaired People Navigate Indoors](/publications/pdf/IJCAI_DEMO16.pdf).
-[[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]  
-J. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
-The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
-
-
 > [Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired](/publications/pdf/MMC16.pdf).
 [[PDF](/publications/pdf/MMC16.pdf)]
 [[Slides](/publications/pdf/MMC16_Poster.pdf)]  
