@@ -6,6 +6,11 @@ comments: false
 
 **2016**
 
+> Guided Text Spotting for Assistive Blind Navigation in Unfamiliar Indoor Environments.  
+X. Rong, B. Li, J. Munoz, J. Xiao, A. Arditi, and Y. Tian.  
+The 12th International Symposium on Visual Computing (ISVC), 2016. (Oral)
+
+
 > [Adaptive Shrinkage Cascades for Blind Image Deconvolution](/publications/pdf/DSP16.pdf).
 [[PDF](/publications/pdf/DSP16.pdf)]  
 X. Rong and Y. Tian.  
@@ -14,7 +19,7 @@ IEEE International Conference on Digital Signal Processing (DSP), 2016. (Oral)
 
 > [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/pdf/TCSVT16.pdf).
 [[PDF](/publications/pdf/TCSVT16.pdf)]  
-Y. Xian, X. Rong, X. Yang, and Y. Tian.  
+Y. Xian, X. Rong, X. Yang, and Y. Tian.   
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 
 
@@ -32,14 +37,8 @@ ACM International Conference on Multimedia Retrieval (ICMR), 2016.
 
 > [ISANA: Wearable Context-Aware Indoor Assistive Navigation with Obstacle Avoidance for the Blind](/publications/pdf/ACVR16.pdf).
 [[PDF](/publications/pdf/ACVR16.pdf)]  
-B. Li, J. Munoz, X. Rong, J. Xiao, Y. Tian, A. Arditi.  
+B. Li, J. Munoz, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
 ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016.
-
-
-> [Demo: Assisting Visually Impaired People Navigate Indoors](/publications/pdf/IJCAI_DEMO16.pdf).
-[[PDF](/publications/pdf/IJCAI_DEMO16.pdf)]  
-J. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
-The 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
 
 > [Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired](/publications/pdf/MMC16.pdf).
