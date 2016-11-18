@@ -6,7 +6,8 @@ comments: false
 
 **2016**
 
-> Guided Text Spotting for Assistive Blind Navigation in Unfamiliar Indoor Environments.  
+> [Guided Text Spotting for Assistive Blind Navigation in Unfamiliar Indoor Environments](/publications/pdf/ISVC16.pdf).
+[[PDF](/publications/pdf/ISVC16.pdf)]  
 X. Rong, B. Li, J. Munoz, J. Xiao, A. Arditi, and Y. Tian.  
 The 12th International Symposium on Visual Computing (ISVC), 2016. (Oral)
 
