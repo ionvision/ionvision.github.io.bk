@@ -121,16 +121,21 @@ zstyle ':prezto:load' pmodule \
 
 完成后可以使用短命令显著简化git操作，相关说明可以参考[prezto文档](https://github.com/sorin-ionescu/prezto/tree/master/modules/git)
 
+
 Btw, install [zsh-background-notify](https://github.com/t413/zsh-background-notify):
 
 1. Clone the repository:
+
 ```sh
 git clone https://github.com/t413/zsh-background-notify.git ~/.zsh-background-notify
 ```
+
 2. And add one line your .zshrc:
+
 ```sh
 source $HOME/.zsh-background-notify/bgnotify.plugin.zsh
 ```
+
 Done!
 
 
