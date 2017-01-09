@@ -25,7 +25,9 @@ IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016.
 
 
 > [Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network](/publications/pdf/CVRSUAD16.pdf).
-[[PDF](/publications/pdf/CVRSUAD16.pdf)] [[Poster](/publications/pdf/CVRSUAD16_Poster.pdf)] [[Dataset](http://media-lab.ccny.cuny.edu/wordpress/Code/TGPT.zip)]  
+[[PDF](/publications/pdf/CVRSUAD16.pdf)]
+[[Poster](/publications/pdf/CVRSUAD16_Poster.pdf)]
+[[Dataset](http://media-lab.ccny.cuny.edu/wordpress/Code/TGPT.zip)]  
 X. Rong, C. Yi, and Y. Tian.  
 ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (CVRSUAD), 2016.
 
@@ -44,7 +46,8 @@ ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016.
 
 > [Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired](/publications/pdf/MMC16.pdf).
 [[PDF](/publications/pdf/MMC16.pdf)]
-[[Slides](/publications/pdf/MMC16_Poster.pdf)]  
+[[Slides](/publications/pdf/MMC16_Poster.pdf)]
+[[Dataset](http://media-lab.ccny.cuny.edu/wordpress/Code/Staircase.zip)]  
 R. Munoz, X. Rong, and Y. Tian.  
 IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016.
 
@@ -74,6 +77,7 @@ IEEE International Conference on Multimedia and Expo (ICME), 2014.
 
 > [CCNY at TRECVID 2014: Surveillance Event Detection](/publications/pdf/TRECVID14_SED.pdf).
 [[PDF](/publications/pdf/TRECVID14_SED.pdf)]
-[[Poster](/publications/pdf/TRECVID14_SED_Poster.pdf)]  
+[[Poster](/publications/pdf/TRECVID14_SED_Poster.pdf)]
+[[Dataset](http://media-lab.ccny.cuny.edu/wordpress/Code/CCD-Dataset.zip)]  
 Y. Xian, X. Rong, X. Yang, and Y. Tian.  
 NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2014.
