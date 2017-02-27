@@ -9,8 +9,6 @@ Currently my research interests mainly focus on inference and learning for scene
 
 ## News
 
-> One (oral) paper has been accepted by ISVC 2016.
+> One paper is accepted by IEEE CVPR 2017.
 
 > Won ICME 2016 Student Travel Scholarship from NSF.
-
-> One (oral) paper has been accepted by DSP 2016.
