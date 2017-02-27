@@ -9,6 +9,6 @@ Currently my research interests mainly focus on inference and learning for scene
 
 ## News
 
-> One paper is accepted by IEEE CVPR 2017.
+> One paper is accepted by [CVPR 2017](http://cvpr2017.thecvf.com).
 
-> Won ICME 2016 Student Travel Scholarship from NSF.
+> Won [ICME](http://www.icme2016.org/) 2016 Student Travel Scholarship from NSF.
