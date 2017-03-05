@@ -8,7 +8,7 @@ comments: false
 
 > Unambiguous Text Localization and Retrieval for Cluttered Scenes.  
 X. Rong, C. Yi, and Y. Tian.  
-To appear in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. (Spotlight)
 
 > [Evaluation of Low-Level Features for Real-World Surveillance Event Detection](/publications/pdf/TCSVT16.pdf).
 [[PDF](/publications/pdf/TCSVT16.pdf)]  
