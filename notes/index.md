@@ -18,8 +18,6 @@ comments: false
 
 # Paper Reading
 
-**08/2016**
-
 - [Synthetic Text Localization in the Wild]()
 
 - [End-to-end People Detection in Crowded Scenes]()
