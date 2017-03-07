@@ -9,6 +9,6 @@ Currently my research interests mainly focus on inference and learning for scene
 
 ## News
 
-> One (spotlight) paper on scene text localization and retrieval is accepted by [CVPR 2017](http://cvpr2017.thecvf.com).
+> One (spotlight) paper on scene text localization and retrieval to appear at [CVPR 2017](http://cvpr2017.thecvf.com).
 
 > Won [ICME 2016](http://www.icme2016.org/) Student Travel Scholarship from NSF.
