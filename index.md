@@ -13,8 +13,8 @@ Currently my research interests mainly focus on inference and learning for scene
 
 > `(01/2017)` Thanks to NVIDIA for supporting my research with an NVIDIA GPU Grant.
 
-> `(12/2016)` One (oral) paper on text detection for the blind accepted at [ISVC 2016](http://isvc.net)
+> `(12/2016)` One (oral) paper on text detection for the blind accepted at [ISVC 2016](http://isvc.net).
 
-> `(10/2016)` One (oral) paper on image deblurring accepted at [DSP 2016](http://dsp2016.csp.escience.cn)
+> `(10/2016)` One (oral) paper on image deblurring accepted at [DSP 2016](http://dsp2016.csp.escience.cn).
 
 > `(07/2016)` Won [ICME 2016](http://www.icme2016.org/) Student Travel Scholarship from NSF.
