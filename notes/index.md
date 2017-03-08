@@ -8,24 +8,20 @@ comments: false
 
 `From Sunset to Sunrise`, by Hiroyuki Sawano.
 
-<br>
-
 ---
 
 # Memo
 
-- [Reading List for Computer Vision Beginners](./computer-vision-reading-list)
+> [Reading List for Computer Vision Beginners](./computer-vision-reading-list)
 
-- [Markdown Syntax](./markdown-syntax)
+> [Markdown Syntax](./markdown-syntax)
 
-- [Setting up OpenCV with Qt Creator in Ubuntu 13.10](./install-qt-opencv-ubuntu)
-
-<br>
+> [Setting up OpenCV with Qt Creator in Ubuntu 13.10](./install-qt-opencv-ubuntu)
 
 ---
 
 # Paper Reading
 
-- [Synthetic Text Localization in the Wild]()
+> [Synthetic Text Localization in the Wild]()
 
-- [End-to-end People Detection in Crowded Scenes]()
+> [End-to-end People Detection in Crowded Scenes]()
