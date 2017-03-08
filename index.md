@@ -9,12 +9,12 @@ Currently my research interests mainly focus on inference and learning for scene
 
 ## News
 
-> `(03/2017)` One (spotlight) paper on scene text localization and retrieval to appear at [CVPR 2017](http://cvpr2017.thecvf.com).
+> `03/2017` One (spotlight) paper on scene text localization and retrieval to appear at [CVPR 2017](http://cvpr2017.thecvf.com).
 
-> `(01/2017)` Thanks to NVIDIA for supporting my research with an NVIDIA GPU Grant.
+> `01/2017` Thanks to NVIDIA for supporting my research with an NVIDIA GPU Grant.
 
-> `(12/2016)` One (oral) paper on text detection for blind navigation accepted at [ISVC 2016](http://isvc.net).
+> `12/2016` One (oral) paper on text detection for blind navigation accepted at [ISVC 2016](http://isvc.net).
 
-> `(10/2016)` One (oral) paper on image deblurring accepted at [DSP 2016](http://dsp2016.csp.escience.cn).
+> `10/2016` One (oral) paper on image deblurring accepted at [DSP 2016](http://dsp2016.csp.escience.cn).
 
-> `(07/2016)` Won [ICME 2016](http://www.icme2016.org/) Student Travel Scholarship from NSF.
+> `07/2016` Won [ICME 2016](http://www.icme2016.org/) Student Travel Scholarship from NSF.
