@@ -13,4 +13,4 @@ Currently my research interests mainly focus on inference and learning for scene
 
 > `12/2016` Thanks to NVIDIA for supporting my research with an NVIDIA GPU Grant.
 
-> `07/2016` Won [ICME 2016](http://www.icme2016.org/) Student Travel Scholarship from NSF.
+> `07/2016` Won [ICME 2016](http://www.icme2016.org/) Student Travel Award from NSF.
