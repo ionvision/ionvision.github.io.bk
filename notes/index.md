@@ -18,10 +18,3 @@ comments: false
 
 > [Setting up OpenCV with Qt Creator in Ubuntu 13.10](./install-qt-opencv-ubuntu)
 
----
-
-# Paper Reading
-
-> [Synthetic Text Localization in the Wild]()
-
-> [End-to-end People Detection in Crowded Scenes]()
