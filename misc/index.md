@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Misc
 layout: page
 comments: false
 ---
