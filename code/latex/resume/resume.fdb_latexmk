@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1491770809 "resume.tex" "/home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.pdf" "resume" 1491770810
+["pdflatex"] 1491776220 "resume.tex" "/home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.pdf" "resume" 1491776221
   "/etc/texmf/web2c/texmf.cnf" 1479327081 1101 af7716885e081ab43982cab7b4672c1a ""
-  "/home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.aux" 1491770810 744 9979fe1e4751d0754ec16ccbd6bad158 ""
+  "/home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.aux" 1491776221 744 9979fe1e4751d0754ec16ccbd6bad158 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -91,13 +91,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1458942643 31351 b32c45dce4a01cb7b53ed90c546614ca ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1479327281 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1479327294 3856249 59cace54702b585428f0e142921b3e29 ""
-  "resume.aux" 1491770810 744 9979fe1e4751d0754ec16ccbd6bad158 ""
-  "resume.out" 1491770809 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "resume.tex" 1491770808 10853 8b543585c8ed4901867b452124e6df3a ""
+  "resume.aux" 1491776221 744 9979fe1e4751d0754ec16ccbd6bad158 ""
+  "resume.out" 1491776220 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume.tex" 1491776220 10862 c19a30fc6acc7233a4607347e56cbb05 ""
   (generated)
-  "resume.aux"
   "/home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.pdf"
+  "resume.pdf"
   "resume.log"
   "resume.out"
+  "resume.aux"
   "/home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.log"
-  "resume.pdf"
