@@ -55,7 +55,7 @@ ECCV Workshop on Assistive Computer Vision and Robotics (ACVR), 2016.
 
 > [Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired](/publications/pdf/mmc16.pdf).
 [[PDF](/publications/pdf/mmc16.pdf)]
-[[Slides](/publications/pdf/mmc16_Poster.pdf)]
+[[Slides](/publications/pdf/mmc16_poster.pdf)]
 [[Dataset](http://media-lab.ccny.cuny.edu/wordpress/Code/Staircase.zip)]  
 R. Munoz, X. Rong, and Y. Tian.  
 IEEE ICME Workshop on Mobile Multimedia Computing (MMC), 2016.
