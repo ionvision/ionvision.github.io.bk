@@ -6,7 +6,8 @@ comments: false
 
 **2017**
 
-> Unambiguous Text Localization and Retrieval for Cluttered Scenes.  
+> [Unambiguous Text Localization and Retrieval for Cluttered Scenes](/publications/pdf/CVPR17.pdf).
+[[PDF](/publications/pdf/CVPR17.pdf)][Dataset][Code]
 X. Rong, C. Yi, and Y. Tian.  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. (Spotlight)
 
