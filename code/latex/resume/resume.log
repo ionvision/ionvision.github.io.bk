@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.16)  10 JUL 2017 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.16)  10 JUL 2017 17:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -570,26 +570,28 @@ Package microtype Info: Character `013' is missing
 Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
+ [2
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
  (/home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
  ) 
 Here is how much of TeX's memory you used:
- 11594 strings out of 493029
- 209709 string characters out of 6136233
- 408236 words of memory out of 5000000
+ 11586 strings out of 493029
+ 209647 string characters out of 6136233
+ 409236 words of memory out of 5000000
  14847 multiletter control sequences out of 15000+600000
- 42529 words of font info for 173 fonts, out of 8000000 for 9000
+ 42115 words of font info for 166 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,22n,80p,439b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,22n,80p,451b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on /home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.pdf (2 pages, 68215 bytes).
+Output written on /home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.pdf (2 pages, 67993 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
