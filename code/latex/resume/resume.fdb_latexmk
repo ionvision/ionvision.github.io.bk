@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1503951991 "resume.tex" "/home/xrong/Documents/Doc/Git/jastarex.github.io/code/latex/resume/resume.pdf" "resume" 1503952028
+["pdflatex"] 1503953210 "resume.tex" "/home/xrong/Documents/Doc/Git/jastarex.github.io/code/latex/resume/resume.pdf" "resume" 1503953216
   "/etc/texmf/web2c/texmf.cnf" 1503003864 1101 af7716885e081ab43982cab7b4672c1a ""
-  "/home/xrong/Documents/Doc/Git/jastarex.github.io/code/latex/resume/resume.aux" 1503951992 744 9979fe1e4751d0754ec16ccbd6bad158 ""
+  "/home/xrong/Documents/Doc/Git/jastarex.github.io/code/latex/resume/resume.aux" 1503953210 744 9979fe1e4751d0754ec16ccbd6bad158 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -91,15 +91,15 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1503483879 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1503483899 3854555 39b5294db636e36a5501bef682170e2e ""
-  "resume.aux" 1503951992 744 9979fe1e4751d0754ec16ccbd6bad158 ""
-  "resume.out" 1503951992 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "resume.tex" 1503952028 9976 b0a64183596e4d07b5677fdcd5e23fed ""
+  "resume.aux" 1503953210 744 9979fe1e4751d0754ec16ccbd6bad158 ""
+  "resume.out" 1503953210 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume.tex" 1503953216 9989 0db425c3a846bad89dae4d1709c03cdb ""
   (generated)
   "/home/xrong/Documents/Doc/Git/jastarex.github.io/code/latex/resume/resume.log"
-  "resume.log"
   "resume.out"
   "/home/xrong/Documents/Doc/Git/jastarex.github.io/code/latex/resume/resume.pdf"
-  "resume.aux"
+  "resume.pdf"
   "/home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.pdf"
   "/home/xrong/Documents/Doc/github/jastarex.github.io/code/latex/resume/resume.log"
-  "resume.pdf"
+  "resume.aux"
+  "resume.log"
