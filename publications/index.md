@@ -18,9 +18,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. (Spotli
 Y. Xian, X. Rong, X. Yang, and Y. Tian.  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017.
 
-> [An Assistive Indoor Navigation System for the Visually Impaired in Multi-Floor Environments](/publications/cyber17.pdf).  
+> [Assistive Indoor Navigation for the Visually Impaired in Multi-Floor Environments](/publications/cyber17.pdf).  
 J. P. Munoz, B. Li, X. Rong, J. Xiao, Y. Tian, and A. Arditi.  
-IEEE International Conference on CYBER Technology in Automation (CYBER), 2017. (Best Paper Award)
+IEEE Intl. Conf. on CYBER Tech. (CYBER), 2017. (Best Paper Award)
 
 **2016**
 
