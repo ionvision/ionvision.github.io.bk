@@ -4,7 +4,7 @@ title: Xuejian Rong
 ---
 # Xuejian Rong
 
-> PhD researcher, Neural Network Alchemist, Karateka.
+PhD researcher, Neural Network Alchemist, Karateka.
 
 <div id="webaddress">
 <a href="http://xrong.org">Home</a>
