@@ -3,7 +3,7 @@ layout: cv
 title: Xuejian Rong
 ---
 # Xuejian Rong
-Physicist, Mathematician, Cambridge professor.
+PhD researher, Maker, Karateka.
 
 <div id="webaddress">
 <a href="http://xrong.org">Home</a>
@@ -46,7 +46,6 @@ __Nanjing University of Aeronautics and Astronautics__
 
 
 ## Publications
-
 
 `2017`
 [Unambiguous Text Localization and Retrieval for Cluttered Scenes](/publications/cvpr17.pdf).
@@ -143,7 +142,19 @@ NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2014.
 <sup>*</sup> above denotes equal contribution
 --->
 
+## Experiences
 
+`2013.09 - Now`
+__Research Assistant__
+- Media Lab, City University of New York
+
+`2017.09 - 2017.12`
+__Teaching Assistant__
+- I2200 Digital Image Processing, City University of New York
+
+`2017.09 - 2017.10`
+__Lecturer__
+- Deep Learning for Computer Vision, ChinaHadoop
 
 
 <!-- ### Footer
