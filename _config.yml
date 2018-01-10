@@ -1,14 +1,1 @@
-markdown: kramdown
-highlighter: rouge
-permalink: /:year/:month/:title/
-url: http://xrong.org
-author: Xuejian Rong
-pygments: true
-
-kramdown:
-  input: GFM
-
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-47201105-1'
+markdown:   kramdown
