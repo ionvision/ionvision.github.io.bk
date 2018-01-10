@@ -155,11 +155,11 @@ __Teaching Assistant__
 
 `2017.09 - 2017.10`
 __Lecturer__
-- Deep Learning for Computer Vision, ChinaHadoop
+- Deep Learning for Computer Vision course, 900+ students, [ChinaHadoop](chinahadoop.cn)
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2018 -->
 
 
