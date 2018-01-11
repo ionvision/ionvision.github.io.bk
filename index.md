@@ -8,7 +8,7 @@ PhD researcher, Neural Network Alchemist, Karateka.
 
 <div id="webaddress">
 <a href="http://xrong.org">Home</a>
-| <a href="xrong@ccny.cuny.edu">Email</a>
+| <a href="mailto:xrong@ccny.cuny.edu">Email</a>
 | <a href="/resume.pdf">Resume</a>
 | <a href="http://xrong.org/blog">Blog</a>
 </div>
