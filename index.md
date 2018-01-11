@@ -56,9 +56,9 @@ __Nanjing University of Aeronautics and Astronautics__
 
 `2017`
 [Unambiguous Text Localization and Retrieval for Cluttered Scenes](/publications/cvpr17.pdf).
-[[PDF](/publications/cvpr17.pdf)]
-[Dataset]
-[Code]  
+[[PDF](/publications/cvpr17.pdf)]  
+<!-- [Dataset] -->
+<!-- [Code]   -->
 **Xuejian Rong**, Chucai Yi, and Yingli Tian.  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. (Spotlight)
 
