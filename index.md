@@ -153,7 +153,7 @@ NIST TREC Video Retrieval Evaluation Workshop (TREVCID), 2014.
 
 `2013.09 - Now`
 __Research Assistant__
-- Media Lab, City University of New York
+- The City College, City University of New York
 
 `2017.09 - 2017.12`
 __Teaching Assistant__
@@ -161,7 +161,7 @@ __Teaching Assistant__
 
 `2017.09 - 2017.10`
 __Lecturer__
-- Deep Learning for Computer Vision course, 900+ students, [ChinaHadoop](chinahadoop.cn)
+- Deep Learning for Computer Vision course, 900+ students, [ChinaHadoop](http://www.chinahadoop.cn)
 
 
 <!-- ### Footer
