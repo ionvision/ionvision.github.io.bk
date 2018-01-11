@@ -6,14 +6,12 @@ title: Xuejian Rong
 
 PhD researcher, Neural Network Alchemist, Karateka.
 
-> [Home](http://xrong.org) | [Resume](/resume.pdf) | [Blog](http://xrong.org/blog) | `xrong#ccny.cuny.edu`
-
-<!-- <div id="webaddress">
+<div id="webaddress">
 <a href="http://xrong.org">Home</a>
 | <a href="mailto:xrong@ccny.cuny.edu">Email</a>
 | <a href="/resume.pdf">Resume</a>
 | <a href="http://xrong.org/blog">Blog</a>
-</div> -->
+</div>
 
 
 ## About
