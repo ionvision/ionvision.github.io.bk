@@ -1,0 +1,232 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Classicthesis-Styled CV
+% LaTeX Template
+% Version 1.0 (22/2/13)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{scrartcl}
+
+\date{}
+
+\title{Resume}
+
+\reversemarginpar % Move the margin to the left of the page
+
+\newcommand{\MarginText}[1]{\marginpar{\ragged2e\itshape\small#1}} % New command defining the margin text style
+
+\usepackage{ragged2e}
+\justifying
+
+\sloppy
+
+\usepackage[nochapters]{classicthesis} % Use the classicthesis style for the style of the document
+\usepackage[LabelsAligned]{currvita} % Use the currvita style for the layout of the document
+
+\usepackage[top=0.5in, bottom=1in, left=1.25in, right=1.25in]{geometry}
+
+\renewcommand{\cvheadingfont}{\LARGE\color{Maroon}} % Font color of your name at the top
+
+\usepackage{hyperref} % Required for adding links	and customizing them
+\hypersetup{colorlinks, breaklinks, urlcolor=Maroon, linkcolor=Maroon} % Set link colors
+
+\newlength{\datebox}\settowidth{\datebox}{Spring 2014} % Set the width of the date box in each block
+
+\newcommand{\NewEntry}[3]{\noindent\hangindent=0em\hangafter=0 \parbox{\datebox}{\small \textit{#1}}\hspace{1.5em} #2 #3 % Define a command for each new block - change spacing and font sizes here: #1 is the left margin, #2 is the italic date field and #3 is the position/employer/location field
+\vspace{0.5em}} % Add some white space after each new entry
+
+\newcommand{\Description}[1]{\hangindent=0em\hangafter=0\noindent\raggedright\footnotesize{#1}\par\normalsize\vspace{1em}} % Define a command for descriptions of each entry - change spacing and font sizes here
+
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+\thispagestyle{empty} % Stop the page count at the bottom of the first page
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{cv}{\spacedallcaps{Xuejian Rong}}\vspace{2.0em} % Your name
+
+% \noindent\spacedlowsmallcaps{Personal Data}\vspace{0.5em} % Personal information heading
+
+%\NewEntry{}{\textit{Male, }\textit{ Born in China, }\textit{ 15 September 1992}} % Birthplace and date
+
+\NewEntry{email}{\href{mailto:xrong@ccny.cuny.edu}{xrong@ccny.cuny.edu}} % Email address
+
+\NewEntry{website}{\href{http://xrong.org}{http://xrong.org}} % Email address
+
+\NewEntry{phone}{(917)717-3986} % Phone number(s)
+
+\NewEntry{address}{Steinman Hall ST512, 160 Convent Avenue, New York, NY 10031} % Personal website
+
+\vspace{2.0em} % Extra white space between the personal information section and goal
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\noindent\spacedallcaps{Education}\vspace{0.8em}
+
+\noindent\NewEntry{09/2013-present}{The City College, City University of New York (CUNY), USA.}
+
+\Description{Ph.D. Candidate in Electrical Engineering \qquad Expected December 2018 \vspace{0.3em}
+\newline  Committee: \href{http://www-ee.ccny.cuny.edu/www/web/yltian/home.html}{Yingli Tian} (chair), Ioannis Stamos, Jizhong Xiao, Zhigang Zhu  \vspace{0.3em}
+\newline Research Focus: Computer Vision \& Image Processing \& Machine Learning}
+\noindent\NewEntry{09/2009-06/2013}{Nanjing University of Aeronautics and Astronautics (NUAA), China.}
+
+\Description{B.E. in Control Science and Engineering \qquad Outstanding Undergraduate Thesis Award}
+
+\vspace{2.0em} % Extra space between major sections
+
+%----------------------------------------------------------------------------------------
+%	Experiences
+%----------------------------------------------------------------------------------------
+
+\noindent\spacedallcaps{Research Experience}\vspace{0.8em}
+
+\noindent\NewEntry{2016-Present}{Visual-Linguistic Understanding on Scene Text Images}
+
+\Description{Designed new deep neural networks to model the relationship between the scene text instances and context concepts in surrounding environments, which results in better image captioning and visual question answering performance. The proposed framework connects and benefits the Natural Language Processing and Computer Vision research areas.}
+
+\noindent\NewEntry{2013-Present}{Scene Text Detection and Recognition in Natural Images}
+
+\Description{Designed new deep learning based inference algorithms for scene text detection, retrieval, and recognition in the wild, in the presence of image degradations like blur, distortion, noise, cluttered background, etc. Recognized texts in indoor environments usually carry important contextual information which could significantly assist the independent travel of blind or visually impaired persons.}
+
+\noindent\NewEntry{2014-2016}{Intelligent Navigation Aid for Visually Impaired Persons}
+
+\Description{Designed new image deblurring algorithms to remove the degradations in captured indoor videos, then adopted the deblurred videos to perform real-time indoor navigation and automatic destination recognition for the visually impaired people.}
+
+\noindent\NewEntry{2012-2013}{\textsc{Microsoft Kinect} based 3D Object Recognition for Remote Operation}
+
+\Description{Designed rendering algorithms to control the Haptic Interaction Point (HIP) to interact with virtual environments created by the depth images captured by \textsc{Kinect} (Microsoft Corp.)}
+
+\vspace{1.0em} % Extra space between major sections
+
+
+%----------------------------------------------------------------------------------------
+%	Experiences
+%----------------------------------------------------------------------------------------
+
+\noindent\spacedallcaps{Teaching Experience}\vspace{0.8em}
+
+\noindent\NewEntry{2017}{EE I2200 Digital Image Processing}
+
+\Description{Teaching Assistant, The City College, City University of New York.}
+
+\noindent\NewEntry{2017}{Deep Learning in Computer Vision}
+
+\Description{Lecturer, 800+ students, online course on \emph{ChinaHadoop}, the leading AI education platform in China.}
+
+\vspace{1.0em} % Extra space between major sections
+
+\clearpage
+
+%----------------------------------------------------------------------------------------
+%	Publication
+%----------------------------------------------------------------------------------------
+\noindent\spacedallcaps{Selected Publications}\vspace{0.8em}
+
+%----------------------------------------------------------------------------------------
+\Description{\scriptsize
+\textbf{Xuejian Rong}, Chucai Yi, and Yingli Tian. \textit{Unambiguous Text Localization, Retrieval, and Recognition for Cluttered Scenes}. IEEE Transactions on  Pattern Analysis and Machine Intelligence (\textbf{TPAMI}), 2017. (\textit{Summitted})}
+
+\Description{\scriptsize
+\textbf{Xuejian Rong}, Chucai Yi, and Yingli Tian. \textit{Unambiguous Text Localization and Retrieval for Cluttered Scenes}. IEEE Conference on Computer Vision and Pattern Recognition (\textbf{CVPR}), 2017. (\textit{Spotlight Presentation})}
+
+\Description{\scriptsize
+Yang Xian, \textbf{Xuejian Rong}, Xiaodong Yang, and Yingli Tian. \textit{Evaluation of Low-Level Features for Real-World Surveillance Event Detection}. IEEE Transactions on Circuits and Systems for Video Technology (\textbf{TCSVT}), 2017.}
+
+\Description{\scriptsize
+\textbf{Xuejian Rong}, Bing Li, Aris Arditi, and Yingli Tian. \textit{Guided Text Spotting for Assistive Blind Navigation in Unfamiliar Environments}. International Symposium on Visual Computing (\textbf{ISVC}), 2016. (\textit{Oral Presentation})}
+
+\Description{\scriptsize
+\textbf{Xuejian Rong} and Yingli Tian. \textit{Adaptive Shrinkage Cascades for Blind Image Deconvolution}. IEEE International Conference on Digital Signal Processing (\textbf{DSP}), 2016. (\textit{Oral Presentation})}
+
+\Description{\scriptsize
+Yuancheng Ye, \textbf{Xuejian Rong}, Xiaodong Yang, and Yingli Tian. \textit{Region Trajectories for Video Semantic Concept Detection}. ACM International Conference on Multimedia Retrieval (\textbf{ICMR}), 2016.}
+
+\Description{\scriptsize
+J. Pablo Munoz, Bing Li, \textbf{Xuejian Rong}, Jizhong Xiao, Yingli Tian, Aris Arditi. \textit{Demo: Assisting Visually Impaired People Navigate Indoors}. The 25th International Joint Conference on Artificial Intelligence (\textbf{IJCAI}), 2016.}
+
+% \Description{\scriptsize
+% Bing Li, Xiaochen Zhang, J. Pablo Munoz, Jizhong Xiao, \textbf{Xuejian Rong}, and Yingli Tian. \textit{Assisting Blind People to Avoid Obstacles: An Wearable Obstacle Stereo Feedback System based on 3D Detection}. IEEE International Conference on Robotics and Biomimetics (\textbf{ROBIO}), 2015.}
+
+\Description{\scriptsize
+\textbf{Xuejian Rong}, Chucai Yi, Xiaodong Yang, and Yingli Tian. \textit{Scene Text Recognition in Multiple Frames based on Text Tracking}. IEEE International Conference on Multimedia and Expo (\textbf{ICME}), 2014.}
+
+\Description{\scriptsize
+\textbf{Xuejian Rong}, Chucai Yi, Yingli Tian. \textit{Recognizing Text-based Traffic Guide Panels with Cascaded Localization Network}. ECCV Workshop on Computer Vision for Road Scene Understanding and Autonomous Driving (\textbf{CVRSUAD}), 2016.}
+
+\Description{\scriptsize
+Bing Li, J. Pablo Munoz, \textbf{Xuejian Rong}, Jizhong Xiao, Yingli Tian, Aris Arditi. \textit{ISANA: Wearable Context-Aware Indoor Assistive Navigation with Obstacle Avoidance for the Blind}. \scriptsize{ECCV Workshop on Assistive Computer Vision and Robotics} (\textbf{ACVR}), 2016.}
+
+% \Description{R. Munoz, \textbf{X. Rong}, and Y. Tian. \textit{Depth-aware Indoor Staircase Detection and Recognition for the Visually Impaired}. ICME Workshop on Mobile Multimedia Computing (\textbf{MMC}), 2016.}
+
+\vspace{1.0em} % Extra space between major sectionsddfsdfsdfsdf
+
+
+%----------------------------------------------------------------------------------------
+%	Honor & Awards
+%----------------------------------------------------------------------------------------
+
+\noindent\spacedallcaps{Academic Honors}\vspace{0.8em}
+
+\NewEntry{2017}{IEEE CVPR, Spotlight Presentation on Scene Text Extraction}
+
+\NewEntry{2016}{IEEE ICME, Doctoral Consortium Travel Award}
+
+\NewEntry{2013-2017}{Graduate Research Fellowship, CUNY}
+
+\NewEntry{2013}{Outstanding Thesis Award, NUAA}
+
+% \NewEntry{2009-2012}{First Class Academic Scholarship, NUAA}
+
+\vspace{1.0em} % Extra space between major sections
+
+
+
+%----------------------------------------------------------------------------------------
+%	Technical SKILLS
+%----------------------------------------------------------------------------------------
+
+\spacedallcaps{Skills}\vspace{1.2em}
+
+\NewEntry{Programming Languages}{C, C++, Python, Matlab, and Shell with practical experiences}
+
+\vspace{0.5em} % Extra space between major sections
+
+\NewEntry{Tools}{OpenCV, PyTorch, TensorFlow, PyCharm, \LaTeX, GNU Linux}
+
+\vspace{1.0em} % Extra space between major sections
+
+%----------------------------------------------------------------------------------------
+%	Language
+%----------------------------------------------------------------------------------------
+
+\spacedallcaps{Professional Activities}\vspace{0.8em}
+
+% \NewEntry{.}
+\NewEntry{Reviewer}{CVPR, ICCV, BMVC, ICIP, ICME, ICDAR, TMM, TIP, MVA, JVCI, etc.}
+
+\vspace{1.0em} % Extra space between major sections
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	Language
+%----------------------------------------------------------------------------------------
+\spacedallcaps{References}\vspace{0.8em}
+
+% \NewEntry{.}
+\NewEntry{Yingli Tian}{Professor, IEEE Fellow, CUNY. {\tt ytian@ccny.cuny.edu}}
+
+\NewEntry{Xiaodong Yang}{Research Scientist, NVIDIA Research. {\tt xiaodongy@nvidia.com}}
+
+\NewEntry{Chucai Yi}{Research Engineer, HERE Maps. {\tt chucai.yi@here.com}}
+
+%----------------------------------------------------------------------------------------
+
+\end{cv}
+
+\end{document}
+\grid
