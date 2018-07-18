@@ -12,6 +12,5 @@ Currently my research interests mainly focus on inference and learning for scene
 
 > `03/2017` One (spotlight) paper on scene text localization and retrieval to appear at [CVPR 2017](http://cvpr2017.thecvf.com).
 
-> `12/2016` Thanks to NVIDIA for supporting my research with an NVIDIA GPU Grant.
+> `01/2017` Thanks to NVIDIA for supporting my research with an NVIDIA GPU Grant.
 
-> `07/2016` Won [ICME 2016](http://www.icme2016.org/) Student Travel Award from NSF.
