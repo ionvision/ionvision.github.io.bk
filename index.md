@@ -8,7 +8,7 @@ For now I am a Ph.D. candidate in [Media Lab](http://media-lab.ccny.cuny.edu) of
 Currently my research interests mainly focus on inference and learning for scene text detection and recognition in the wild, in the presence of image degradations like blur, distortion, noise, etc.
 
 ## News
-> `04/2018` Will work in Siemens Corporate Research as a research intern in the summer.
+> `04/2018` Will work in Siemens Corporate Research as a research intern till December.
 
 > `03/2017` One (spotlight) paper on scene text localization and retrieval to appear at [CVPR 2017](http://cvpr2017.thecvf.com).
 
