@@ -1,0 +1,215 @@
+
+<!-- saved from url=(0055)https://people.eecs.berkeley.edu/~bmild/kpn/real_0.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" class=" chrome-clearly-theme-default"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<title>Burst Imaging Results</title>
+<script src="./burst_files/jquery-1.8.3.min.js"></script>
+<script src="./burst_files/jquery.elevatezoom.js"></script>
+<script src="./burst_files/compare.js"></script>
+<link rel="stylesheet" type="text/css" href="./burst_files/comparison.css">
+<link rel="stylesheet" href="./burst_files/font.css">
+<style type="text/css">
+@font-face {
+  font-family: 'Avenir Next CE';
+  src: url("chrome-extension://facncfnojagdpibmijfjdmhkklabakgd/assets/fonts/AvenirNextLTW01-Medium/1a7c9181-cd24-4943-a9d9-d033189524e0.eot") format("eot"), url("chrome-extension://facncfnojagdpibmijfjdmhkklabakgd/assets/fonts/AvenirNextLTW01-Medium/f26faddb-86cc-4477-a253-1e1287684336.woff") format("woff"), url("chrome-extension://facncfnojagdpibmijfjdmhkklabakgd/assets/fonts/AvenirNextLTW01-Medium/63a74598-733c-4d0c-bd91-b01bffcd6e69.ttf") format("ttf"), url("chrome-extension://facncfnojagdpibmijfjdmhkklabakgd/assets/fonts/AvenirNextLTW01-Medium/627fbb5a-3bae-4cd9-b617-2f923e29d55e.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'Avenir Next CE';
+  font-weight: 600;
+  src: url("chrome-extension://facncfnojagdpibmijfjdmhkklabakgd/assets/fonts/AvenirNextLTW01-Demi/12d643f2-3899-49d5-a85b-ff430f5fad15.eot") format("eot"), url("chrome-extension://facncfnojagdpibmijfjdmhkklabakgd/assets/fonts/AvenirNextLTW01-Demi/91b50bbb-9aa1-4d54-9159-ec6f19d14a7c.woff") format("woff"), url("chrome-extension://facncfnojagdpibmijfjdmhkklabakgd/assets/fonts/AvenirNextLTW01-Demi/a0f4c2f9-8a42-4786-ad00-fce42b57b148.ttf") format("ttf"), url("chrome-extension://facncfnojagdpibmijfjdmhkklabakgd/assets/fonts/AvenirNextLTW01-Demi/aad99a1f-7917-4dd6-bbb5-b07cedbff64f.woff2") format("woff2");
+}
+</style></head>
+<body style="">
+
+<center>
+<h1><a href="https://people.eecs.berkeley.edu/~bmild/kpn/index.html">Burst Denoising with Kernel Prediction Networks</a></h1>
+<h2>Supplemental Material — Real cellphone bursts</h2>
+<a href="https://people.eecs.berkeley.edu/~bmild/kpn/real_0.html">Kitchen</a> /
+<a href="https://people.eecs.berkeley.edu/~bmild/kpn/real_1.html">Piano</a> /
+<a href="https://people.eecs.berkeley.edu/~bmild/kpn/real_2.html">Fire</a> /
+<a href="https://people.eecs.berkeley.edu/~bmild/kpn/real_3.html">Puzzle</a> /
+<a href="https://people.eecs.berkeley.edu/~bmild/kpn/real_4.html">Garden</a> /
+<a href="https://people.eecs.berkeley.edu/~bmild/kpn/real_5.html">Shoes</a>
+<hr>
+
+<h3>Kitchen</h3>
+<table>
+	<tbody><tr>
+		<th>
+			<a href="./burst_files/img_0_0_ref.png"> <img id="viewer" onload="setBorder(this);" src="./burst_files/img_0_0_ref.png" width="890px" style="border-color: black;"></a>
+			<br>
+		</th>
+		<th width="180">
+			<p class="thumbnail_title">Ref. frame</p>
+			<img class="thumbnail" id="img1" onload="setBorder(this);" src="./burst_files/img_0_0_ref.png" onclick="replaceImage(this,viewer);" style="border-color: black;">
+
+			<p class="thumbnail_title">Average</p>
+			<img class="thumbnail" id="img2" onload="setBorder(this);" src="./burst_files/img_0_1_avg.png" onclick="replaceImage(this,viewer);" style="border-color: rgb(51, 136, 255);">
+
+			<p class="thumbnail_title">HDR+</p>
+			<img class="thumbnail" id="img3" onload="setBorder(this);" src="./burst_files/img_0_2_hdrplus.png" onclick="replaceImage(this,viewer);" style="border-color: rgb(34, 68, 170);">
+		<!-- </th>
+		<th width="180"> -->
+			<p class="thumbnail_title">NLM</p>
+			<img class="thumbnail" id="img4" onload="setBorder(this);" src="./burst_files/img_0_3_nlm.png" onclick="replaceImage(this,viewer);" style="border-color: rgb(255, 221, 0);">
+
+			<p class="thumbnail_title">VBM4D</p>
+			<img class="thumbnail" id="img5" onload="setBorder(this);" src="./burst_files/img_0_4_vbm4d.png" onclick="replaceImage(this,viewer);" style="border-color: rgb(204, 92, 0);">
+		<!-- </th>
+		<th width="180"> -->
+			<p class="thumbnail_title">Ours (KPN)</p>
+			<img class="thumbnail" id="img6" onload="setBorder(this);" src="./burst_files/img_0_5_ours_kpn.png" onclick="replaceImage(this,viewer);" style="border-color: rgb(0, 153, 51);">
+		</th>
+	</tr>
+</tbody></table>
+<p>You can cycle through the images by pressing '1' to '6'.</p>
+<p>This burst consists of 8 photos taken on a Nexus 6P cellphone.</p>
+<p>Interface adapted from <a href="http://jankautz.com/supplemental/FlexISP/">here</a></p>
+<hr>
+
+<script>
+document.onready = function() { 
+	$("#viewer").elevateZoom(); // start zoom
+	setTimeout(function() { replaceImage(img1,viewer); }, 500); // make sure everything is loaded and set image
+}
+document.onkeydown = keyHandler;
+</script>
+
+
+
+
+</center><div class="zoomContainer" style="transform: translateZ(0px); position: absolute; left: 11px; top: 216.188px; height: 660px; width: 890px; margin: 5px; overflow: hidden;"><div class="zoomLens" style="background-position: -1715.85px 119.194px; float: left; border: 1px solid rgb(255, 255, 255); width: 300px; height: 300px; background-repeat: no-repeat; position: absolute; background-image: url(&quot;images/real_supp/img_0_0_ref.png&quot;); left: 687px; top: -137px; display: none;">&nbsp;</div><div class="zoomWindowContainer" style="width: 400px;"><div style="z-index: 999; top: 0px; left: 900px;" class="zoomWindow">&nbsp;</div></div></div></body>
+<div id="chrome-clearly-root">
+  <div id="chrome-clearly-popshare">
+    <canvas id="chrome-clearly-popshare-image"></canvas>
+  </div>
+  <div id="chrome-clearly-poptranslate">
+    <div id="chrome-clearly-poptranslate-toolbox">
+    <span>Translation language:</span> <select id="chrome-clearly-poptranslate-lang"><option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="az">Azerbaijani</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="en">English</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="ko">Korean</option><option value="ku">Kurdish (Kurmanji)</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="gd">Scots Gaelic</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="te">Telugu</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option></select>
+    </div>
+    <div id="chrome-clearly-poptranslate-content">
+      <div id="chrome-clearly-poptranslate-word"></div>
+      <div id="chrome-clearly-poptranslate-voice">
+        <i class="material-icons" id="chrome-clearly-poptranslate-btn-speak">volume_up</i>
+        <span></span>
+      </div>
+      <div id="chrome-clearly-poptranslate-explain"></div>
+      <div id="chrome-clearly-poptranslate-translit"></div>
+      <div id="chrome-clearly-poptranslate-dict"></div>
+    </div>
+  </div>
+  <div id="chrome-clearly-popmenu">
+    <li id="chrome-clearly-popmenu-translate">Translate</li>
+    <li id="chrome-clearly-popmenu-copy">Copy</li>
+    <!--<li id="chrome-clearly-popmenu-share">Share</li>-->
+  </div>
+  <div id="chrome-clearly-outline" class="chrome-clearly-font-system"></div>
+  <div id="chrome-clearly-main" class="chrome-clearly-font-system">
+    <div id="chrome-clearly-title"></div>
+    <div id="chrome-clearly-byline"><span>About</span> <span id="chrome-clearly-value-readmin">0</span> Minutes</div>
+    <div id="chrome-clearly-content" style="zoom: 1;"></div>
+
+    <div id="chrome-clearly-footer">
+      <div id="chrome-clearly-share" class="chrome-clearly-share">
+        <span class="chrome-clearly-share-title">Does Clearly work fine?</span>
+        <div id="chrome-clearly-share-default" class="chrome-clearly-share-overlay" style="display: block;">
+            <i id="chrome-clearly-btn-thumb-up" class="material-icons chrome-clearly-thumb chrome-clearly-thumb-up">thumb_up</i>
+            <i id="chrome-clearly-btn-thumb-down" class="material-icons chrome-clearly-thumb chrome-clearly-thumb-down">thumb_down</i>
+        </div>
+        <div id="chrome-clearly-share-no" class="chrome-clearly-share-overlay" style="display: none;">
+          <span class="chrome-clearly-share-letter">We have received your feedback</span>
+          <a "chrome-clearly-btn-cantact"="" href="https://clearly.lesslab.net/r/chrome-support" target="_blank"><i class="material-icons">mail_outline</i>Contact us</a>
+        </div>
+        <div id="chrome-clearly-share-yes" class="chrome-clearly-share-overlay" style="display: none;">
+          <span class="chrome-clearly-share-letter">How is your experience with Clearly&#65311;</span>
+          <a id="chrome-clearly-btn-comments" href="https://clearly.lesslab.net/r/chrome-review" target="_blank"><i class="material-icons">star_border</i>Give stars</a>
+        </div>
+      </div>
+
+      <div class="chrome-clearly-moretips">
+      <span class="chrome-clearly-shortcut">Shortcuts: <strong>SHIFT+CTRL+C</strong> to Toggle, <strong>ESC</strong> to Close.</span>
+      <a class="chrome-clearly-feedback" target="_blank" href="https://clearly.lesslab.net/r/subscribe"><i class="material-icons">mail</i>Join maillist</a>
+      <a class="chrome-clearly-donate" target="_blank" href="https://clearly.lesslab.net/r/donate"><i class="material-icons">favorite</i>Donate</a>
+      </div>
+
+      <span class="chrome-clearly-lover"> <span>Build upon &#10084; with Clearly</span><a target="_blank" class="chrome-clearly-footer-feedback" href="https://clearly.lesslab.net/r/feedback">Feedback</a></span>
+    </div>
+
+  </div>
+  <div id="chrome-clearly-tool">
+      <!--
+      <div class="chrome-clearly-menu">
+        <div class="chrome-clearly-form-group">
+          <span class="chrome-clearly-btn" id="chrome-clearly-translate-start">&#24320;&#22987;</span>
+        </div>
+      </div>
+      -->
+
+    <div class="chrome-clearly-menu">
+      <span id="chrome-clearly-btn-close"><i class="material-icons">cancel</i></span>
+    </div>
+
+    <div class="chrome-clearly-menu" chrome-clearly-menu-tooltip="STYLE">
+      <span id="chrome-clearly-btn-style"></span>
+    </div>
+
+    <div class="chrome-clearly-dialog" id="chrome-clearly-dialog-style">
+       <div class="chrome-clearly-overlay-backdrop">
+            <div class="chrome-clearly-setting">
+                <div class="chrome-clearly-dialog-title">STYLE</div>
+                <div class="chrome-clearly-dialog-btn-close"><i class="material-icons">close</i></div>
+
+                <div class="chrome-clearly-tcell">
+                  <div class="chrome-clearly-form-label"><span id="chrome-clearly-value-zoom" class="chrome-clearly-form-value">100%</span>Font size</div>
+                  <div class="chrome-clearly-form-group">
+                    <span class="chrome-clearly-btn-letter" id="chrome-clearly-btn-zoomin">A</span>
+                    <span class="chrome-clearly-btn-letter" id="chrome-clearly-btn-zoomout">A</span>
+                  </div>
+                </div>
+
+                <div class="chrome-clearly-tcell">
+                  <div class="chrome-clearly-form-label">Themes</div>
+                  <div class="chrome-clearly-form-group">
+                    <span class="chrome-clearly-btn chrome-clearly-btn-theme-default chrome-clearly-btn-selected"></span>
+                    <span class="chrome-clearly-btn chrome-clearly-btn-theme-yellow"></span>
+                    <span class="chrome-clearly-btn chrome-clearly-btn-theme-gray"></span>
+                    <span class="chrome-clearly-btn chrome-clearly-btn-theme-black"></span>
+                  </div>
+                </div>
+
+                <div class="chrome-clearly-tcell">
+                  <div class="chrome-clearly-form-label">Fonts</div>
+                  <div id="chrome-clearly-font-select-style" class="chrome-clearly-form-group"><span data-font="lora" class="chrome-clearly-font-lora chrome-clearly-font-selected">Lora</span><span data-font="notoserif" class="chrome-clearly-font-notoserif">NotoSerif</span><span data-font="crimsontext" class="chrome-clearly-font-crimsontext">Crimson Text</span><span data-font="georgia" class="chrome-clearly-font-georgia">Georgia</span><span data-font="roboto" class="chrome-clearly-font-roboto">Roboto</span><span data-font="system" class="chrome-clearly-font-system">System</span></div>
+                </div>
+
+                <div class="chrome-clearly-tcell">
+                  <div class="chrome-clearly-form-label">Outline</div>
+                  <div class="chrome-clearly-form-group">
+                    <div id="chrome-clearly-switch-outline" class="chrome-clearly-switch s-on">
+                        <span class="chrome-clearly-slider"></span>
+                    </div>
+                  </div>
+                </div>
+            </div>
+         </div>
+      </div>
+
+
+    <!--div class="chrome-clearly-menu" id="chrome-clearly-menu-translate" chrome-clearly-menu-tooltip="TRANSLATE">
+        <span><i class="material-icons" id="chrome-clearly-menu-translate-icon">translate</i></span>
+    </div-->
+
+    <div class="chrome-clearly-menu" id="chrome-clearly-menu-speak" chrome-clearly-menu-tooltip="AUDIO">
+        <span><i class="material-icons" id="chrome-clearly-menu-speak-icon">volume_down</i></span>
+            <!--
+            <span class="chrome-clearly-btn" id="chrome-clearly-btn-speak-pause" style="display:none"><i class="fa fa-pause"></i></span>
+            <span class="chrome-clearly-btn" id="chrome-clearly-btn-speak-resume" style="display:none"><i class="fa fa-play"></i></span>
+            <span class="chrome-clearly-btn" id="chrome-clearly-btn-speak-stop" style="display:none"><i class="fa fa-stop"></i></span>
+            -->
+    </div>
+
+    <div class="chrome-clearly-menu" id="chrome-clearly-menu-fullscreen" chrome-clearly-menu-tooltip="FULLSCREEN">
+        <span><i class="material-icons" id="chrome-clearly-menu-fullscreen-icon">fullscreen</i></span>
+    </div>
+  </div>
+</div></html>
