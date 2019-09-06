@@ -1,0 +1,102 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Classicthesis-Styled CV
+% LaTeX Template
+% Version 1.0 (22/2/13)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{scrartcl}
+
+\date{}
+
+\title{Resume}
+
+\reversemarginpar % Move the margin to the left of the page
+
+\newcommand{\MarginText}[1]{\marginpar{\ragged2e\itshape\small#1}} % New command defining the margin text style
+
+\usepackage{ragged2e}
+\justifying
+
+\sloppy
+
+\usepackage[nochapters]{classicthesis} % Use the classicthesis style for the style of the document
+\usepackage[LabelsAligned]{currvita} % Use the currvita style for the layout of the document
+
+\usepackage[top=0.5in, bottom=1in, left=1.25in, right=1.25in]{geometry}
+
+\renewcommand{\cvheadingfont}{\LARGE\color{Maroon}} % Font color of your name at the top
+
+\usepackage{hyperref} % Required for adding links	and customizing them
+\hypersetup{colorlinks, breaklinks, urlcolor=Maroon, linkcolor=Maroon} % Set link colors
+
+\newlength{\datebox}\settowidth{\datebox}{Spring 2014} % Set the width of the date box in each block
+
+\newcommand{\NewEntry}[3]{\noindent\hangindent=0em\hangafter=0 \parbox{\datebox}{\small \textit{#1}}\hspace{1.5em} #2 #3 % Define a command for each new block - change spacing and font sizes here: #1 is the left margin, #2 is the italic date field and #3 is the position/employer/location field
+\vspace{0.5em}} % Add some white space after each new entry
+
+\newcommand{\Description}[1]{\hangindent=0em\hangafter=0\noindent\raggedright\footnotesize{#1}\par\normalsize\vspace{1em}} % Define a command for descriptions of each entry - change spacing and font sizes here
+
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+\thispagestyle{empty} % Stop the page count at the bottom of the first page
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{cv}{\spacedallcaps{Xuejian Rong}}\vspace{2.0em} % Your name
+
+
+\NewEntry{email}{\href{mailto:xrong@ccny.cuny.edu}{xrong@ccny.cuny.edu}} % Email address
+
+\NewEntry{website}{\href{http://xrong.org}{http://xrong.org}} % Email address
+
+\NewEntry{phone}{(917)717-3986} % Phone number(s)
+
+\NewEntry{address}{Steinman Hall ST512, 160 Convent Avenue, New York, NY 10031} % Personal website
+
+\vspace{4.0em} % Extra white space between the personal information section and goal
+
+\noindent\spacedlowsmallcaps{January 16, 2018.}\vspace{0.5em}\\
+\noindentD{Dear Disney Research Recruiting Manager,}\vspace{0.5em}\\
+
+I am writing to express my interest in the 2018 summer internship position in Disney Research. Currently, I am a fifth year Ph.D. student in City University of New York, working with Prof. \href{http://www-ee.ccny.cuny.edu/wwwn/yltian/home.html}{Yingli Tian} in the area of Computer Vision and Machine Learning. I am confident my 4+ years of research experience would allow me to contribute to the interesting projects at Disney Research.
+
+\vspace{1em} % Extra space between major sections
+
+Previously, I have worked on several relevant projects that provided me with the skill sets I need to be an effective Computer Vision researcher. These projects have included: visual-linguistic understanding on scene text images, scene text detection and recognition in natural images, intelligent navigation aid for visual impaired persons, natural image deblurring, and 3D object recognition for remote operation.
+
+\vspace{1em}
+
+I would be excited to join the Disney Research as an intern. The corporate laboratory has exceptional appeal for me because of its exploration in the fields of computer vision, machine learning, artificial intelligence, and augmented reality. And I hope being able to contribute to that with the senior researchers.
+
+\vspace{1em}
+
+Thank you for your time and consideration. More detail could be found in my resume, and I look forward to the opportunity to speak with you and discuss more on the position.
+
+\vspace{2em}
+
+Sincerely,
+
+\vspace{1em}
+
+Xuejian Rong
+
+
+% \spacedallcaps{Professional Activities}\vspace{0.8em}
+
+% \NewEntry{Reviewer}{CVPR, ICCV, BMVC, ICIP, ICME, ICDAR, TMM, TIP, MVA, JVCI, etc.}
+
+% \vspace{1.0em} % Extra space between major sections
+
+
+% \spacedallcaps{Reference}\vspace{0.8em}
+
+% \NewEntry{Yingli Tian}{Professor, The City University of New York. \tt{ytian@ccny.cuny.edu}.}
+%----------------------------------------------------------------------------------------
+
+\end{cv}
+
+\end{document}
+\grid
